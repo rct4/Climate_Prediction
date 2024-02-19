@@ -1,0 +1,1983 @@
+Date,Time,Area Affected,Event Type
+2002-01-30 00:00:00,06:00:00,Oklahoma,Ice Storm
+2002-01-29 00:00:00,Evening,Metropolitan Kansas City Area,Ice Storm
+2002-01-30 00:00:00,16:00:00,Missouri,Ice Storm
+2002-02-27 00:00:00,10:48:00,California,Interruption of Firm Load
+2002-03-09 00:00:00,00:00:00,Lower Peninsula of Michigan,Severe Weather
+2002-04-08 00:00:00,15:00:00,Arizona,Vandalism/
+2002-07-09 00:00:00,12:27:00,California,Interruption of Firm Power
+2002-07-19 00:00:00,11:51:00,California,Interruption of Firm Power (Unit Tripped)
+2002-07-20 00:00:00,12:40:00,New York,Fire
+2002-08-02 00:00:00,12:43:00,Illinois,Interruption of Firm Power
+2002-08-09 00:00:00,08:23:00,Florida,Interruption of Firm Power
+2002-08-25 00:00:00,03:41:00,California,Interruption of Firm Power
+2002-08-28 00:00:00,14:09:00,Florida,Severe Weather
+2002-10-03 00:00:00,03:33:00,Coastal Areas of Southern Louisiana,Hurricane Lily
+2002-11-06 00:00:00,22:00:00,Northern and Central California,Winter Storm
+2002-11-17 00:00:00,15:48:00,"Northport, NY",Cable Tripped
+2002-11-17 00:00:00,06:00:00,Northwest and North Central Connecticut,Ice Storm
+2002-12-03 00:00:00,18:30:00,Arkansas,Ice Storm
+2002-12-11 00:00:00,13:09:00,Northern Virginia to Fredericksburg,Winter Storm
+2002-12-14 00:00:00,11:00:00,Northern and Central California,Winter Storm
+2002-12-19 00:00:00,06:00:00,Northern and Central California,Winter Storm
+2002-12-25 00:00:00,17:00:00,Eastern Pennsylvania,Winter Storm
+2002-12-25 00:00:00,10:00:00,"Reading, York, Hanover, Hamburg Pennsylvania",Winter Storm
+2003-01-25 00:00:00,2:00 p.m.,"Cincinnati, Ohio",Cyber Threat From Internet 
+2003-02-27 00:00:00,11:32 a.m.,"Piedmont, North Carolina",Winter Ice Storm
+2003-04-03 00:00:00,7:00 p.m.,Lower Michigan Peninsula ,Ice Storm
+2003-04-04 00:00:00,3:11 a.m.,"New York, ",Severe Storm 
+2003-04-15 00:00:00,11:00 a.m.,"Cities of Bryan,",Relaying Malfunction
+2003-04-28 00:00:00,3:41 p.m.,"County of Waukesha,  Wisconsin, ",Vandalism
+2003-05-02 00:00:00,5:00 p.m.,"Piedmont, North and",Severe Thunderstorms
+2003-05-02 00:00:00,8:00 p.m.,"Central Georgia,",Severe Thunderstorms
+2003-05-15 00:00:00,2:52 a.m.,North Texas,Interruption of Firm 
+2003-05-15 00:00:00,2:00 p.m.,Upper Michigan Peninsula,Flood
+2003-06-15 00:00:00,3:12 p.m.,Idaho,Public Appeal 
+2003-06-30 00:00:00,1:00 p.m.,Coastal areas of,Tropical Storm Bill
+2003-07-01 00:00:00,3:15 p.m.,"Phoenix, Arizona",Breaker Failure
+2003-07-02 00:00:00,1:54 p.m.,Northern California,Unit Tripped
+2003-07-04 00:00:00,6:00 a.m.,Southeast Wisconsin,Severe Thunderstorms
+2003-07-04 00:00:00,9:00 a.m.,Lower Michigan Peninsula,Severe Thunderstorms
+2003-07-04 00:00:00,11:41 p.m.,"Southwest Ohio, portions of Indiana",Severe Storms
+2003-07-05 00:00:00,3:00 a.m.,Northern Illinois,Severe Storms
+2003-07-07 00:00:00,9:00 a.m.,Northern Illinois,Severe Thunderstorms
+2003-07-08 00:00:00,4:00 a.m.,Ohio,Severe Thunderstorms
+2003-07-09 00:00:00,5:14 p.m.,Northern Central and Eastern Virginia,Severe Thunderstorms
+2003-07-15 00:00:00,8:24 a.m.,Texas,Hurricane Claudette
+2003-07-21 00:00:00,5:15 p.m.,Pennsylvania,Severe Storms
+2003-07-28 00:00:00,6:55 p.m.,Arizona,Breaker Closed
+2003-08-14 00:00:00,Approximately 3:00 p.m.,Geographic areas for MISO Reliability Coordination footprint:  Michigan and Ohio,Unknown *
+2003-08-14 00:00:00,4:09 p.m.,Southeastern Michigan including all of Detroit,Unknown *
+2003-08-14 00:00:00,4:09 p.m.,"Southern Lower  Michigan and small areas near Flint, Alma, Saginaw, and Lansing Michigan",Unknown *
+2003-08-14 00:00:00,4:10 p.m.,"Northeast, Ohio",Unknown *
+2003-08-14 00:00:00,4:10 p.m.,Southwestern Connecticut and a small portion of Western Massachusetts and Vermont,Unknown *
+2003-08-14 00:00:00,4:10 p.m.,New York State,Unknown *
+2003-08-14 00:00:00,4:10 p.m.,"New York- Buffalo to Albany; Ontario, Canada to Pennsylvania",Unknown *
+2003-08-14 00:00:00,4:10 p.m.,"Northern New Jersey Erie, Pennsylvania  area",Unknown *
+2003-08-14 00:00:00,4:11 p.m.,Entire Con Edison System (five boroughs of NYC and Westchester County),Unknown *
+2003-08-26 00:00:00,4:00 p.m.,"Maryland: Anne Arundel County, Baltimore County, Calvert County, Carroll County, Howard County, Montgomery County,  Prince George's and Baltimore City.",Severe Thunderstorms
+2003-08-26 00:00:00,4:22 p.m.,"Washington, D.C.,  Montgomery County,  Prince Georges County, Maryland",Severe Thunderstorms
+2003-09-07 00:00:00,5:19 a.m.,Upper Michigan Peninsula,Transmission  Equipment
+2003-09-18 00:00:00,8:20 a.m.,"North Eastern North Carolina, Eastern Central , and Northern Virginia",Hurricane Isabel
+2003-09-18 00:00:00,11:45 a.m.,Eastern North Carolina,Hurricane Isabel
+2003-09-18 00:00:00,12:00 noon,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Hartford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",Hurricane Isabel
+2003-09-18 00:00:00,2:00 p.m.,"Maryland, West Virginia, Virginia and Pennsylvania",Hurricane Isabel
+2003-09-18 00:00:00,3:32 p.m.,Triangle and Tridad (Greensboro – High Point)  Areas North Carolina - Northern Region,Hurricane Isabel
+2003-09-18 00:00:00,4:20 p.m.,"District of Columbia, Montgomery and Prince George's Counties, Maryland",Hurricane Isabel
+2003-09-18 00:00:00,9:00 p.m.,"All PPL including: Williamsport, Harrisburg, Lancaster, Scranton and Allentown areas",Hurricane Isabel
+2003-10-26 00:00:00,1:44 a.m.,"San Diego County, California",Wild Fire
+2003-11-05 00:00:00,3:16 p.m.,Maryland/Virginia border,Tornado
+2003-11-12 00:00:00,5:00 p.m.,Lower Michigan Peninsula,Wind Storm
+2003-11-12 00:00:00,5:00 p.m.,Northern Illinois,High Winds
+2003-11-12 00:00:00,6:00 p.m.,Southeastern Michigan,Storm with High Winds
+2003-11-13 00:00:00,6:00 a.m.,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Harford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",High Winds
+2003-11-13 00:00:00,7:30 a.m.,New York,Storm with High Winds
+2003-11-13 00:00:00,11:00 a.m.,"Washington, D.C., Montgomery County, Prince Georges County, Md",Major Wind Storm
+2003-11-13 00:00:00,1:40 p.m.,"Northern Virginia, Richmond area, Eastern Virginia",Wind Storm
+2003-12-01 00:00:00,6:16 p.m.,Cape Cod and part of SE Massachusetts,Wild Fire – Transmission Equipment
+2003-12-04 00:00:00,7:00 a.m.,Eastern portions of King County and Pierce County,High Winds
+2003-12-04 00:00:00,10:34 p.m.,Northeast Wisconsin and Central/Western Upper Peninsula of Michigan,Fault on 138 KV line
+2003-12-04 00:00:00,10:15 p.m.,Upper Peninsula of Michigan and Northeastern Wisconsin,Fault on 138 KV line
+2003-12-05 00:00:00,4:49 a.m.,State of Florida - Dade County,Transmission Equipment
+2003-12-05 00:00:00,7:00 a.m.,Northeast Wisconsin and Central/Western Upper Peninsula of Michigan,Transmission Equipment
+2003-12-20 00:00:00,3:51 p.m.,"San Francisco, California",Cable Failure
+2003-12-22 00:00:00,11:15 a.m.,Central California Coast,Earthquake
+2003-12-28 00:00:00,9:00 p.m.,Northern California,Winter Storm
+2004-01-01 00:00:00,7:30 a.m.,Northern California,Winter Storm
+2004-01-07 00:00:00,Midnight,King County,Snow Storm
+2004-01-08 00:00:00,3:00 p.m.,"Lake Placid/Saranac, New York",Public Appeal to Reduce Load
+2004-01-14 00:00:00,6:00 a.m.,"Lake Placid/Saranac, New York",Public Appeal to Reduce Load
+2004-01-26 00:00:00,10:00 a.m.,Central South Carolina,Ice Storm
+2004-01-26 00:00:00,2:00 p.m.,North and Central area of Georgia,Ice Storm
+2004-01-26 00:00:00,4:00 p.m.,Central and Eastern North Carolina and Northern and Eastern South Carolina,Ice Storm
+2004-01-28 00:00:00,1:09 p.m. ,"Harford County, Maryland",Ice Storm
+2004-02-05 00:00:00,8:00 p.m.,"Maryland, Southeastern West Virginia, Northern Virginia, Northern Pennsylvania and South Central Pennsylvania",Ice Storm
+2004-02-14 00:00:00,8:00 p.m.,"Lake Colby, Lake Placid, Tupper Lake",Public Appeal to Reduce Load
+2004-02-17 00:00:00,2:25 p.m.,"San Francisco Bay area, California",Lightning struck Intertie Breaker 
+2004-02-25 00:00:00,12:01 a.m.  ,Northern California,Winter Storm
+2004-02-26 00:00:00,12:00 a.m.,Georgia,Severe Storm
+2004-03-04 00:00:00,5:00 a.m.,North Texas,High Winds - Severe Storm
+2004-03-07 00:00:00,6:30 p.m.,North and South Carolina,Severe Storm
+2004-03-08 00:00:00,6:22 p.m.,Southern California not including LA,Inadequate Resources
+2004-03-17 00:00:00,1:27 p.m. ,"El Paso, Texas",Faulty Switch
+2004-04-10 00:00:00,8:00 p.m.,"Houston, Texas and surrounding suburban areas",Thunderstorms
+2004-04-12 00:00:00,5:30 a.m. ,FPL's service territory mostly in Naples and Ft. Myers Florida,Storm with High Winds
+2004-04-27 00:00:00,12:35 p.m.,Snohomish County Washington,Strong Winds
+2004-05-03 00:00:00,2:30 p.m.,Central and Southern California,Heat Storm
+2004-05-11 00:00:00,3:30 p.m.,"Houston, Texas and surrounding suburban areas",Strong Thunderstorms
+2004-05-21 00:00:00,2:00 a.m.,Akron and Youngstown areas,Severe Thunderstorms
+2004-05-21 00:00:00,2:00 a.m.,Cleveland area,Severe Thunderstorms
+2004-05-21 00:00:00,5:30 a.m. ,"Western Pennsylvania, Northern West Virginia, Western Maryland, Northern Virginia",High Winds and Heavy Rains
+2004-05-21 00:00:00,11:00 a.m.,"Northern and Southern Michigan, AEP Fort Wayne/Michigan Region, Buchanan, Elkhart, New Buffalo, South Bend, St. Joseph, Three Rivers areas",Severe Thunderstorms
+2004-05-21 00:00:00,1:00 p.m.,"Lower peninsula of Michigan following cities:  Grand Rapids, Kalamazoo, Battle Creek, Jackson, Bronson, Jonesville, Flint",Severe Thunderstorms
+2004-05-21 00:00:00,4:00  p.m.,Southeast Michigan,Severe Thunderstorms
+2004-05-28 00:00:00,12:00 p.m.,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",Public Appeals
+2004-05-28 00:00:00,12:00 p.m.,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",Public Appeals
+2004-05-28 00:00:00,12:00 p.m.,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",Public Appeals 
+2004-06-01 00:00:00,5:00 p.m.,"Collin, Dallas, Denton, Ellis, Parker, and Tarrant Counties, Texas ",Severe Storms with Strong Winds
+2004-06-02 00:00:00,1:46 a.m.,"Shreveport, Louisiana",Severe  Thunderstorms with Strong Winds
+2004-06-02 00:00:00,2:35 a.m.,"Tulsa, Oklahoma",Severe Thunderstorms with Strong Winds
+2004-06-12 00:00:00,5:37 p.m.,"Lincoln, Nebraska",Tornado
+2004-06-14 00:00:00,7:41 a.m.,"Phoenix, Arizona",Fault on Line
+2004-06-23 00:00:00,5:35 p.m.,Southern Idaho,Load Shedding
+2004-06-23 00:00:00,7:00 p.m.,Georgia and Alabama,Thunderstorms
+2004-07-06 00:00:00,6:00 a.m.,"Metro Phoenix, Arizona",Fire/Substation Multiple Public Appeals
+2004-07-06 00:00:00,6:00 a.m.  ,"Metro Phoenix, Arizona",Fire/Substation Multiple Public Appeals
+2004-07-07 00:00:00,1:30 p.m.,Central Virginia,Severe Thunderstorms
+2004-07-13 00:00:00,1:34 p.m.,"Leon  County, Florida",Units Tripped
+2004-07-13 00:00:00,4:30 p.m.,"West, West Central and Southern Indiana",Severe Thunderstorms
+2004-07-20 00:00:00,2:26 p.m. ,"Soledad Canyon near Acton, California",Wildfire/Shed Interruptible Load
+2004-07-20 00:00:00,3:44 p.m.,"Regions of  San Juan, Caguas, Ponce, Bayamon, Carolina, Arecibo and Mayaguez",Wildfire
+2004-07-21 00:00:00,5:30 p.m.,"Chicago, Illinois",Severe Thunderstorms
+2004-07-24 00:00:00,3:45 p.m.,Southwest Louisiana in the Acadia Parish vicinity,Public Appeal  
+2004-07-25 00:00:00,10:00 p.m.  ,"Georgia, Alabama, Florida panhandle, Southern Mississippi",Severe Storms
+2004-08-02 00:00:00,10:00 a.m.,Southeast Texas,Unplanned Generator Outage/High Loads Made Public Appeal
+2004-08-03 00:00:00,9:00 p.m.,Northern Illinois,Severe Storm
+2004-08-04 00:00:00,12:46 p.m.,"Northwest Orange County, California",Fault at Barre Substation
+2004-08-09 00:00:00,8:23 a.m.,Whole Island of Puerto Rico,Two Large Units Tripped
+2004-08-13 00:00:00,8:00 a.m.,"Florida counties of Hardee, Highlands, Lake, Orange, Osceola, Polk, Seminole, Volusia",Hurricane Charley
+2004-08-13 00:00:00,3:00 p.m.,West Coast of Florida from Naples to Charlotte and in an area centered around Daytona Beach,Hurricane Charley
+2004-08-13 00:00:00,1:30 p.m.,"Florida counties of Collier, Hendry, Glades, Highlands, Charlotte, Desoto, Lee, Hardee, and Polk",Hurricane Charley
+2004-08-13 00:00:00,4:43 p.m.,"Eastern Hillsborough, Polk County, Florida",Hurricane Charley
+2004-08-13 00:00:00,10:04 p.m.,"New Smyrna Beach, Florida",Hurricane Charley
+2004-08-14 00:00:00,1:00 p.m. ,Central and Eastern North Carolina and Northern and Eastern South Carolina,Hurricane Charley
+2004-08-20 00:00:00,3:31 p.m.,"Boston, Massachusetts",Major Transmission Line Tripped due to Lightning Strike
+2004-08-29 00:00:00,9: 52 a.m.,Southeastern South Carolina,Tropical Storm Gaston
+2004-08-30 00:00:00,6:58 p.m.,"Central Virginia, South to North Carolina and East to the Virginia Coast",Tropical Storm Gaston
+2004-09-03 00:00:00,9:00 p.m.,"City of Fort Pierce, Florida",Hurricane Frances
+2004-09-04 00:00:00,8:00 a.m.,"West Palm Beach to Daytona Beach, Florida",Hurricane Frances
+2004-09-04 00:00:00,10:00 a.m.,"Hillsborough, Pasco, and Polk County, Florida",Hurricane Frances
+2004-09-05 00:00:00,1:00 a.m.,"Orlando, Florida",Hurricane Frances
+2004-09-05 00:00:00,7:00 a.m.,"Florida counties of Alachua, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",Hurricane Frances
+2004-09-06 00:00:00,1:00 p.m.,"Florida, Mississippi, Alabama, Georgia",Hurricane Frances
+2004-09-07 00:00:00,10:00 a.m.,Georgia,Hurricane Frances
+2004-09-15 00:00:00,12:04 p.m.,Whole Island of Puerto Rico,Hurricane Jeanne
+2004-09-15 00:00:00,7:00 p.m.,"Florida, Mississippi, Alabama, Georgia",Hurricane Ivan
+2004-09-16 00:00:00,2:00 a.m.,"Baldwin County, Alabama, Escambia County, Florida, Washington County, Alabama",Hurricane Ivan
+2004-09-16 00:00:00,9:00 p.m.,Western  North and South Carolina,Hurricane Ivan
+2004-09-17 00:00:00,4:30 a.m.,Western North Carolina,Hurricane Ivan
+2004-09-25 00:00:00,5:00 p.m.,"City of Fort Pierce, Florida",Hurricane Jeanne
+2004-09-26 00:00:00,2:00 a.m.,"Hillsborough, Pasco, and Polk County, Florida",Hurricane Jeanne
+2004-09-26 00:00:00,3:00 a.m.,"Orlando and St. Cloud, Florida",Hurricane Jeanne
+2004-09-26 00:00:00,6:00 a.m.,"Florida counties of Alachua, Bay, Brevard, Citrus, Columbia, Dixie, Flagler, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Hillsborough, Jefferson, Lafayette, Lake, Leon, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",Hurricane Jeanne
+2004-09-27 00:00:00,8:00 a.m.,Georgia,Hurricane Jeanne
+2004-09-27 00:00:00,4:06 p.m.,Nova Scotia,Switch Error Concerning Breakers
+2004-10-10 00:00:00,5:09 p.m.,Island Wide,Breaker Failure
+2004-10-18 00:00:00, 10:30 p.m.,Northern California,Severe Storm with High Wind Gusts
+2004-10-25 00:00:00,11:00 a.m.,Southeastern Louisiana in the New Orleans area,Public Appeal/Breaker Failure and Fire
+2004-10-28 00:00:00,3:27 p.m.,"San  Jose, California",Major Transmission Distribution System Interruption
+2004-10-30 00:00:00,10:00 a.m.,"Lower peninsula of Michigan. following area:  Grand Rapids, Kalamazoo, Battle Creek, Greenville, Jackson,  Flint, Lansing, Allegan, Temperance",Severe Storm with High Wind Gusts
+2004-10-30 00:00:00,12:30  p.m.,Southeastern Michigan,High Wind Gusts
+2004-11-09 00:00:00,2:15 p.m.,"Sayreville, New Jersey Long Island, New York",Fuel Supply Deficiency - Williams Company: Event for Trans Continental Gas Pipeline
+2004-11-14 00:00:00,4:55 a.m.,Nova Scotia ,"Heavy Snow, High Winds and Rain/Major Distribution System Interruption"
+2004-11-23 00:00:00,10:00 p.m.  ,"Houston, Texas and surrounding suburban areas",Strong Thunderstorms
+2004-11-24 00:00:00,10:00 a.m.,Georgia,Strong Thunderstorms
+2004-12-01 00:00:00,10:00 a.m.,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Hartford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",High Winds
+2004-12-01 00:00:00,7:30 a.m.,"Bucks, Chester, Delaware, Montgomery, and Philadelphia Counties, Pennsylvania",Heavy Rain and Wind Storm
+2004-12-23 00:00:00,3:37 a.m.,Columbus District,Major Freezing Rain and Ice Storm
+2004-12-27 00:00:00,7:50 a.m.,"Salinas, California and surrounding communities",Severe Weather/Line Relayed
+2005-01-04 00:00:00,6:00 p.m. ,Eastern one third of the state of Kansas,Winter Storm
+2005-01-05 00:00:00,4:00 p.m.,Akron and Mansfield areas,Ice Storm
+2005-01-05 00:00:00,9:10 p.m.,Indiana Michigan Region - Muncie District,Winter Ice Storm
+2005-01-07 00:00:00,1:00 p.m.,Northern California,Winter Storm
+2005-01-23 00:00:00,10:42 a.m.,Island of Puerto Rico,Voltage Reduction
+2005-01-24 00:00:00,6:38 a.m.,Island of Puerto Rico,Voltage Reduction/Shed Load
+2005-01-24 00:00:00,12:27 p.m.,Island of Puerto Rico,Voltage Reduction/Shed Load
+2005-01-29 00:00:00,10:00 a.m.,Parts of Alabama and Georgia,Ice Storm
+2005-01-29 00:00:00,4:00 p.m.,Georgia,Ice Storm
+2005-02-01 00:00:00,5:78 p.m.,Island of Puerto Rico,Voltage Reduction
+2005-02-15 00:00:00,1:12 p.m.,Island of Puerto Rico,Generator Loss
+2005-02-16 00:00:00,1:26 p.m. ,Island of Puerto Rico,Load Shedding
+2005-02-18 00:00:00,8:16 a.m.,Island of Puerto Rico,Generator Loss/Voltage Reduction
+2005-02-24 00:00:00,12:58 a.m.,Island of Puerto Rico,Voltage Reduction
+2005-03-08 00:00:00,11:00 a.m.,Eastern and Central North Carolina,Wind Storms
+2005-04-01 00:00:00,Midnight,"Cleveland, Ohio and northeast Ohio ",Winter Storm
+2005-04-22 00:00:00,3:51 p.m.,"San Francisco Bay area, California",Lightning Strike
+2005-04-23 00:00:00,4:22 a.m.,Island of Puerto Rico,Voltage Reduction
+2005-04-23 00:00:00,6:00 a.m,"Cleveland, Ohio and northeast Ohio ",Winter Storm
+2005-04-30 00:00:00,8:00 a.m.,Alabama and Georgia,Thunderstorms
+2005-05-08 00:00:00,3:00 p.m.,"Houston, Texas and surrounding suburban areas",Strong Thunderstorms
+2005-05-11 00:00:00,7:00 p.m.,Island of Puerto Rico,Voltage Reduction
+2005-05-29 00:00:00,8:00 p.m.,"Houston, Texas and surrounding suburban areas",Strong Thunderstorms
+2005-06-05 00:00:00,2:00 p.m.,Southeast  Michigan,Strong Thunderstorm/High Winds
+2005-06-05 00:00:00,2:00 p.m.,Portions of  the southern 2/3 of  Michigan's Lower Peninsula,Strong Thunderstorm
+2005-06-06 00:00:00,12:00 p.m.,Central/Eastern New York state,Strong Thunderstorms
+2005-06-06 00:00:00,4:43  p.m.,"Bucks, Montgomery, Delaware, Chester, Philadelphia counties, Pennsylvania",Strong Thunderstorm
+2005-06-08 00:00:00,4:00 a.m.,Minnesota,Strong Thunderstorm
+2005-06-20 00:00:00,11:16 a.m.,Island of Puerto Rico,Voltage Reduction
+2005-06-24 00:00:00,8:37 p.m.,"Chicago, Illinois",Transmission Equipment Failure
+2005-06-28 00:00:00,11:30 a.m.,Denver Metropolitan area of Colorado,Fuel Supply Deficiency/Coal Rail Transportation Interruption
+2005-06-29 00:00:00,4:30 p.m.,Southeast  Michigan,Strong Thunderstorm/High Winds
+2005-07-02 00:00:00,1:27 a.m.,Island of Puerto Rico,Load Shedding
+2005-07-05 00:00:00,9:00 p.m.,"Southeast and Northeast, Louisiana including the New Orleans area",Tropical Storm Cindy
+2005-07-10 00:00:00,8:00 a.m.,"Alabama, Mississippi, Florida, Georgia",Hurricane Dennis
+2005-07-10 00:00:00,12:53 p.m.,Southwest Alabama and Western Panhandle of Florida,Hurricane Dennis
+2005-07-21 00:00:00,2:39 p.m.,Southern California,CA ISO  Stage 2 -Initiated interruption of Air Conditioner Cycling Interruptible Load Program
+2005-07-22 00:00:00,1:55 p.m.,Southern California ,CA ISO Stage 2 -Initiated interruption of Air Conditioner Cycling Interruptible Load Program
+2005-07-23 00:00:00,1:02 a.m.,"Washington, DC, Montgomery and Prince Georges Counties, Maryland",Severe Thunderstorms
+2005-07-27 00:00:00,4:50 p.m,"Bucks, Chester, Delaware, Montgomery and Philadelphia counties, Pennsylvania",Severe Thunderstorms
+2005-07-27 00:00:00,5:50 p.m.,"Washington, DC, Montgomery and Prince Georges Counties, Maryland",Severe Thunderstorm
+2005-07-27 00:00:00,6:00 p.m.,"Baltimore County, Anne Arundel County and Prince Georges County, Maryland",Severe Thunderstorms
+2005-07-28 00:00:00,8:30 p.m.,Piedmont North and South Carolina,Severe Thunderstorm
+2005-08-01 00:00:00,10:28 a.m.,Island of Puerto Rico,Voltage Reduction/Load Shed
+2005-08-08 00:00:00,12:38 p.m.,"San Francisco Bay area, California",Plant Tripped
+2005-08-19 00:00:00,7:37 p.m.,Island of Puerto Rico,Voltage Reduction/Load Shed
+2005-08-20 00:00:00,2:15 p.m.,Northwest Arkansas,Severe Thunderstorms
+2005-08-25 00:00:00,3:50 p.m.,Southern California,CAISO determined there was  inadequate electric resources to serve load.  Public appeals and a shedding of interruptible and firm load occurred.
+2005-08-25 00:00:00,3:51 p.m.,Southern California,CAISO initiated interruption of  interruptible and firm load due to declaration of  Transmission Emergency in Southern California
+2005-08-29 00:00:00,1:10 a.m.,East and Southeast Louisiana,Hurricane Katrina
+2005-08-29 00:00:00,6:00 a.m.,"Buras, Louisiana",Hurricane Katrina
+2005-08-29 00:00:00,7:10 a.m.,"Counties of Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",Hurricane Katrina disrupted fuel supply in the Gulf of Mexico. Public appeals for conservation were issued.
+2005-08-29 00:00:00,7:10 a.m.,"Alabama, Florida, Mississippi",Hurricane Katrina 
+2005-08-29 00:00:00,3:50 p.m.,"Alabama, Mississippi,  Tennessee",Hurricane Katrina
+2005-08-29 00:00:00,5:00 p.m.,"City of Lakeland, Florida",Hurricane Katrina  disrupted normal gas allotment through natural gas pipelines (FGT & Gulf stream). Public appeals for conservation were issued.
+2005-08-31 00:00:00,4:00 p.m.,Member Service Territory is located in the West coast of Florida from Tallahassee to Fort Myers,Hurricane Katrina disrupted normal gas supplies distribution. Public appeals for conservation were issued.
+2005-09-12 00:00:00,12:32 p.m.," Los Angeles, California",Breaker protection cable accidentally cut
+2005-09-13 00:00:00,2:14 p.m.,Island of Puerto Rico,Voltage Reduction/Load Shed
+2005-09-13 00:00:00,6:30 p.m.,Southeast Wisconsin and Fox Valley,Severe Storm
+2005-09-14 00:00:00,3:00 p.m.,Eastern North Carolina,Hurricane Ophelia
+2005-09-21 00:00:00,7:00 p.m.,Minnesota,High Winds/Tornados
+2005-09-22 00:00:00,11:00 a.m.,Southeast Michigan,Severe Thunderstorm
+2005-09-22 00:00:00,12:00 p.m.,"Counties of Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",Hurricane Rita disrupted fuel supply in the Gulf of Mexico. Public Appeals for conservation were issued.
+2005-09-23 00:00:00,7:00 a.m.," Lakeland, Florida",Hurricane Rita  disrupted normal gas allotment through natural gas pipelines (FGT & Gulf stream). Public Appeals for conservation were issued.
+2005-09-23 00:00:00,1:06 p.m.,West and Southwest Louisiana,Hurricane Rita
+2005-09-23 00:00:00,5:00 p.m.,"Houston, Texas and the surrounding suburban areas",Hurricane Rita
+2005-09-23 00:00:00,9:00 p.m.,"Texas, Louisiana, Arkansas, and Mississippi",Hurricane Rita
+2005-09-24 00:00:00,6:00 a.m.,"Nacogdoches, Lufkin, Tyler, Jacksonville, Rusk, Paris, Commerce, Huntington",Hurricane Rita
+2005-09-24 00:00:00,10:00 a.m.,"Shreveport, Louisiana",Hurricane Rita
+2005-10-02 00:00:00,5:40 p.m.,Island of Puerto Rico,Voltage Reduction/Load Shed
+2005-10-18 00:00:00,3:19 p.m.,Island of Puerto Rico,Voltage Reduction/Load Shed
+2005-10-22 00:00:00,9:44 a.m.,Island of Puerto Rico,Voltage Reduction/Load Shed
+2005-10-23 00:00:00,8:00 p.m..,"South Florida, Naples, Ft. Myers, Miami, Ft. Lauderdale, West Palm Beach and Martin county",Hurricane Wilma
+2005-10-24 00:00:00,4:00 a.m.,"Florida counties of Collier, Charlotte and Lee",Hurricane Wilma
+2005-10-24 00:00:00,7:00 a.m.,"South Florida - Cities of Key West, Clewiston, Lake Worth, and Ft. Pierce",Hurricane Wilma 
+2005-10-24 00:00:00,8:00 p.m.,"Maryland, North Central West Virginia, Southwestern Pennsylvania, and Northern Pennsylvania",Hurricane Wilma
+2005-11-03 00:00:00,6:47 p.m.,"San Francisco Bay area, California",Plant Tripped
+2005-11-06 00:00:00,7:30 a.m.,Southeast Michigan,Severe Thunderstorm
+2005-11-12 00:00:00,4:00 p.m.,Southeast Wisconsin ,Severe Thunderstorms
+2005-11-12 00:00:00,11:00 p.m.,Western and Central portions of Michigan's Lower Peninsula,Severe Thunderstorm
+2005-12-15 00:00:00,4:00 a.m.,Piedmont North Carolina and South Carolina,Ice Storm
+2005-12-15 00:00:00,5:05 a.m.,Northeast Georgia,Ice Storm
+2005-12-31 00:00:00,6:00 a.m.,Northern and Central California,Severe Storms
+2006-01-14 00:00:00,3:45 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",High Winds
+2006-01-18 00:00:00,3:16 p.m.,Southern and Central Maine,Severe Storm
+2006-02-04 00:00:00,1:34 a.m.,"Snohomish County, Washington",Strong Winds
+2006-02-04 00:00:00,4:30 a.m.,Western Washington,Severe Windstorm
+2006-02-11 00:00:00,9:00 p.m.,Baltimore Metropolitan and Central Maryland,Major Snow Storm
+2006-02-12 00:00:00,12:06 a.m.,"Washington DC, Montgomery and Prince Georges Counties MD",Major Snow Storm
+2006-02-12 00:00:00,2:00 a.m.,Entire Atlantic City Electric territory Southern New Jersey,Winter Snow/Ice Storm
+2006-02-12 00:00:00,2:00 a.m.,Entire Delmarva Power service territory,Winter Snow/Ice Storm
+2006-02-12 00:00:00,5:55 a.m.,Northern and Northwestern Virginia,Severe Snow Storm
+2006-02-16 00:00:00,12:00 p.m.,"Muskegon, Michigan easterly to Bay City, Michigan",Severe Thunderstorm/ Snow/Ice Storm
+2006-02-16 00:00:00,Ongoing,North Dakota,Fuel Supply - Deficiency Coal Rail Transportation Interruption
+2006-02-17 00:00:00,4:32 a.m.,Upstate New York,Severe Weather
+2006-02-18 00:00:00,8:50 a.m.,Colorado,Inadequate Electric Resources to Serve Load
+2006-02-27 00:00:00,6:25 p.m.,Northern and Central California,Severe Winter Storm
+2006-03-09 00:00:00,2:00 p.m.,"Arkansas, Mississippi, Louisiana, Southeast Texas",Severe Weather
+2006-03-12 00:00:00,8:30 p.m.,"Springfield, Illinois and vicinity",Severe Weather
+2006-04-02 00:00:00,9:00 p.m.,Southern half of Indiana,Major Storms/Tornadoes
+2006-04-07 00:00:00,8:43 a.m.,Island of Puerto Rico,Voltage Reduction/Load Shed
+2006-04-08 00:00:00,4:00 a.m.,North and Central Alabama and Northern Georgia areas,Severe Weather/ Tornadoes
+2006-04-17 00:00:00,3:25 p.m.,ERCOT Region of Texas,Load Shed/Declared EECP
+2006-04-17 00:00:00,4:10 p.m.,System-wide greater Houston metro area (and across ERCOT),Load Shed/Made Public Appeals/Rolling Blackouts
+2006-04-17 00:00:00,4:11 p.m.,North and East Texas,Load Shed/ Declared EECP
+2006-04-17 00:00:00,4:20 p.m.,State of Texas (all of Austin Energy),Load Shed/Made Public Appeals/Rolling Blackouts
+2006-04-17 00:00:00,4:35 p.m.,AEP Texas Central/Texas North,Load Shed/Declared EECP
+2006-04-21 00:00:00,7:00 a.m.,System-wide greater Houston metro area,Severe Weather
+2006-04-29 00:00:00,2:55 p.m.,Island of Puerto Rico,Lightning Storm
+2006-05-03 00:00:00,3:30 p.m.,City of Bakersfield area,Transmission Equipment Failure/Fire
+2006-05-04 00:00:00,2:12 p.m.,Island of Puerto Rico,Load Shed
+2006-05-19 00:00:00,3:13 p.m.,"San Francisco Bay area, California",Lightning Strike
+2006-05-25 00:00:00,7:50 p.m.,"Southwest Ohio, Northern Kentucky, Central Indiana",Severe Weather
+2006-06-01 00:00:00,2:12 p.m.,Island of Oahu,Load Shed
+2006-06-01 00:00:00,6:00 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",Severe Weather
+2006-06-01 00:00:00,6:30 p.m.,Central Maryland,Severe Thunderstorms
+2006-06-11 00:00:00,6:00 p.m.,"Charlotte, North Carolina Metropolitan area",Severe Thunderstorm
+2006-06-22 00:00:00,2:00 p.m.,Ohio and Indiana,Severe Thunderstorms
+2006-07-02 00:00:00,6:39 p.m.,Northern Virginia,Severe Thunderstorms
+2006-07-04 00:00:00,5:30 p.m.,Northern Virginia,Severe Thunderstorms
+2006-07-16 00:00:00,2:00 p.m.,Middle 1/3 of Michigan Lower Peninsula,Severe Lightning Storms
+2006-07-17 00:00:00,6:50 p.m.,"Northwest Queens, New York City",Severe Weather/Public Appeals Made/Voltage Reduction
+2006-07-17 00:00:00,9:00 p.m.,Northern Counties of Illinois,Severe Lightning Storms
+2006-07-18 00:00:00,6:36 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",Severe Lightning Storms
+2006-07-18 00:00:00,8:07 p.m.,"Norwalk, Stamford, Connecticut",Lightning Storms/Tripped Lines
+2006-07-19 00:00:00,11:00 a.m.,"Greater Little Rock, Arkansas",Load Reduction/Public Appeals Made
+2006-07-19 00:00:00,6:00 p.m.,Greater St. Louis Metropolitan area (Missouri and Illinois),Severe Storms (3) (Many customers experienced multiple outages.)
+2006-07-22 00:00:00,1:09 p.m.,California,Widespread Heat Wave/Public Appeals Made
+2006-07-24 00:00:00,2:33 p.m.,California,Widespread Heat Wave/CAISO Implementation of Stage 2 Electrical Emergency Plan
+2006-07-24 00:00:00,2:33 p.m.,California,Widespread Heat Wave/CAISO  Implementation of Stage 2 Electrical Emergency Plan
+2006-07-27 00:00:00,6:38 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",Severe Thunderstorms
+2006-08-01 00:00:00,12:00 p.m.,Northern Ohio,Made Public Appeals/Heat Wave
+2006-08-01 00:00:00,1:00 p.m.,"Ohio, Indiana, Kentucky",Made Public Appeals
+2006-08-02 00:00:00,12:00 p.m.,"Midwest ISO's Market Sub-regions:  AMRN, CIN, CILC, CWLD, CWLP, FE, HE, IP, IPL, LGEE, MECS, NIPS, SIGE, SIPC",Declared Energy Emergency Alert 2/Heat Wave
+2006-08-02 00:00:00,1:00 p.m.,New England,System Wide Voltage Reduction
+2006-08-02 00:00:00,7:00 p.m.,New England,Severe Thunderstorms
+2006-08-03 00:00:00,2:16 p.m.,Island of Puerto Rico,Shed Firm Load
+2006-08-07 00:00:00,1:00 p.m.,"Tulsa, Oklahoma",Made Public Appeals
+2006-08-10 00:00:00,8:00 p.m.,Southwest Idaho and Eastern Oregon,Severe Thunderstorm
+2006-08-24 00:00:00,9:58 p.m.,Island of Puerto Rico,Shed Firm Load/Reduced Voltage
+2006-09-01 00:00:00,5:30 a.m.,Eastern North Carolina,Tropical Storm Ernesto
+2006-09-01 00:00:00,6:41 a.m.,Virginia and North Carolina,Tropical Storm Ernesto
+2006-09-01 00:00:00,10:00 a.m.,Southern Delmarva Peninsula,Tropical Storm Ernesto
+2006-09-01 00:00:00,3:00 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",Tropical Storm Ernesto
+2006-09-01 00:00:00,8:00 p.m.,Southern New Jersey Counties,Tropical Storm Ernesto
+2006-09-14 00:00:00,8:56 a.m.,Island of Puerto Rico,Shed Firm Load/ Reduced Voltage
+2006-09-28 00:00:00,8:08 p.m.,"North, Central and Eastern Virginia and Northern North Carolina",Severe Thunderstorms
+2006-10-02 00:00:00,2:00 p.m.,"Chicago Metro, Northeast Illinois",Severe Thunderstorms
+2006-10-02 00:00:00,3:05 p.m.,"Newhall, San Frenando, Saugus, and Santa Clarita, California",Shed Firm Load
+2006-10-03 00:00:00,5:28 p.m.,"Grimes, Robertson, Fort Bend, Brazos, Burleson and Walker Counties",Shed Firm Load
+2006-10-12 00:00:00,5:48 p.m.,Western New York State,Snow Storm
+2006-10-12 00:00:00,8:00 p.m.,Western New York State,Snow Storm
+2006-10-15 00:00:00,7:09 a.m.,Island of Maui,Earthquakes
+2006-10-15 00:00:00,7:09 a.m.,Island of Oahu,Earthquakes
+2006-10-20 00:00:00,1:00 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",High Winds
+2006-10-26 00:00:00,5:30 a.m.,"Metro Denver and Boulder, Colorado",Wet Snow/Winds
+2006-11-15 00:00:00,10:00 a.m.,System-wide greater Houston area,High Winds
+2006-11-15 00:00:00,1:00 p.m.,"Whatcom and Skagit Counties, Washington",High Winds
+2006-11-15 00:00:00,3:00 p.m.,Georgia,Severe Weather
+2006-11-26 00:00:00,1:00 p.m.,"Snohomish County, Washington",Wind/Snow Storm
+2006-11-30 00:00:00,9:00 p.m.,Missouri and Illinois,Ice Storm
+2006-12-01 00:00:00,6:20 p.m.,Ohio,Wind Storm
+2006-12-10 00:00:00,7:35 p.m.,"San Francisco Bay area, California",Unit Tripped
+2006-12-13 00:00:00,4:30 a.m.,Western Washington,Wind Storm
+2006-12-14 00:00:00,12:01 a.m.,"City of Seattle, Washington",Wind Storm
+2006-12-14 00:00:00,5:30 a.m.,"Snohomish County, Washington",Wind Storm
+2006-12-14 00:00:00,9:44 a.m.,"Oregon, Washington, Idaho, Montana",Wind Storm
+2006-12-14 00:00:00,12:07 p.m.,State of Oregon Coastal area,HIgh Winds
+2006-12-14 00:00:00,5:00 p.m.,"Greater Tacoma area (City of Fircrest, University Place, City of Lakeland) and portions of South Pierce County in State of Washington",High Winds
+2006-12-14 00:00:00,7:00 p.m.,"Oregon Counties: Multnomah, Clackamas, Washington, Marion",High Winds
+2006-12-16 00:00:00,7:30 p.m.,"Oregon Counties:  Washington, Yamhill",Transmission Equipment/Fire
+2006-12-26 00:00:00,12:01 a.m.,Northern California,Severe Weather
+2006-12-29 00:00:00,4:25 p.m.,North Part of the Island,Main Power Transformer Failure/Voltage Reduction/Fire
+2006-12-30 00:00:00,10:25 p.m.,"Gosper, Harlan, Franklin, Webster, Clay, Adams, Kearney, Phelps, Dawson, Buffalo, Hall, Hamilton, Sherman, Custer, Valley, Greeley, Howard, Merrick, York, Fillmore, Nance, Boone, Wheeler, Madison, Antelope, Pierce, Platte and Seward Counties in Central Nebraska",Severe Weather
+2007-01-05 00:00:00,10:44 a.m.,Island of Puerto Rico,Voltage Reduction
+2007-01-13 00:00:00,5:00 a.m.,Missouri and Illinois,Ice Storm
+2007-01-13 00:00:00,7:30 a.m.,Eastern and Lower Michigan,Ice Storm
+2007-01-16 00:00:00,2:00 a.m.,"Snohomish County, Washington",Major Windstorm
+2007-02-13 00:00:00,2:00 p.m.,Indiana and Southwest Ohio,Ice/Wind Storm
+2007-02-13 00:00:00,5:00 p.m.,Central Maryland,Winter Storm
+2007-02-24 00:00:00,4:00 p.m.,"NE quarter of State of Iowa and Rock Island, Illinois",Ice Storm
+2007-02-24 00:00:00,6:00 p.m.,Central Iowa and Cedar Rapids areas,Ice Storm
+2007-02-24 00:00:00,7:23 p.m.,"Cedar Rapids, Iowa",Ice Storm
+2007-02-28 00:00:00,12:45 a.m.,Northern California,Winter Storm
+2007-03-01 00:00:00,9:40 p.m.,"Parts of Alabama, Mississippi, Georgia, Florida",Major Storm
+2007-03-31 00:00:00,7:30 a.m.,"Houston, Texas",Severe Thunderstorms
+2007-04-05 00:00:00,9:20 p.m.,Southern and Coastal Maine,Heavy Snow Storm
+2007-04-12 00:00:00,12:32 a.m.,"City of Los Angeles, California",High Winds
+2007-04-12 00:00:00,9:09 a.m.,"San Francisco Bay Area, California",Trip of a Unit
+2007-04-14 00:00:00,9:00 a.m.,"Massachusetts, New Hampshire, Rhode Island",High Winds
+2007-04-16 00:00:00,8:00 a.m.,New Hampshire,Severe Thunderstorms
+2007-04-16 00:00:00,10:14 a.m.,Southern and Coastal Maine,Heavy Snow Storm
+2007-04-16 00:00:00,11:00 a.m.,North and South Carolina,HIgh Winds
+2007-04-16 00:00:00,2:00 p.m.,Central Maryland - Baltimore City and surrounding Counties,Severe Thunderstorms
+2007-04-16 00:00:00,2:04 p.m.,"North, East and Central Virginia/Parts of Northeast North Carolina",High Winds
+2007-05-02 00:00:00,1:30 p.m.,"North Texas, Dallas Fort Worth Metroplex and Surrounding Counties, South to Waco and North to Red River",Severe Storms
+2007-05-10 00:00:00,9:57 a.m.,"San Francisco Bay Area, California",Unit Tripped
+2007-05-14 00:00:00,11:15 a.m.,"San Francisco Bay Area, California",Unit Tripped
+2007-05-15 00:00:00,3:00 p.m.,Southeastern Michigan,Severe Thunderstorms
+2007-05-16 00:00:00,6:00 p.m.,All of Connecticut,Severe Storm
+2007-05-21 00:00:00,1:48 p.m.,"San Franscisco Bay Area, California",Unit Tripped
+2007-06-01 00:00:00,1:00 p.m.,Restricted Hydroelectric Capability,Fuel Supply Deficiency
+2007-06-05 00:00:00,10:56 a.m.,Southwest Idaho and Eastern Oregon,Load Shedding
+2007-06-27 00:00:00,3:41 p.m.,"Northern Manhattan NY (Yorkville) and SW Bronx (Motthaven, Melrose, High Bridge Sections)",Lightning
+2007-06-27 00:00:00,3:42 p.m.,New York State,Loss of Load
+2007-06-29 00:00:00,9:23 a.m.,Metropolitan Phoenix Area,Loss of Load
+2007-07-03 00:00:00,10:59 a.m.,CAISO Controlled Grid,Public Appeal
+2007-07-05 00:00:00,7:00 p.m.,Southeastern Michigan,Severe Storm
+2007-07-06 00:00:00,5:18 p.m.,Southeast Idaho and Eastern Oregon,Electrical Separation/Load Shedding/Made Public Appeal
+2007-07-10 00:00:00,11:00 a.m.,Eastern New York,Major Storms
+2007-07-16 00:00:00,4:17 p.m.,"St. George, Utah",Fire/Load Shedding
+2007-07-18 00:00:00,6:00 p.m.,Northern Counties of Illinois,Severe Weather
+2007-07-19 00:00:00,3:00 p.m.,Southwestern Region of Service Territory,Major Storm
+2007-07-19 00:00:00,3:50 p.m.,"North, East and Central Virginia",Major Storms
+2007-08-08 00:00:00,1:00 p.m.,Portions of North Carolina and South Carolina,Made Public Appeal
+2007-08-08 00:00:00,3:56 p.m.,Mid-Altantic Region of PJM,Voltage Reduction/Made Public Appeal
+2007-08-09 00:00:00,12:45 p.m.,Portions of North Carolina and South Carolina,Made Public Appeal
+2007-08-09 00:00:00,2:53 p.m.,"Highland Area of Pittsburgh, Pennsylvania",Severe Thunderstorms
+2007-08-10 00:00:00,12:20 p.m.,Portions of North Carolina and South Carolina,Made Public Appeal
+2007-08-13 00:00:00,1:30 a.m.,State of Missouri,Severe Thunderstorm
+2007-08-14 00:00:00,2:00 p.m.,"CSWS Control Area of Southwest Power Pool Parts of Oklahoma, Texas, Louisiana, Arkansas",Declared Energy Emergency Alert2/Heat Wave
+2007-08-16 00:00:00,9:30 p.m.,Virginia and Eastern North Carolina - Primarily in Central Virginia,Severe Weather
+2007-08-19 00:00:00,11:34 p.m.,Central and Eastern Virginia,Severe Thunderstorms
+2007-08-23 00:00:00,4:00 p.m.,Northern Illinois,Severe Storms
+2007-08-24 00:00:00,6:00 p.m.,Southeastern Michigan,Severe Storm
+2007-08-29 00:00:00,1:53 p.m.,Modesto California and the Surrounding Areas,Shed Load
+2007-08-29 00:00:00,4:00 p.m.,CAISO Controlled Grid,Made Public Appeal
+2007-08-31 00:00:00,12:45 p.m.,CAISO Controlled Grid,Declared Energy Emergency Alert 1/Heat wave
+2007-09-03 00:00:00,12:30 p.m.,"San Diego County, Southern Orange County, California",High Temperatures/Made Public Appeals
+2007-09-04 00:00:00,8:30 a.m.,"San Diego County, Southern Orange County, California",High Temperatures/Made Public Appeals
+2007-09-05 00:00:00,7:53 a.m.,"Central Texas, ERCOT Grid",Severe Weather/Transmission Fault-Units Tripped
+2007-09-06 00:00:00,8:00 p.m.,Hydro Electric System,Fuel Supply Deficiency
+2007-09-13 00:00:00,4:00 a.m.,"Between Galveston and Beaumont, Texas",Hurricane Humberto
+2007-09-17 00:00:00,7:01 p.m.,"City of Crawfordsville, Indiana",Electrical System Separation
+2007-09-18 00:00:00,5:14 a.m.,"Minnesota, Wisconsin, North Dakota, South Dakota and Michigan",Electrical System Separation/Load Shedding/ Implemented Emergency Alert/Severe Storms
+2007-09-18 00:00:00,5:15 a.m.,"Minnesota, North Dakota, Manitoba",Electrical System Separation/Load Shedding/ Implemented Emergency Alert/Severe Storms
+2007-09-18 00:00:00,5:15 a.m.,"Manitoba, Minnesota, North Dakota, Portions of South Dakota and Wisconsin.  Midwest ISO's Market subregions: OTP, NSP, GRE, ALTW, MP",Electrical System Separation/Load Shedding/ Implemented Emergency Alert/ Severe Storms
+2007-09-24 00:00:00,1:38 p.m.,Southwest Michigan,Unit Tripped
+2007-10-18 00:00:00,3:00 p.m.,Western Washington,High Winds
+2007-10-22 00:00:00,2:01 p.m.,Southern California,Brush Fire/Load Shedding/Implemented Emergency Alert
+2007-10-22 00:00:00,2:05 p.m.,Southern California,Brush Fire/Load Shedding
+2007-10-22 00:00:00,2:06 p.m.,"San Diego County, California",Brush Fire/Load Shedding
+2007-10-26 00:00:00,6:44 a.m.,Southern Califonia,Brush Fire/Load Shedding
+2007-10-26 00:00:00,6:44 a.m.,"Riverside, California",Load Shedding
+2007-11-03 00:00:00,6:00 p.m.,"Eastern Massachusetts, Rhode Island, Cape Cod",Tropical Storm
+2007-12-01 00:00:00,6:04 p.m.,State of Maine,Voltage Reduction/Made Public Appeal/Fuel Deficiency
+2007-12-04 00:00:00,2:16 p.m.,Island of Puerto Rico,Voltage Reduction
+2007-12-10 00:00:00,3:08 a.m.,"Tulsa, Oklahoma",Ice Storm
+2007-12-11 00:00:00,4:00 a.m.,Eastern half of the State of Kansas,Ice Storm
+2007-12-11 00:00:00,8:57 p.m.,Island of Puerto Rico,Voltage Reduction
+2007-12-23 00:00:00,1:00 a.m.,The Entire ComEd Service Territory,Severe Storm
+2007-12-23 00:00:00,5:30 a.m.,Lower 2/3 of Michigan Lower Peninsula,Winter Storm
+2008-01-29 00:00:00,5:00 a.m.,"San Francisco Bay Area, California",Exciter Faulted
+2008-01-29 00:00:00,4:00 p.m.,"Arkansas, Mississippi, North Louisiana",Severe Thunderstorms
+2008-01-29 00:00:00,10:00 p.m.,Southeastern Michigan,Wind/Ice Storm
+2008-01-29 00:00:00,11:23 p.m.,"South Metropolitan Areas of Dayton, OHio",High Winds
+2008-01-30 00:00:00,3:06 a.m.,"Western, New York",High Winds
+2008-02-01 00:00:00,6:00 a.m.,"San Francisco Bay Area, California",Equipment Faulted
+2008-02-02 00:00:00,3:58 a.m.,"San Francisco Bay Area, California",Equipment Faulted
+2008-02-05 00:00:00,10:00 p.m.,State of Kentucky,Severe Weather
+2008-02-06 00:00:00,9:00 a.m.,Mid to West Tennessee,Severe Weather
+2008-02-09 00:00:00,11:59 a.m.,"Near Arnold, California",Electrical System Separation
+2008-02-10 00:00:00,4:00 a.m.,"Southwestern Pennsylvania, West Virginia, Virginia, Maryland",Severe Weather
+2008-02-10 00:00:00,11:00 a.m.,"Virginia, West Virginia, Ohio, Pennsylvania",High Winds
+2008-02-10 00:00:00,11:00 a.m.,Virginia and West Virginia Area of AEP,High Winds
+2008-02-10 00:00:00,2:06 p.m.,Dominion Service Territory,High Winds
+2008-02-10 00:00:00,6:02 p.m.,"Greenboro, North Carolina and I-40 Corridor",High Winds
+2008-02-12 00:00:00,3:00 p.m.,"Arkansas, Mississippi, Louisiana",Severe Weather
+2008-02-13 00:00:00,6:43 p.m.,State of Maine,Ice Storm
+2008-02-14 00:00:00,8:15 a.m.,Utah,Load Shedding
+2008-02-15 00:00:00,3:06 p.m.,"Antioch, California",Electrical System Separation
+2008-02-25 00:00:00,8:00 a.m.,Restricted Coal Capability,Fuel Supply Deficiency
+2008-02-26 00:00:00,5:00 a.m.,Southern Service Area/Alabama and Georgia,Thunderstorms
+2008-02-26 00:00:00,1:09 p.m.,Various Cities in Florida,Under Frequency/Load Shedding
+2008-02-26 00:00:00,1:09 p.m.,Tampa Electric Service Territory,Under Frequency/Load Shedding
+2008-02-26 00:00:00,1:09 p.m.,Primary Dade County Florida,Transmission Equipment Failure
+2008-02-26 00:00:00,1:09 p.m.,FRCC Region-West Coast Florida,Shed Firm Load
+2008-02-26 00:00:00,1:10 p.m.,"The entire PEF system was affected, including the following counties: Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osecola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia, Wakulla.",Under Frequency/Load Shedding
+2008-03-04 00:00:00,9:30 p.m.,North and South Carolina,Thunderstorms
+2008-03-08 00:00:00,2:14 p.m.,Virginia and Eastern Part of North Carolina,Windstorm
+2008-03-08 00:00:00,4:00 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks County, Pennsylvania",Severe Weather
+2008-03-15 00:00:00,8:55 p.m.,Parts of Alabama and Georgia,Major Storm
+2008-04-04 00:00:00,12:31 p.m.,"Arkansas, North Louisiana, Mississippi",Severe Thunderstorms
+2008-04-09 00:00:00,4:00 p.m.,"North, Central and East Texas",Severe Weather
+2008-05-08 00:00:00,10:21 a.m.,California,Load Shedding
+2008-05-11 00:00:00,6:00 a.m.,Georgia,Severe Thunderstorms
+2008-05-11 00:00:00,4:50 p.m.,"City of Crawfordsville, Indiana",Electric System Separation
+2008-05-12 00:00:00,12:01 a.m.,"Cape May, Cumberland, Gloucester, Salem, Camden, Atlantic, Burliington  Counties, New Jersey",Severe Storm
+2008-05-27 00:00:00,2:02 p.m.,South West Connecticut,Lightning Storm
+2008-05-30 00:00:00,9:30 a.m.,Northern and Western Counties of Illinois,Severe Storms
+2008-05-30 00:00:00,2:05 p.m.,South Louisiana,"Load Shedding, Inadequate Electric Resources to Serve Load"
+2008-05-30 00:00:00,10:00 p.m.,"Northeastern Marion County, Indiana",Severe Thunderstorms
+2008-06-03 00:00:00,5:00 p.m.,"Maryland, West Virginia, Virginia",Severe Weather
+2008-06-04 00:00:00,3:00 p.m.,"Montgomery, Prince Georges,  Maryland, Washington, D.C.",Lightning Storm
+2008-06-04 00:00:00,3:00 p.m.,Entire BGE Service Territory,Severe Storms
+2008-06-04 00:00:00,3:04 p.m.,Northern Virginia,Thunderstorms
+2008-06-04 00:00:00,3:14 p.m.,Island of Puerto Rico,Load Shedding/Voltage Reduction
+2008-06-06 00:00:00,3:18 p.m.,Lower 2/3 of Michigan's Lower Peninsula,Lightning Storm
+2008-06-08 00:00:00,9:30 a.m.,The Entire ComEd Territory,Severe Weather
+2008-06-08 00:00:00,6:00 p.m.,Southwestern Michigan (DECO Service Territory),Severe Storm
+2008-06-09 00:00:00,2:00 p.m.,Entergy System,Indequate Electric Resources to Serve Load
+2008-06-09 00:00:00,2:52 p.m.,"Area Around West Orange Switching Station, New Jersey",Fire/Breaker Failure
+2008-06-10 00:00:00,11:00 a.m.,Upstate New York,Severe Storm
+2008-06-10 00:00:00,2:00 p.m.,Entergy System,Inadequate Electric Resources to Serve Load
+2008-06-10 00:00:00,6:00 p.m.,"Bergen, Essex and Hudson Counties, New Jersey",Severe Storms
+2008-06-10 00:00:00,7:00 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks County, Pennsylvania",Severe Thunderstorms
+2008-06-10 00:00:00,11:00 p.m.,All Six New England States,Storm
+2008-06-11 00:00:00,1:15 p.m.,New York State,Uncontrolled Loss
+2008-06-12 00:00:00,3:30 p.m.,East Central Iowa,Flooding and Uncontrolled Loss
+2008-06-15 00:00:00,8:00 a.m.,The Entire ComEd Territory,Severe Weather
+2008-06-15 00:00:00,7:06 p.m.,"City of Crawfordsville, Indiana",Electrical System Separation
+2008-06-16 00:00:00,4:15 p.m.,Northern Virginia,Thunderstorms
+2008-06-17 00:00:00,9:01 a.m.,"North, Central and East Texas",Severe Thunderstorms
+2008-06-17 00:00:00,8:35 p.m.,Southwestern Public Service Company Operating in the Panhandle of Texas and New Mexico,Electrical System Separation/Severe Thunderstorms
+2008-06-17 00:00:00,8:40 p.m.,"Texas Panhandle and Texas South Plains Regions, and Oklahoma Panhandle",Thunderstorms/Uncontrolled Loss of Load
+2008-06-21 00:00:00,3:09 p.m.,"Near Rogers Flat, California",Electrical System Separation/Severe Lightning Storms
+2008-06-22 00:00:00,4:55 p.m.,Northwest Indiana,Lightning Stirke/Uncontrolled Loss of Load
+2008-06-23 00:00:00,1:44 p.m.,Northcentral Indiana,Fire/Breaker Failure
+2008-06-23 00:00:00,4:52 p.m.,"Pinellas County, Florida",Transmission Equipment Failure/Load Shedding
+2008-06-26 00:00:00,5:00 p.m.,Southeastern Michigan (DTE Service Territory),Thunderstorms
+2008-06-27 00:00:00,4:30 p.m.,"Omaha, Nebraska (Metro Area)",Severe Wind Storm
+2008-07-01 00:00:00,7:31 a.m.,"San Francisco Bay Area, California",Unit Tripped
+2008-07-02 00:00:00,3:00 p.m.,Lower 2/3 of Michigan's Lower Peninsula,Severe Weather
+2008-07-02 00:00:00,4:00 p.m.,Restricted Hydroelectric Capability,Fuel Supply Deficiency
+2008-07-02 00:00:00,7:16 p.m.,"Santa Barbara County, California, near Goleta",Wild Land Fire
+2008-07-02 00:00:00,7:36 p.m.,Goleta and Santa Barbara Areas of Southern California,Brush Fire/Lines Loss/Transmission Emergency Declared
+2008-07-02 00:00:00,8:00 p.m.,Southeastern Michigan (DTE Service Territory),Thunderstorms
+2008-07-07 00:00:00,12:15 p.m.,ISO Balancing Area,Heat Wave/Potential Fire Threat/Made Public Appeals
+2008-07-10 00:00:00,2:22 p.m.,"San Francisco Bay Area, California",Unit Tripped
+2008-07-21 00:00:00,12:49 a.m.,"Sioux City, Carroll, Des Moines, Iowa City, and Davenport Iowa, Rock Island, Moline, and Surrounding Area of Illinois",Storm
+2008-07-22 00:00:00,3:00 a.m.,Indiana,Severe Thunderstorms
+2008-07-22 00:00:00,3:00 a.m.,Southwest Ohio,Severe Thunderstorms
+2008-07-22 00:00:00,2:00 p.m.,Texas Panhandle and Southeastern New Mexico,Indequate Electric Resources to Serve Load/Public Appeal
+2008-07-23 00:00:00,5:56 a.m.,"Port Isabel, Harlingen, Weslaco, Pharr, San Benito, Mission, McAllen, Edinburg, Texas",Hurricane Dolly
+2008-07-24 00:00:00,7:23 a.m.,"Bangor Hydro System, northern Maine",Electric System Separation/Severe Lightning Storms
+2008-08-02 00:00:00,8:00 p.m.,Georgia and Alabama,Severe Thunderstorms
+2008-08-03 00:00:00,1:30 a.m.,"Mississippi, Louisiana, Texas",Severe Thunderstorms
+2008-08-04 00:00:00,6:00 p.m.,The ComEd Territory,Severe Weather
+2008-08-05 00:00:00,3:00 a.m.,Northwest Indiana,Severe Storms
+2008-08-09 00:00:00,12:00 p.m.,Texas Panhandle and Eastern New Mexico,Declared Energy Emergency Alert 1/Made Public Appeals
+2008-08-15 00:00:00,12:52 p.m.,Part of Seattle's Downtown,Made Public Appeals
+2008-08-16 00:00:00,5:23 a.m.,City of Lubbock,Lightning/Transmission Equipment Damage
+2008-08-16 00:00:00,8:14 a.m.,Island of Puerto Rico,Shed Firm Load/Voltage Reduction
+2008-08-18 00:00:00,7:22 p.m.,North Part of Island,Shed Firm Load
+2008-08-19 00:00:00,9:29 a.m.,Florida,Tropical Storm Fay
+2008-08-21 00:00:00,7:00 p.m.,"Alachua, Bay, Brevard, Citrus, Columbia, Dixie, Flagler, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Leon, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter,  Suwannee, Taylor, Volusia and Wakulla Counties in Florida",Tropical Storm Fay
+2008-08-22 00:00:00,12:00 p.m.,-,Fuel Supply Emergency-Low Coal Inventory Levels
+2008-08-24 00:00:00,4:30 a.m.,Georgia and Alabama,Tropical Storm Fay
+2008-08-31 00:00:00,7:30 a.m.,"Plaquemine, Louisiana",Fuel Supply Curtailed
+2008-08-31 00:00:00,7:00 p.m.,"Louisiana, Mississippi, Arkansas",Hurricane Gustav
+2008-09-01 00:00:00,10:30 a.m.,Primarily South and Central Louisiana,Hurricane Gustav
+2008-09-01 00:00:00,11:45 a.m.,"Bayou Division and North Lake Division, Louisiana",Hurricane Gustav
+2008-09-06 00:00:00,7:45 a.m.,Eastern North Carolina,Tropical Storm Hanna
+2008-09-06 00:00:00,2:15 p.m.,North East North Carolina and Virginia,Tropical Storm Hanna
+2008-09-08 00:00:00,10:03 p.m.,A.D. Edmonston Pumping Plant,Fuel Supply Deficiency
+2008-09-12 00:00:00,5:45 a.m.,"Primarily Southeast Texas, Louisiana, and Arkansas",Hurricane Ike
+2008-09-12 00:00:00,6:21 p.m.,Greater Houston-Galveston Metro Area,Hurricane Ike
+2008-09-12 00:00:00,6:21 p.m.,Greater Houston Area-Eastern Region of ERCOT,Hurricane Ike
+2008-09-12 00:00:00,8:00 p.m.,Galveston and Brazoria Counties,Hurricane Ike
+2008-09-13 00:00:00,10:24 a.m.,Southwest Louisiana,Hurricane Ike
+2008-09-13 00:00:00,12:00 p.m.,"North, Central and East Texas",Hurricane Ike
+2008-09-13 00:00:00,4:00 p.m.,Texas and Louisana,Hurricane Ike
+2008-09-14 00:00:00,6:30 a.m.,"Ohio, Kentucky, Indiana",Tropical Depression Ike
+2008-09-14 00:00:00,7:30 a.m.,Missouri and Illinois,Hurricane Ike
+2008-09-14 00:00:00,10:01 a.m.,"City of Owensboro, Kentucky",High Winds
+2008-09-14 00:00:00,11:30 a.m.,State of Kentucky,Tropical Depression Ike
+2008-09-14 00:00:00,2:00 p.m.,Dayton Ohio Area,Hurricane Ike
+2008-09-14 00:00:00,4:00 p.m.,"Northern Indiana, Central and Central Southern Ohio",Wind Storm
+2008-09-14 00:00:00,5:00 p.m.,Western Pennsylvania,Wind Storm
+2008-09-14 00:00:00,5:00 p.m.,"Southern, Eastern, and Central Ohio",Wind Storm
+2008-09-14 00:00:00,5:00 p.m.,Northeast Ohio,Wind Storm
+2008-09-14 00:00:00,7:00 p.m.,Allegheny and Beaver Counties in Pennsylvania,Tropical Depression Ike
+2008-09-15 00:00:00,12:37 a.m.,Western Pennsylvania,Tropical Depression Ike
+2008-09-22 00:00:00,5:49 p.m.,Island of Puerto Rico,Shed Firm Load
+2008-09-30 00:00:00,2:02 p.m.,"Plumas County, California",Electrical System Separation
+2008-10-02 00:00:00,2:50 p.m.,Louisiana,Load Shedding
+2008-10-25 00:00:00,11:00 p.m.,Connecticut,Severe Storm
+2008-11-07 00:00:00,11:13 a.m.,Goleta and Santa Barbara Areas of Southern California,Load Shedding
+2008-11-07 00:00:00,11:15 a.m.,Southern California,Load Shedding
+2008-11-11 00:00:00,8:30 a.m.,Island of Puerto Rico,Shed Firm Load
+2008-11-15 00:00:00,9:39 a.m.,City of Los Angeles,Brush Fire/Shed Firm Load
+2008-12-02 00:00:00,4:30 a.m.,"St. Louis, Missouri",Fire/Load Shedding
+2008-12-09 00:00:00,5:27 p.m.,Central New Jersey,Lines Loss/Transmission
+2008-12-10 00:00:00,5:09 p.m.,Southern Oregon,Equipment Failure/Made Public Appeal
+2008-12-11 00:00:00,9:00 a.m.,"Southern Louisiana, Southern and Central Mississippi",Snow Storm
+2008-12-11 00:00:00,6:00 p.m.,Northern Dutchess County and Western Ulster County in the Mid-Hudson Region of New York State,Ice Storm
+2008-12-12 00:00:00,1:00 a.m.,New England,Ice Storm
+2008-12-12 00:00:00,2:38 a.m.,Eastern New York,Ice Storm
+2008-12-12 00:00:00,8:45 a.m.,Southern and Central Maine,Ice Storm
+2008-12-13 00:00:00,3:30 p.m.,Humboldt Area of California,Declared Stage 1 Electric Emergency/Made Public Appeal
+2008-12-19 00:00:00,1:02 a.m.,"East of Oroville, California",Electrical System Separation
+2008-12-19 00:00:00,8:30 a.m.,"Indiana, Michigan and Northwest Ohio",Ice Storm
+2008-12-19 00:00:00,9:00 a.m.,Northwest Indiana,Ice Storm
+2008-12-26 00:00:00,11:40 a.m.,"Orangevale Area of Sacramento, California",Load Shedding
+2008-12-26 00:00:00,6:13 p.m.,"Island of Oahu, Hawaii",Lightning
+2008-12-27 00:00:00,4:00 p.m.,Southeastern Michigan,Wind Storm
+2008-12-28 00:00:00,4:45 a.m.,Michigan Lower Peninsula,Wind Storm
+2008-12-28 00:00:00,11:45 a.m.,Michigan Lower Peninsula,Wind Storm
+2008-12-30 00:00:00,4:02 p.m.,"Crawfordsville, Indiana",Shed Firm Load
+2009-01-05 00:00:00,5:00 a.m.,North and Central Texas,Severe Storm
+2009-01-07 00:00:00,5:00 p.m.,Piedmont of North and South Carolina,High Winds
+2009-01-08 00:00:00,11:46 p.m.,Florida Keys,Transmission Equipment Failure
+2009-01-17 00:00:00,8:00 a.m.,"PJM, Indiana",Fuel Supply Deficiency
+2009-01-22 00:00:00,4:00 p.m.,"Crawfordsville, Indiana",Shed Load
+2009-01-27 00:00:00,5:00 a.m.,State of Kentucky,Ice Storm
+2009-01-27 00:00:00,5:03 a.m.,Central and Eastern Kentrucky,Ice Storm
+2009-01-27 00:00:00,7:10 a.m.,Western Kentucky and Southern Indiana,Ice Storm
+2009-01-27 00:00:00,11:00 a.m.,South Central and Southeast Missouri,Winter Storm
+2009-01-27 00:00:00,1:46 p.m.,Northern Arkansas,Ice Storm
+2009-01-27 00:00:00,3:43 p.m.,CSWS-AEP West,Ice/Snow Storm
+2009-01-27 00:00:00,9:00 p.m.,Northern Arkansas,Ice Storm
+2009-01-27 00:00:00,9:45 p.m.,TVA Service Territory,Ice Storm
+2009-01-28 00:00:00,12:10 a.m.,East Central Missouri,Winter Storm
+2009-01-28 00:00:00,3:00 a.m.,"Illinois, Indiana, Ohio and Kentucky",Winter Storm
+2009-01-28 00:00:00,4:00 a.m.,"City of Henderson, Kentucky and Portions of Henderson County, Kentucky",Ice Storm
+2009-01-28 00:00:00,6:00 a.m.,"Indiana, Evansville, Metro Area",Ice Storm
+2009-01-28 00:00:00,7:50 a.m.,Southern Indiana,Ice/Snow Storm
+2009-01-28 00:00:00,9:00 a.m.,Northeast Tennessee and Southwest Kentucky,Ice Storm
+2009-01-28 00:00:00,10:00 a.m.,Northern Kentucky and Southwest Ohio,Ice/Snow Storm
+2009-02-11 00:00:00,2:30 a.m.,"Houston, Texas",High Winds
+2009-02-11 00:00:00,6:00 p.m.,"Kentucky, West Virginia and Ohio",Severe Thunderstorms
+2009-02-11 00:00:00,6:18 p.m.,"Maryland, Virginia, West Virginia and Pennsylvania",Severe Thunderstorms
+2009-02-11 00:00:00,7:00 p.m.,State of Kentucky,Severe Thunderstorms
+2009-02-11 00:00:00,9:00 p.m.,Northern Kentucky and Southwest Ohio,Severe Thunderstorms
+2009-02-12 00:00:00,2:30 a.m.,Central and Eastern Ohio,High Winds
+2009-02-12 00:00:00,8:00 a.m.,Western and North Eastern Pennsylvania,High Winds
+2009-02-13 00:00:00,2:30 a.m.,Central and Eastern Ohio,High Winds
+2009-02-23 00:00:00,2:38 a.m.,Southern Central and Western Maine,Ice/Snow Storm
+2009-03-01 00:00:00,12:15 a.m.,"City of El Paso, Texas, County of El Paso",Transmission Equipment Failure
+2009-03-01 00:00:00,4:00 p.m.,Southern Balancing Area,Severe Weather
+2009-03-01 00:00:00,8:54 p.m.,Duke Energy Carolinas Balance Authority,Ice/Snow Storm
+2009-03-01 00:00:00,10:00 p.m.,Central Virginia - Spotsylvania County,Winter Storm
+2009-03-03 00:00:00,6:48 a.m.,Southwest Michigan,Transformer Faulted/Unit Tripped
+2009-03-03 00:00:00,10:00 p.m.,"Roanoke, Virginia",Made Public Appeals
+2009-03-08 00:00:00,10:16 p.m.,"San Francisco Bay Area, California",Unit Shut Down
+2009-04-06 00:00:00,1:00 a.m.,"Michigan, Lower Peninsula",Winter Storm
+2009-04-10 00:00:00,10:00 p.m.,Alabama and Georgia,Severe Thunderstorms
+2009-04-23 00:00:00,12:00 a.m.,Restricted Hydro Electric Capability,Fuel Supply Deficiency
+2009-04-23 00:00:00,4:25 p.m.,"Skagit County, Washington",Transmission Tripped
+2009-04-23 00:00:00,5:54 p.m.,"Communities of Elsinore, Hemet, Moreno Valley, Perris, San Jacinto and Temecula in the southeastern area of Riverside County in California",Substation Load Interruption
+2009-04-24 00:00:00,11:09 a.m.,"Ruston, Louisiana",Complete Electric System Failure
+2009-04-25 00:00:00,2:30 p.m.,Western Region of Service Territory,High Winds/Rain
+2009-04-27 00:00:00,3:30 p.m.,Greater Houston/Galveston Area,High Winds
+2009-05-08 00:00:00,7:30 a.m.,SW Missouri,Severe Thunderstorm
+2009-05-08 00:00:00,1:30 p.m.,Southern Illinois,Severe Thunderstorm
+2009-05-29 00:00:00,9:05 a.m.,"Henderson County, Kentucky",Transmission Equipment Failure
+2009-06-05 00:00:00,1:38 p.m.,East of Fresno California,Electrical System Separation
+2009-06-09 00:00:00,5:25 p.m.,Central Maryland,Severe Thunderstorms
+2009-06-10 00:00:00,6:00 p.m.,North and Central Texas,Severe Storms
+2009-06-12 00:00:00,4:37 p.m.,"Chattanooga, Tennessee",Severe Storm
+2009-06-12 00:00:00,5:45 p.m.,"Arkansas, North Mississippi",Severe Thunderstorms
+2009-06-12 00:00:00,10:00 p.m.,Georgia,Severe Thunderstorm
+2009-06-16 00:00:00,11:00 p.m.,A.D. Edmonston Pumping Plant,Fuel Supply Deficiency
+2009-06-19 00:00:00,12:01 a.m.,Michigan Lower Peninsula,Severe Storm
+2009-06-19 00:00:00,1:00 p.m.,The Entire ComEd Service Territory,Severe Storm
+2009-06-24 00:00:00,1:30 p.m.,Southwest Louisiana,Made Public Appeals
+2009-06-25 00:00:00,3:16 p.m.,ERCOT Region,Made Public Appeals
+2009-06-25 00:00:00,3:30 p.m.,Western Region of Service Territory,High Winds/Rain
+2009-06-26 00:00:00,1:00 a.m.,"Southwest Ohio, Northern Kentudky, Central and Southern Indiana",Severe Thunderstorms
+2009-06-26 00:00:00,5:00 p.m.,Central Connecticut,Severe Thunderstorms
+2009-07-02 00:00:00,10:44 p.m.,Northern Maine,Electrical System Separation
+2009-07-07 00:00:00,3:30 p.m.,"San Antonio, Texas",Made Public Appeals
+2009-07-08 00:00:00,1:30 p.m.,ERCOT Region,Made Public Appeals
+2009-07-14 00:00:00,1:00 p.m.,AEP SWEPCO/Louisiana Area,Made Public Appeals
+2009-07-15 00:00:00,1:00 p.m.,AEP SWEPCO/Louisiana Area,Made Public Appeals
+2009-07-16 00:00:00,1:00 p.m.,AEP SWEPCO/Louisiana Area,Made Public Appeals
+2009-07-18 00:00:00,7:00 p.m.,Houston/Galveston Area,Thunderstorms
+2009-07-20 00:00:00,9:50 p.m.,"Metro Denver (Jefferson, Adams, and Arapahoe Counties)",Severe Thunderstorm
+2009-07-21 00:00:00,5:34 a.m.,"San Francisco Bay Area, California",Unit Tripped
+2009-07-27 00:00:00,5:05 a.m.,"Chattanooga, Tennessee",Failure of Computer Hardware Used for Monitoring
+2009-07-28 00:00:00,8:18 p.m.,Salt Lake City Utah and Northern Utah,Loss of Part of Substation
+2009-08-02 00:00:00,2:17 a.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsyvania",Highwinds
+2009-08-04 00:00:00,1:45 p.m.,"Northern Kentucky, Southwest Ohio and Central and South Indiana",Thunderstorms
+2009-08-05 00:00:00,3:00 p.m.,ERCOT Region,Made Public Appeals
+2009-08-07 00:00:00,11:00 p.m.,Western Region of Service Territory,High Winds and Rain
+2009-08-09 00:00:00,7:31 p.m.,"Michigan, Lower Peninsula",Severe Thunderstorms
+2009-08-12 00:00:00,6:25 p.m.,South Houston Service Area,Thunderstorms
+2009-08-21 00:00:00,7:00 p.m.,Houston Metropolitan Service Area,Thunderstorms
+2009-08-29 00:00:00,11:00 a.m.,Western South Dakota,Electrical System Separation
+2009-08-29 00:00:00,10:54 p.m.,Western South Dakota,Electrical System Separation
+2009-08-31 00:00:00,10:31 a.m.,"City of Los Angeles, California",Made Public Appeals
+2009-10-07 00:00:00,5:45 a.m.,Southeast Michigan,Severe Storms
+2009-10-09 00:00:00,6:30 p.m.,"Central Valley, CA (Bakersfield, CA)",Transmission System Interruption
+2009-10-09 00:00:00,10:45 p.m.,Arkansas and North Louisiana,Winter Storm
+2009-10-13 00:00:00,12:48 p.m.,Southeastern Wyoming,Ice
+2009-10-13 00:00:00,3:45 p.m.,Sacramento County,High Winds
+2009-10-13 00:00:00,4:00 p.m.,Northern California,High Winds and Rain
+2009-11-12 00:00:00,6:45 p.m.,"Southeastern Virginia, Northeastern North Carolina",Tropical Storm Ida
+2009-11-18 00:00:00,6:15 a.m.,"Central Valley, CA",Switching Failure
+2009-12-07 00:00:00,10:00 p.m.,California,Forced Outage Equipment Failure
+2009-12-08 00:00:00,1:00 a.m.,Arizona,Severe Weather
+2009-12-08 00:00:00,6:34 a.m.,California,Load Shed/Made Public Appeals
+2009-12-09 00:00:00,1:37 p.m.,Ohio,Severe Weather
+2009-12-10 00:00:00,5:45 p.m.,Michigan,Severe Weather
+2009-12-18 00:00:00,8:00 p.m.,"West Virginia, Kentucky, Ohio",Severe Weather
+2009-12-18 00:00:00,10:55 p.m.,Western North Carolina,Severe Weather
+2010-01-06 00:00:00,6:00 p.m.,Southwest Louisiana,Made Public Appeals
+2010-01-11 00:00:00,3:45 a.m.,Northern and Central Florida,Interruptible Load Shed/Made Public Appeals
+2010-01-18 00:00:00,11:30 a.m.,Northern and Central California,Severe Storm
+2010-01-19 00:00:00,7:30 a.m.,San Francisco,Severe Storm
+2010-01-19 00:00:00,2:30 p.m.,San Diego and Orange Counties,Severe Storm
+2010-01-20 00:00:00,1:00 p.m.,"City of Los Angeles, California",Severe Storm
+2010-01-28 00:00:00,12:00 p.m.,Oklahoma,Ice Storm
+2010-02-01 00:00:00,2:32 p.m.,Oklahoma,Ice Storm/Electrical System Separation
+2010-02-05 00:00:00,3:00 p.m.,Southern NJ,Winter Storm
+2010-02-05 00:00:00,6:48 p.m.,North and South Carolina,Winter Storm
+2010-02-05 00:00:00,7:00 p.m.,"District of Columbia, Prince Georges and Montgomery Co. MD",Winter Storm
+2010-02-05 00:00:00,10:30 p.m.,Southwestern Pennsylvania,Winter Storm
+2010-02-05 00:00:00,11:30 p.m.,"Indiana, Ohio, W. Virginia and Virginia",Winter Storm
+2010-02-06 00:00:00,2:30 a.m.,"Virginia, North Carolina",Winter Storm
+2010-02-06 00:00:00,8:00 a.m.,Delmarva Peninsula,Winter Storm
+2010-02-09 00:00:00,6:00 p.m.,Southeastern Pennsylvania,Winter Storm
+2010-02-11 00:00:00,12:00 p.m.,Dallas/Fort Worth and East Texas,Winter Storm
+2010-02-12 00:00:00,5:00 a.m.,"East Texas, Western Arkansas, Northern Lousiania",Winter Storm
+2010-02-14 00:00:00,10:00 a.m.,Western Pennsylvania nd Northeast Central WV,Winter Storm
+2010-02-19 00:00:00,8:30 p.m.,"San Joaquin Field Division/Bakersfield, CA",Firm System Load Shed
+2010-02-23 00:00:00,10:00 p.m.,Upstate New York,Winter Storm
+2010-02-25 00:00:00,12:01 a.m.,"Southeastern New York, Northern New Jersey",Winter Storm
+2010-02-25 00:00:00,5:00 p.m.,New York City,Winter Storm
+2010-02-25 00:00:00,11:53 p.m.,Southern Maine and New Hampshire,Winter Storm
+2010-03-13 00:00:00,1:00 a.m.,Southeasten Pennsylvania,High Winds and rain
+2010-03-13 00:00:00,12:00 p.m.,Connecticut,High Winds and Rain
+2010-03-13 00:00:00,3:00 p.m.,Long Island,High Winds and Rain
+2010-03-13 00:00:00,4:00 p.m.,Central New Jersey and Northern New Jersey,High Winds and Flooding
+2010-03-13 00:00:00,6:00 p.m.,"Southern, Central and Northern New Jersey",High Winds and Rain
+2010-03-13 00:00:00,6:00 p.m.,New York City and Westchester County,High Winds and Rain
+2010-03-31 00:00:00,11:59 p.m.,San Diego and Orange Counties,Shed Firm Load
+2010-03-31 00:00:00,11:59 p.m.,San Diego,Shed Firm Load
+2010-04-16 00:00:00,5:15 p.m.,Southwestern Pennsylvania,Severe Thunderstorms
+2010-04-21 00:00:00,3:05 p.m.,"Iberville, Parish, Louisiana",Generator Tripped
+2010-04-27 00:00:00,2:55 p.m.,"Rocky Mount, NC",Transmission System Interruption
+2010-05-02 00:00:00,2:40 p.m.,Tennessee and Mississippi,Thunderstorms
+2010-05-18 00:00:00,8:15 a.m.,Central California,Breakers Tripped
+2010-05-26 00:00:00,11:45 a.m.,"Maryland, Pennsylvania, West Virginia, Virginia",Made Public Appeal - System Drill
+2010-06-01 00:00:00,10:03 p.m.,Southwestern Indiana,Firm Load Shed
+2010-06-02 00:00:00,8:18 p.m.,"San Antonio, TX",Severe Weather
+2010-06-06 00:00:00,4:45 a.m.,Northern California,Electric System Separation
+2010-06-07 00:00:00,6:29 p.m.,Denver Metropolitan Area,Firm Load Shed
+2010-06-08 00:00:00,11:00 a.m.,Southeastern Texas,Thunderstorms
+2010-06-09 00:00:00,2:18 p.m.,"Edenton, NC",Transmission System Interruption
+2010-06-16 00:00:00,11:11 a.m.,New York (Rockland and Orange Counties),Voltage Reduction (System Test)
+2010-06-17 00:00:00,8:30 a.m.,"Morgan City, LA",Made Public Appeal
+2010-06-17 00:00:00,9:30 a.m.,Southern Louisiana,Made Public Appeal
+2010-06-17 00:00:00,9:30 a.m.,Southern Louisiana,Made Public Appeal
+2010-06-17 00:00:00,9:30 a.m.,Southwestern Louisiana,Made Public Appeal
+2010-06-17 00:00:00,10:49 a.m.,Eastern Montana,Electrical System Separation
+2010-06-18 00:00:00,3:30 p.m.,Northwest Indiana,Thunderstorms
+2010-06-18 00:00:00,4:00 p.m.,"Chicago, IL",Severe Weather
+2010-06-18 00:00:00,7:00 p.m.,Southern Portion of Lower Michigan,Thunderstorms
+2010-06-18 00:00:00,8:00 p.m.,"Indiana, Michigan",Severe Weather
+2010-06-18 00:00:00,8:00 p.m.,"Detroit, MI",Severe Weather
+2010-06-21 00:00:00,1:48 p.m.,"Cincinnati, OH",Thunderstorms
+2010-06-22 00:00:00,3:34 p.m.,West/Central Arkansas,Made Public Appeal/Transmission Equipment Failure
+2010-06-23 00:00:00,5:00 p.m.,"Chicago, IL",Severe Weather
+2010-06-23 00:00:00,5:48 p.m.,Northwest Indiana,Thunderstorms
+2010-06-24 00:00:00,3:00 p.m.,Southwestern New Jersey,Thunderstorms
+2010-06-24 00:00:00,3:30 p.m.,Southeastern Pennsylvania,Thunderstorms
+2010-06-25 00:00:00,11:36 p.m.,Northern California,Electrical System Separation
+2010-07-06 00:00:00,3:47 a.m.,"Newark, DE",Transformer Outage
+2010-07-07 00:00:00,4:13 p.m.,"York, South Central Pennsylvania",Loss of Transmission Equipment
+2010-07-15 00:00:00,7:00 p.m.,Southeastern Michigan,Severe Weather
+2010-07-17 00:00:00,8:30 p.m.,Minnesota,"Strong Winds, Tornadoes"
+2010-07-21 00:00:00,6:44 p.m.,Connecticut,Thunderstorms
+2010-07-23 00:00:00,10:00 a.m.,Northern Utah,Made Public Appeals
+2010-07-23 00:00:00,7:30 p.m.,Southeastern Michigan,Severe Weather
+2010-07-25 00:00:00,3:10 p.m.,"Washington, DC Region",Severe Weather
+2010-07-25 00:00:00,3:20 p.m.,Central Maryland,Severe Weather
+2010-07-25 00:00:00,4:11 p.m.,Northern Virginia,Severe Weather
+2010-07-29 00:00:00,5:43 p.m.,Virginia,Thunderstorms
+2010-07-29 00:00:00,6:39 p.m.,Southern California,"Shed Interruptible Load, Wildfire"
+2010-07-29 00:00:00,6:39 p.m.,Southern California,"Shed Interruptible Load, Wildfire"
+2010-08-02 00:00:00,12:00 p.m.,Central California,Fuel Supply Deficiency (Hydro)
+2010-08-02 00:00:00,12:45 p.m.,Southern Louisiana,Made Public Appeals
+2010-08-02 00:00:00,12:45 p.m.,Southern Louisiana,Made Public Appeals
+2010-08-02 00:00:00,12:45 p.m.,Southwestern Louisiana,Made Public Appeals
+2010-08-02 00:00:00,12:45 p.m.,Southern Louisiana,Made Public Appeals
+2010-08-04 00:00:00,12:00 p.m.,"Northern Texas, Eastern New Mexico",Made Public Appeals
+2010-08-04 00:00:00,4:45 p.m.,"Western Pennsylvania, Northwestern and Central West Virginia",Thunderstorms
+2010-08-04 00:00:00,5:00 p.m.,"Ohio, West Virginia, Kentucky",Severe Weather
+2010-08-05 00:00:00,3:30 p.m.,"District of Columbia, Maryland",Thunderstorms
+2010-08-05 00:00:00,3:54 p.m.,Northern Virginia,Thunderstorms
+2010-08-09 00:00:00,12:00 p.m.,Upstate New York,Fuel Supply Defiency
+2010-08-11 00:00:00,3:21 p.m.,Ohio,Severe Weather
+2010-08-12 00:00:00,6:45 a.m.,"District of Columbia, Maryland",Severe Weather
+2010-08-12 00:00:00,8:21 a.m.,Central Nebraska,Made Public Appeals
+2010-08-12 00:00:00,3:42 p.m.,"City of Oshkosh, Wisconsin",Made Public Appeals
+2010-08-19 00:00:00,6:00 p.m.,Southeastern Michigan,Severe Weather
+2010-08-23 00:00:00,5:50 p.m.,"Houston, Texas",Severe Weather
+2010-09-01 00:00:00,10:20 a.m.,"Pittsburg (Bay Area), California",Electrical System Separation (Islanding)
+2010-09-07 00:00:00,2:02 p.m.,"San Antonio, Texas",Tropical Storm
+2010-09-20 00:00:00,5:00 p.m.,"King George County, Virginia",Low Flying Helicopter
+2010-09-21 00:00:00,9:31 p.m.,Central and Southern Michigan,Thunderstorms
+2010-09-22 00:00:00,6:12 a.m.,"Bakersfield, California",Firm Load Shed
+2010-09-22 00:00:00,4:08 p.m.,"City of Pittsburgh, Pennsylvania",Thunderstorms
+2010-09-22 00:00:00,5:38 p.m.,Western Pennsylvania,Thunderstorms
+2010-09-27 00:00:00,3:15 p.m.,Central and Southern California,Interruptible Load Shed
+2010-10-05 00:00:00,5:45 a.m.,"City of Los Angeles, California",Rain and High Winds
+2010-10-26 00:00:00,9:00 a.m.,Northern Illinois,Thunderstorms
+2010-10-26 00:00:00,8:00 p.m.,Minnesota,High Winds
+2010-10-27 00:00:00,4:00 a.m.,Northeast and North Central Wisconsin,High Winds
+2010-10-27 00:00:00,8:00 a.m.,Michigan's Northerly Lower Peninsula,High Winds
+2010-10-27 00:00:00,5:00 p.m.,Northern Illinois,High Winds
+2010-10-27 00:00:00,5:16 p.m.,Northern California,Electrical System Separation-Islanding
+2010-10-31 00:00:00,10:26 p.m.,"Bakersfield, California",Firm System Load Loss
+2010-11-04 00:00:00,9:46 a.m.,"Rock Springs, Wyoming",Transmission Equipment Failure/Interruptible Load Shed
+2010-11-06 00:00:00,3:53 p.m.,Northern California,Electrical System Separation - Islanding
+2010-11-08 00:00:00,6:47 a.m.,Maine,Snow and High Winds
+2010-11-13 00:00:00,3:00 p.m.,Minnesota,Winter Storm
+2010-11-15 00:00:00,11:00 p.m.,Puget Sound Region,High Winds
+2010-11-21 00:00:00,1:39 a.m.,Northern and Central California,Winter Storm
+2010-11-22 00:00:00,11:00 p.m.,"Puget Sound Region, Washington",Winter Storm
+2010-11-23 00:00:00,2:01 p.m.,Northern California,Electrical System Separation - Islanding
+2010-12-03 00:00:00,9:32 p.m.,California,Electrical System Separation - Islanding
+2010-12-12 00:00:00,4:30 p.m.,Southeastern Michigan,Severe Weather
+2010-12-14 00:00:00,7:20 a.m.,California,Electrical System Separation - Islanding
+2010-12-14 00:00:00,7:36 a.m.,Southern California,Transmission Equipment/Firm System Load
+2010-12-18 00:00:00,5:00 a.m.,"Redmond, Washington",Severe Weather
+2010-12-26 00:00:00,8:15 a.m.,Carolina,Severe Weather
+2010-12-30 00:00:00,2:00 p.m.,New York,Fuel Supply Deficiency
+2011-01-11 00:00:00,23:08:00,"Athens, New York",Electrical Fault at Generator
+2011-01-12 00:00:00,06:00:00,Massachusetts,Winter Storm
+2011-01-13 00:00:00,07:21:00,North Florida,Firm System Load Shed
+2011-01-18 00:00:00,14:00:00,"Whitman, Auburn St Substation, Massachusetts",Vandalism
+2011-01-23 00:00:00,07:00:00,"Franklin County, Idaho",Vandalism
+2011-01-24 00:00:00,13:20:00,"Newman Power Plant, Texas",Suspicious Activity
+2011-01-25 00:00:00,03:23:00,"Newark, Delaware",Vandalism
+2011-01-26 00:00:00,09:25:00,"Carson City, Nevada",Suspected Telecommunications Attack
+2011-01-26 00:00:00,09:33:00,Michigan,Vandalism
+2011-01-26 00:00:00,17:00:00,"Montgomery and Prince George's County, Maryland and District of Columbia",Winter Storm
+2011-01-26 00:00:00,18:28:00,Maryland,Winter Storm
+2011-01-26 00:00:00,19:43:00,Northern Virginia,Winter Storm
+2011-01-27 00:00:00,09:30:00,"Hockessin, Delaware",Vandalism
+2011-01-27 00:00:00,17:00:00,Central New York,Fuel Supply Deficiency (Coal)
+2011-01-31 00:00:00,22:00:00,Southwestern Ohio and Indiana,Ice Storm
+2011-02-01 00:00:00,15:00:00,"Indiana, Ohio",Winter Storm
+2011-02-01 00:00:00,21:00:00,Northern Illinois,Winter Storm
+2011-02-02 00:00:00,03:00:00,"Philadelphia area, Pennsylvania",Winter Storm
+2011-02-02 00:00:00,05:43:00,Texas,Generation Inadequacy/Load Shed
+2011-02-02 00:00:00,06:22:00,Central Arizona,Generation Inadequacy/Load Shed
+2011-02-02 00:00:00,07:24:00,"Dona Ana and El Paso Counties, Texas and Hudspeth County, New Mexico",Generation Inadequacy/Load Shed
+2011-02-02 00:00:00,17:00:00,"Texas Panhandle, Southeastern New Mexico",Fuel Supply Deficiency (Natural Gas)
+2011-02-03 00:00:00,15:00:00,"San Diego area, California",Fuel Supply Deficiency (Natural Gas)
+2011-02-03 00:00:00,14:30:00,"Bowie, Maryland",Suspected Cyber Attack
+2011-02-03 00:00:00,22:04:00,Texas,Generation Inadequacy/Load Shed
+2011-02-09 00:00:00,03:45:00,"Western Houston, Texas",Winter Storm
+2011-02-09 00:00:00,14:54:00,"University Place, Washington",Vandalism
+2011-02-09 00:00:00,16:30:00,Texas,Cold Weather Event
+2011-02-10 00:00:00,13:00:00,"LaGrande, Washington",Vandalism
+2011-02-17 00:00:00,01:25:00,Northern and Central California,Major Storm
+2011-02-17 00:00:00,13:00:00,"Roseville, California",Suspected Cyber Attack
+2011-02-19 00:00:00,12:30:00,"Philadelphia area, Pennsylvania",Major Storm
+2011-02-19 00:00:00,16:34:00,"Harrington, Delaware",Vandalism
+2011-02-20 00:00:00,16:00:00,"Southern Lower Peninsula, Michigan",Winter Storm
+2011-02-24 00:00:00,16:51:00,Arkansas,Electrical System Separation (Islanding)
+2011-02-25 00:00:00,15:20:00,Virginia,Severe Weather
+2011-02-25 00:00:00,15:23:00,Maryland,Severe Weather
+2011-02-25 00:00:00,08:00:00,Northern and Central California,Winter Storm
+2011-02-25 00:00:00,10:30:00,"Salt Lake City, Utah",Vandalism
+2011-03-01 00:00:00,08:00:00,Western New York,Fuel Supply Deficiency (Coal)
+2011-03-06 00:00:00,02:54:00,"Salt Lake City Region, Utah",Vandalism
+2011-03-08 00:00:00,08:00:00,Western New York,Fuel Supply Deficiency (Coal)
+2011-03-10 00:00:00,12:03:00,Texas,Suspected Physical Attack
+2011-03-11 00:00:00,07:02:00,"Humboldt and Eureka, California",Generation Inadequacy/Load Shed
+2011-03-13 00:00:00,14:20:00,Oregon,Severe Weather
+2011-03-14 00:00:00,07:30:00,"Baltimore, Maryland",Suspected Cyber Attack
+2011-03-15 00:00:00,18:00:00,"The Woodlands, Texas",Suspected Physical Attack
+2011-03-17 00:00:00,07:40:00,"Deerfield, New Hampshire",Vandalism
+2011-03-18 00:00:00,09:54:00,"Greene County, Ohio",Vandalism
+2011-03-19 00:00:00,23:56:00,Northern and Central California,Major Storm
+2011-03-20 00:00:00,09:44:00,"Los Angeles, California",Major Storm
+2011-03-21 00:00:00,12:35:00,Southern California,Major Storm
+2011-03-21 00:00:00,00:57:00,"Deerfield, New Hampshire",Vandalism
+2011-03-23 00:00:00,18:30:00,"Indiana. Kentucky, Michigan, Ohio, Tennessee, Virginia, West Virginia",Major Storm
+2011-03-27 00:00:00,13:27:00,"Sonoma and Central Valley, California",Transmission Level Outage
+2011-03-31 00:00:00,14:30:00,Central and Western Florida,Severe Weather
+2011-03-31 00:00:00,11:30:00,"Greater Tampa Bay, Florida",Severe Weather
+2011-04-03 00:00:00,20:23:00,Unknown,Suspected Cyber Attack
+2011-04-04 00:00:00,11:47:00,"Memphis, Tennessee",Severe Weather
+2011-04-04 00:00:00,13:00:00,"Shelby County, Tennessee",Severe Weather
+2011-04-04 00:00:00,14:00:00,"Davidson County, Tennessee",Severe Weather
+2011-04-04 00:00:00,19:00:00,"Southeast Arkansas, Southeast Louisiana, Western Mississippi, Eastern Texas",Severe Weather
+2011-04-04 00:00:00,19:00:00,"Kentucky, West Virginia",Severe Weather
+2011-04-04 00:00:00,21:00:00,"Alabama, Florida, Georgia, Mississippi",Severe Weather
+2011-04-05 00:00:00,02:00:00,"North Carolina, South Carolina",Severe Weather
+2011-04-06 00:00:00,10:50:00,"Felton, Delaware",Vandalism
+2011-04-11 00:00:00,17:40:00,"Salt Lake City, Utah",Suspicious Activity
+2011-04-16 00:00:00,14:16:00,Central and Eastern North Carolina,Severe Weather
+2011-04-19 00:00:00,20:00:00,Illinois,Severe Weather
+2011-04-19 00:00:00,14:01:00,"Graham, Washington",Vandalism
+2011-04-19 00:00:00,22:44:00,"Memphis, Tennessee",Severe Weather
+2011-04-19 00:00:00,23:02:00,"Memphis, Tennessee",Severe Weather
+2011-04-19 00:00:00,23:13:00,"Osceola, Arkansas",Severe Weather
+2011-04-20 00:00:00,02:00:00,"Indiana, Kentucky, Ohio",Severe Weather - High Winds
+2011-04-20 00:00:00,08:07:00,"Ruston, Louisiana",Equipment Malfunction
+2011-04-21 00:00:00,07:15:00,"Oquirrh Substation, Salt Lake City, Utah",Vandalism
+2011-04-21 00:00:00,19:00:00,"Trenton, Michigan",Suspicious Activity
+2011-04-22 00:00:00,21:00:00,"Metro St. Louis area, Missouri",Severe Weather
+2011-04-25 00:00:00,16:33:00,Northeast Tennessee,Equipment Malfunction
+2011-04-25 00:00:00,17:30:00,"Arkansas, Louisiana, Mississippi",Severe Weather
+2011-04-26 00:00:00,05:49:00,Southern Louisiana,Severe Weather
+2011-04-26 00:00:00,09:51:00,"Alabama, Georgia, Mississippi, Tennessee",Severe Weather
+2011-04-26 00:00:00,13:04:00,"Salt Lake City, Utah",Vandalism
+2011-04-26 00:00:00,18:14:00,Eastern Arkansas,Severe Weather
+2011-04-27 00:00:00,08:00:00,"Alabama, Florida, Georgia, Mississippi",Severe Weather
+2011-04-27 00:00:00,10:00:00,"Alabama, Georgia, Mississippi, Tennessee",Severe Weather
+2011-04-27 00:00:00,22:00:00,"Ohio, Tennessee, Virginia",Severe Weather
+2011-04-28 00:00:00,05:00:00,"Cleveland area, Ohio",Severe Weather
+2011-04-28 00:00:00,16:09:00,"Phoenix, Arizona",Equipment Malfunction
+2011-05-02 00:00:00,17:06:00,Hawaii,Severe Weather
+2011-05-02 00:00:00,14:00:00,"West River Substation, New Haven, Connecticut",Suspected Physical Attack
+2011-05-02 00:00:00,08:52:00,"N. Ogden Substation, Ogden, Utah",Vandalism
+2011-05-03 00:00:00,12:00:00,"St. Lawrence Power Dam, New York",Suspected Physical Attack
+2011-05-04 00:00:00,13:08:00,Maryland,Suspected Physical Attack
+2011-05-04 00:00:00,12:20:00,Michigan,Suspected Sabotage
+2011-05-05 00:00:00,09:15:00,New Hampshire,Vandalism
+2011-05-06 00:00:00,06:56:00,"Alderwood Substation, Portland, Oregon",Vandalism
+2011-05-08 00:00:00,19:35:00,New York,Vandalism
+2011-05-09 00:00:00,13:11:00,"Milton, New Hampshire",Vandalism
+2011-05-09 00:00:00,04:08:00,"Holtwood, Pennsylvania",Suspected Physical Attack
+2011-05-10 00:00:00,22:21:00,"Kentucky, West Virginia",Severe Weather
+2011-05-10 00:00:00,13:45:00,New Hampshire,Vandalism
+2011-05-10 00:00:00,03:25:00,"Upper Peninsula, Michigan",Generation Inadequacy; Load Shed; Electrical System Separation (Islanding)
+2011-05-11 00:00:00,15:55:00,"Colbyville, Haines Road and Arrowhead Substations, Minnesota",Vandalism
+2011-05-11 00:00:00,13:35:00,"Green River, Wyoming",Vandalism
+2011-05-11 00:00:00,11:00:00,"North Chelsea Substation, New York",Vandalism
+2011-05-11 00:00:00,00:15:00,"Charlotte, North Carolina",Severe Weather
+2011-05-13 00:00:00,06:00:00,"Salt Lake, Utah",Vandalism
+2011-05-21 00:00:00,17:00:00,"Dixie Valley Area, Nevada",Physical Attack
+2011-05-22 00:00:00,17:09:00,"Joplin, Sarcoxie, and Wentworth, Missouri",Severe Weather
+2011-05-23 00:00:00,16:45:00,"Central, Indiana",Severe Weather
+2011-05-23 00:00:00,12:30:00,"St. Louis County, Missouri",Severe Weather
+2011-05-24 00:00:00,16:45:00,Central Oklahoma,Severe Weather
+2011-05-24 00:00:00,16:35:00,Eastern Virginia,Severe Weather
+2011-05-24 00:00:00,09:00:00,"Chicago, Illinois",Physical Attack
+2011-05-25 00:00:00,22:14:00,Central Indiana,Severe Weather
+2011-05-26 00:00:00,19:56:00,Central Pennsylvania,Severe Weather
+2011-05-26 00:00:00,18:30:00,"Southern Balancing Area, Georgia",Severe Weather
+2011-05-26 00:00:00,01:00:00,"Greenwood, Mississippi",Transmission Level Interruption
+2011-05-29 00:00:00,18:30:00,"Mid and Southern Lower Peninsula, Michigan",Severe Weather
+2011-06-02 00:00:00,23:45:00,"Greater Columbia, South Carolina",Severe Weather
+2011-06-04 00:00:00,01:17:00,"Midway, California",Vandalism
+2011-06-05 00:00:00,05:30:00,"Houston Metro-Area, Texas",Severe Thunderstorms
+2011-06-05 00:00:00,20:02:00,"Melones, California",Electrical System Separation (Islanding)
+2011-06-06 00:00:00,00:13:00,"El Paso County, Texas; Dona Ana County, New Mexico",Load Shed/ Automatic undervoltage relay action
+2011-06-06 00:00:00,15:00:00,"Eastern, Arkansas",Public Appeal to Reduce Electricity Usage
+2011-06-07 00:00:00,14:00:00,Ohio,Severe Weather
+2011-06-08 00:00:00,12:58:00,"Fredrickson Substation, Washington",Vandalism
+2011-06-09 00:00:00,04:30:00,Illinois,Severe Thunderstorms
+2011-06-09 00:00:00,14:15:00,"San Antonio Dam Area, Los Angeles County, California",Suspected Physical Attack
+2011-06-09 00:00:00,17:51:00,"Western, Massachusetts; Connecticut",Severe Thunderstorms
+2011-06-12 00:00:00,19:00:00,Virginia,Severe Thunderstorms
+2011-06-15 00:00:00,16:00:00,"Bingham County, Idaho",Vandalism
+2011-06-15 00:00:00,19:15:00,Georgia,Severe Thunderstorms
+2011-06-15 00:00:00,19:17:00,"Piedmont, North Carolina",Severe Thunderstorms
+2011-06-18 00:00:00,15:30:00,"Northern, Georgia",Severe Thunderstorms
+2011-06-18 00:00:00,16:45:00,"Eastern, Arkansas",Public Appeal to Reduce Electricity Usage
+2011-06-18 00:00:00,17:00:00,North Carolina; South Carolina,Severe Thunderstorms
+2011-06-20 00:00:00,10:36:00,"Collins Substation, Washington",Vandalism
+2011-06-21 00:00:00,18:30:00,AEP Region,Severe Weather
+2011-06-21 00:00:00,21:45:00,Illinois,Severe Thunderstorms
+2011-06-22 00:00:00,09:46:00,"Knoxville, Tennessee",Severe Weather
+2011-06-22 00:00:00,19:00:00,Alabama; Georgia,Severe Thunderstorms
+2011-06-22 00:00:00,20:12:00,"Knoble Substation, Spanaway, Washington",Vandalism
+2011-06-23 00:00:00,08:10:00,"Highgate, Vermont",Vandalism
+2011-06-24 00:00:00,18:30:00,North/North Central Alabama; Georgia,Severe Thunderstorms
+2011-06-26 00:00:00,16:46:00,Southwest Kansas,Public Appeal to Reduce Electricity Usage
+2011-06-26 00:00:00,18:00:00,Alabama; Georgia,Severe Thunderstorms
+2011-06-27 00:00:00,00:00:00,Illinois; Missouri,Severe Thunderstorms
+2011-06-27 00:00:00,15:00:00,Texas,Public Appeal to Reduce Electricity Usage
+2011-06-27 00:00:00,18:55:00,"Olympic Pipeline Substation, Washington",Vandalism
+2011-06-29 00:00:00,11:30:00,"Panhandle and Muleshoe, Texas",Public Appeal to Reduce Electricity Usage
+2011-06-30 00:00:00,14:11:00,"Phoenix, Arizona",Major System Interruption/Load Shed
+2011-06-30 00:00:00,22:30:00,Illinois,Severe Weather
+2011-06-30 00:00:00,22:31:00,"Olympic Pipeline Substation, Washington",Vandalism
+2011-07-01 00:00:00,08:00:00,"CONVEX Local Control Center, Connecticut",Vandalism
+2011-07-01 00:00:00,16:38:00,Greene County Ohio,Vandalism
+2011-07-01 00:00:00,17:00:00,Southwest and South Central Minnesota,Severe Weather
+2011-07-02 00:00:00,20:15:00,"South East, Lower Peninsula, Michigan",Severe Weather
+2011-07-04 00:00:00,18:00:00,Virginia,Severe Weather
+2011-07-05 00:00:00,10:40:00,West Valley Substation Utah,Vandalism
+2011-07-06 00:00:00,09:51:00,Vermont,Vandalism
+2011-07-08 00:00:00,10:00:00,"Saginaw, Minnesota",Vandalism
+2011-07-08 00:00:00,10:00:00,"PJM Corporate Office, Pennsylvania",Suspected Cyber Attack
+2011-07-11 00:00:00,09:00:00,Illinois,Severe Weather
+2011-07-11 00:00:00,09:00:00,Michigan,Severe Weather
+2011-07-11 00:00:00,11:15:00,Western and Southern Lower Peninsula Michigan,Severe Weather
+2011-07-11 00:00:00,13:13:00,Southwest Ohio,Vandalism
+2011-07-11 00:00:00,13:30:00,Maine,Vandalism
+2011-07-11 00:00:00,14:27:00,"Indiana, Michigan, Ohio",Severe Weather
+2011-07-12 00:00:00,12:00:00,Maine,Vandalism
+2011-07-12 00:00:00,20:20:00,California,Suspected Physical Attack
+2011-07-13 00:00:00,17:19:00,"Pueblo, Colorado",Load Shed
+2011-07-14 00:00:00,11:00:00,Texas,Public Appeal to Reduce Electricity Usage
+2011-07-18 00:00:00,17:00:00,Southeast Michigan,Severe Weather
+2011-07-19 00:00:00,11:45:00,Maine,Vandalism
+2011-07-20 00:00:00,09:10:00,"Frederickson Substation, Washington",Vandalism
+2011-07-21 00:00:00,12:32:00,"Lower Peninsula, Michigan",Public Appeal to Reduce Electricity Usage
+2011-07-21 00:00:00,13:00:00,"Springfield, Illinois",Public Appeal to Reduce Electricity Usage
+2011-07-22 00:00:00,11:00:00,"Upstate, New York",Public Appeal to Reduce Electricity Usage
+2011-07-22 00:00:00,11:34:00,Ohio,Load Shed
+2011-07-23 00:00:00,02:30:00,Illinois,Severe Weather
+2011-07-24 00:00:00,14:34:00,"Southern, New Hampshire",Vandalism
+2011-07-26 00:00:00,12:01:00,"Backup Control Center, Oklahoma",Vandalism
+2011-07-27 00:00:00,12:07:00,"Fife, Washington",Vandalism
+2011-07-28 00:00:00,07:26:00,"Daviess County, Kentucky",Fuel Supply Deficiency (Coal)
+2011-07-28 00:00:00,00:14:00,"Entire ComEd Territory, Indiana",Severe Weather
+2011-07-28 00:00:00,13:32:00,Indiana  ,Vandalism
+2011-07-28 00:00:00,19:25:00,"Spanaway, Washington",Vandalism
+2011-07-29 00:00:00,11:46:00,"Fredrickson, Washington",Vandalism
+2011-07-29 00:00:00,20:45:00,Central New Jersey,Severe Weather
+2011-08-01 00:00:00,15:00:00,Texas,Public Appeal to Reduce Electricity Usage
+2011-08-01 00:00:00,14:18:00,"Jefferson, Oregon",Vandalism
+2011-08-02 00:00:00,21:30:00,"Northeast, Illinois",Severe Weather
+2011-08-02 00:00:00,10:15:00,Oklahoma,Public Appeal to Reduce Electricity Usage
+2011-08-03 00:00:00,10:00:00,Western New York,Fuel Supply Deficiency (Coal)
+2011-08-03 00:00:00,16:30:00,Central Arkansas,Public Appeal to Reduce Electricity Usage
+2011-08-03 00:00:00,16:29:00,Northeast Oklahoma,Public Appeal to Reduce Electricity Usage
+2011-08-04 00:00:00,10:30:00,"Arkansas, Oklahoma, Texas",Public Appeal to Reduce Electricity Usage
+2011-08-08 00:00:00,09:30:00,"Greene County, Ohio",Suspected Physical Attack
+2011-08-08 00:00:00,20:58:00,Northern and Central Oklahoma,Severe Weather
+2011-08-08 00:00:00,19:36:00,Oklahoma,Electrical System Separation (Islanding)
+2011-08-08 00:00:00,09:35:00,"Collins Substation, Washington",Vandalism
+2011-08-09 00:00:00,10:26:00,"Polk Substation, Tacoma, Washington",Vandalism
+2011-08-13 00:00:00,16:41:00,Kentucky,Severe Weather
+2011-08-15 00:00:00,02:05:00,Utah,Vandalism
+2011-08-18 00:00:00,09:51:00,"Collins Substation, Washington",Suspected Physical Attack
+2011-08-20 00:00:00,17:42:00,Southeastern Michigan,Severe Weather
+2011-08-21 00:00:00,22:45:00,Puerto Rico,Severe Weather
+2011-08-22 00:00:00,10:05:00,"Collins Substation, Washington",Suspected Physical Attack
+2011-08-23 00:00:00,13:51:00,Virginia,Earthquake
+2011-08-23 00:00:00,10:30:00,"Southeastern New Mexico,  Texas Panhandle",Public Appeal to Reduce Electricity Usage
+2011-08-23 00:00:00,15:43:00,Texas,Public Appeal to Reduce Electricity Usage
+2011-08-24 00:00:00,13:20:00,Texas,Public Appeal to Reduce Electricity Usage
+2011-08-24 00:00:00,07:45:00,"Houston area, Texas",Severe Weather
+2011-08-24 00:00:00,14:51:00,"Arkansas, Louisiana, Texas",Severe Weather
+2011-08-25 00:00:00,00:01:00,Maine,Suspected Physical Attack
+2011-08-25 00:00:00,00:30:00,"Cleveland area, Ohio",Severe Weather
+2011-08-26 00:00:00,00:30:00,Pennsylvania,Severe Weather
+2011-08-27 00:00:00,23:05:00,District of Columbia; Maryland,Severe Weather
+2011-08-27 00:00:00,23:00:00,Maryland,Severe Weather
+2011-08-27 00:00:00,22:00:00,Southern New Jersey,Severe Weather
+2011-08-27 00:00:00,22:00:00,Pennsylvania,Severe Weather
+2011-08-27 00:00:00,20:30:00,Maryland,Severe Weather
+2011-08-27 00:00:00,13:00:00,Delaware; Maryland,Severe Weather
+2011-08-27 00:00:00,19:00:00,Eastern North Carolina,Severe Weather
+2011-08-27 00:00:00,10:33:00,North Carolina; Virginia,Severe Weather
+2011-08-27 00:00:00,02:57:00,Eastern North Carolina,Severe Weather
+2011-08-27 00:00:00,02:00:00,Wilson County North Carolina,Distribution System Interruption
+2011-08-28 00:00:00,12:30:00,New York,Severe Weather
+2011-08-28 00:00:00,12:10:00,Eastern Massachusetts,Severe Weather
+2011-08-28 00:00:00,09:42:00,Eastern New York,Severe Weather
+2011-08-28 00:00:00,07:40:00,Southwest Connecticut,Severe Weather
+2011-08-28 00:00:00,07:00:00,New York,Severe Weather
+2011-08-28 00:00:00,05:01:00,Borough's and Westshester County New York,Severe Weather
+2011-08-28 00:00:00,05:00:00,"Long Island, New York",Severe Weather
+2011-08-28 00:00:00,00:01:00,"Mid-Hudson, New York",Severe Weather
+2011-08-28 00:00:00,02:58:00,Eastern and Northeastern Pennsylvania,Severe Weather
+2011-08-28 00:00:00,00:30:00,Northern and Central New Jersey,Severe Weather
+2011-08-28 00:00:00,00:23:00,New Jersey,Severe Weather
+2011-08-28 00:00:00,20:55:00,"Calapooya Substation, Oregon",Suspected Physical Attack
+2011-08-31 00:00:00,12:52:00,Southwest Ohio,Suspected Physical Attack
+2011-09-01 00:00:00,08:13:00,"Graham Substaion, Washington",Vandalism
+2011-09-03 00:00:00,14:00:00,"Southeast Lower Peninsula, Michigan",Severe Weather
+2011-09-05 00:00:00,16:30:00,Alabama; Georgia,Severe Weather
+2011-09-07 00:00:00,00:08:00,Western Connecticut; New York,Actual Physical Attack
+2011-09-08 00:00:00,15:28:00,Arizona; California,Transmission/Distribution Interruption; Load Shed; Generation Inadequacy
+2011-09-08 00:00:00,19:53:00,"Collins Substation, Tacoma, Washington",Vandalism
+2011-09-12 00:00:00,09:15:00,"English Creek, New Jersey",Vandalism
+2011-09-13 00:00:00,11:43:00,"Lacamas Substation, Roy, Washington",Vandalism
+2011-09-13 00:00:00,14:03:00,"Saranac, New York",Vandalism
+2011-09-14 00:00:00,09:00:00,"Salt Lake County, Utah",Vandalism
+2011-09-20 00:00:00,12:55:00,"Lacamas Substaion, Washington",Vandalism
+2011-09-21 00:00:00,10:30:00,"Hockessin, Delaware",Suspected Physical Attack
+2011-09-21 00:00:00,14:37:00,Puerto Rico,Generation Inadequacy; Load Shed
+2011-09-22 00:00:00,14:50:00,"Montgomery County, Ohio",Vandalism
+2011-09-23 00:00:00,09:04:00,"North Haven, Connecticut",Vandalism
+2011-09-24 00:00:00,16:17:00,"Collins Substation, Tacoma, Washington",Vandalism
+2011-09-26 00:00:00,10:15:00,"McKee City, New Jersey",Vandalism
+2011-09-29 00:00:00,05:00:00,"Houston metro area, Texas",Severe Weather
+2011-09-28 00:00:00,09:30:00,"Watertown, Connecticut",Vandalism
+2011-09-28 00:00:00,14:59:00,"Dorothy, New Jersey",Vandalism
+2011-09-28 00:00:00,16:41:00,"Bethany Beach, Delaware",Suspected Physical Attack
+2011-09-29 00:00:00,18:44:00,"Collins Substation, Tacoma, Washington",Vandalism
+2011-09-30 00:00:00,08:22:00,"Wilmington, Delaware",Suspected Physical Attack
+2011-10-06 00:00:00,11:07:00,"Oquirrh Substation, Utah",Vandalism
+2011-10-07 00:00:00,08:04:00,"Olympic Pipeline, Spanaway, Washington",Suspected Physical Attack
+2011-10-14 00:00:00,14:20:00,"English Creek, New Jersey",Vandalism
+2011-10-17 00:00:00,03:34:00,"Seat Pleasant, Maryland",Vandalism
+2011-10-17 00:00:00,15:44:00,Southwest Ohio,Vandalism
+2011-10-18 00:00:00,03:45:00,"Holmesburg Substation, Philadelphia, Pennsylvania",Suspected Physical Attack
+2011-10-20 00:00:00,07:15:00,"McKee, New Jersey",Vandalism
+2011-10-24 00:00:00,23:37:00,"Holmesburg Substation, Philadelphia, Pennsylvania",Suspected Physical Attack
+2011-10-26 00:00:00,05:00:00,"Denver; Ft. Collins, Colorado",Severe Weather
+2011-10-27 00:00:00,01:00:00,"Munster, Indiana",Vandalism
+2011-10-29 00:00:00,08:59:00,Pennsylvania,Severe Weather
+2011-10-29 00:00:00,08:59:00,Pennsylvania,Severe Weather
+2011-10-29 00:00:00,09:59:00,Northwest and Central New Jersey,Severe Weather
+2011-10-29 00:00:00,11:18:00,Southeast New York,Severe Weather
+2011-10-29 00:00:00,12:57:00,"Harrisburg, Lehigh Valley, Lancaster Region Pennsylvania",Severe Weather
+2011-10-29 00:00:00,14:00:00,Southeast Pennsylvania,Severe Weather
+2011-10-29 00:00:00,14:30:00,New Jersey,Severe Weather
+2011-10-29 00:00:00,15:00:00,"Mid-Hudson Valley Region, New York",Severe Weather
+2011-10-29 00:00:00,16:14:00,Connecticut; Maine; Massachusetts; New Hampshire; Rhode Island,Severe Weather
+2011-10-29 00:00:00,16:16:00,New York City area,Severe Weather
+2011-10-29 00:00:00,20:00:00,New Jersey; New York,Severe Weather
+2011-11-04 00:00:00,10:46:00,"Sweetwater County, Wyoming",Vandalism
+2011-11-13 00:00:00,11:30:00,"Cate Road, Deerfield, New Hampshire",Vandalism
+2011-11-14 00:00:00,14:24:00,"McKee, New Jersey",Vandalism
+2011-11-22 00:00:00,23:16:00,Indiana,Suspected Physical Attack
+2011-11-30 00:00:00,10:00:00,"Orchard Substation, Washington",Vandalism
+2011-11-30 00:00:00,16:56:00,"City of Los Angeles, California",Severe Weather
+2011-12-01 00:00:00,00:45:00,Southern California,Severe Weather
+2011-12-01 00:00:00,03:29:00,Northern California,Severe Weather
+2011-12-01 00:00:00,10:00:00,Wasatch Front Area Utah,Severe Weather
+2011-12-02 00:00:00,16:15:00,Rusk County Texas,Suspected Physical Attack
+2011-12-05 00:00:00,14:00:00,"Tacoma, Washington",Suspected Physical Attack
+2011-12-06 00:00:00,08:00:00,"Bismarck-Mandan, North Dakota",Public Appeal to Reduce Electricity Usage
+2011-12-06 00:00:00,17:38:00,"Montague, Michigan",Suspected Physical Attack
+2011-12-07 00:00:00,19:29:00,Central Virginia,Severe Weather
+2011-12-08 00:00:00,08:45:00,"Tacoma, Washington",Suspected Physical Attack
+2011-12-13 00:00:00,03:19:00,Clinton County Ohio,Suspected Physical Attack
+2011-12-19 00:00:00,08:48:00,"Croft Substation, Tacoma, Washington",Suspected Physical Attack
+2011-12-20 00:00:00,07:45:00,"Sweet Home, Oregon",Suspected Physical Attack
+2011-12-20 00:00:00,09:30:00,"Tacoma, Washington",Suspected Physical Attack
+2011-12-21 00:00:00,10:30:00,"Boise, Idaho",Suspected Cyber Attack
+2011-12-31 00:00:00,21:26:00,"Tacoma, Washington",Suspected Physical Attack
+2012-01-04 00:00:00,12:14:00,"Tacoma, Washington",Suspected physical attack
+2012-01-05 00:00:00,10:35:00,"CSWS/AEP West territory, Oklahoma",Sabotage
+2012-01-05 00:00:00,10:28:00,"Creek County, Oklahoma",Suspected physical attack
+2012-01-09 00:00:00,14:30:00,"Watertown, Connecticut",Vandalism
+2012-01-09 00:00:00,13:36:00,Louisiana,Load Shed
+2012-01-10 00:00:00,21:30:00,"Rusk County, Texas",Load Shed
+2012-01-11 00:00:00,07:19:00,Nevada,Suspected Physical Attack
+2012-01-12 00:00:00,08:26:00,"Newark, Delaware",Physical Attack
+2012-01-13 00:00:00,09:20:00,"Newark, Delaware",Physical Attack
+2012-01-15 00:00:00,09:35:00,"Tacoma, Washington",Vandalism
+2012-01-17 00:00:00,10:31:00,"Austin, Texas",Suspected Cyber Attack
+2012-01-19 00:00:00,07:00:00,"King, Pierce and Thurston Counties, Washington",Severe Weather - Winter Storm
+2012-01-24 00:00:00,11:22:00,"Tacoma, Washington",Vandalism
+2012-01-27 00:00:00,09:40:00,"Frederickson Substation, Spanaway, Washington",Vandalism
+2012-01-29 00:00:00,12:45:00,"Roosevelt Substation, Tacoma, Washington",Vandalism
+2012-02-11 00:00:00,08:47:00,"Lamar, Colorado",Suspected Physical Attack
+2012-02-11 00:00:00,08:55:00,"Tacoma, Washington",Suspected Physical Attack
+2012-02-13 00:00:00,07:02:00,"Asheville, North Carolina",Suspected Physical Attack
+2012-02-14 00:00:00,19:20:00,"Tacoma, Washington",Suspected Physical Attack
+2012-02-15 00:00:00,05:33:00,"Port Orchard, Washington",Suspected Physical Attack
+2012-02-17 00:00:00,03:00:00,"Little Rock, Arkansas",Suspected Cyber Attack
+2012-02-19 00:00:00,17:00:00,"Kentucky, Virginia, West Virginia",Severe Weather - Winter Storm
+2012-02-23 00:00:00,05:45:00,"South East College Station, Texas",Suspected Physical Attack
+2012-02-23 00:00:00,23:12:00,"Londonderry, New Hampshire",Suspected Physical Attack
+2012-02-24 00:00:00,11:24:00,"Spanaway, Washington",Suspected Physical Attack
+2012-02-28 00:00:00,02:59:00,"Sacramento, California",Electrical System Separation (Islanding)
+2012-02-28 00:00:00,07:00:00,Coos County Oregon,Suspected Physical Attack
+2012-03-02 00:00:00,12:37:00,Northern Alabama; Southeast Tennessee,Severe Weather - Tornadoes 
+2012-03-02 00:00:00,13:45:00,"Piggott, Arkansas",Operational Failure/Equipment Malfunction
+2012-03-02 00:00:00,21:00:00,"Southeastern, Michigan",Severe Weather - Winter Storm
+2012-03-02 00:00:00,21:00:00,"Lower Peninsula, Michigan",Severe Weather - Winter Storm
+2012-03-04 00:00:00,01:27:00,"Prince Georges County, Maryland",Suspected Physical Attack
+2012-03-04 00:00:00,13:38:00,Texas,Suspected Physical Attack
+2012-03-16 00:00:00,16:00:00,"New Castle, Delaware",Suspected Physical Attack
+2012-03-20 00:00:00,08:00:00,"Houston, Texas",Severe Weather - Thunderstorms
+2012-03-23 00:00:00,19:34:00,"Newark, Delaware",Suspected Physical Attack
+2012-03-26 00:00:00,13:24:00,"Tacoma, Washington",Suspected Physical Attack
+2012-03-28 00:00:00,10:17:00,"Graham, Washington",Suspected Physical Attack
+2012-03-29 00:00:00,12:01:00,"Lansing, Michigan",Electrical System Separation (Islanding)
+2012-03-30 00:00:00,11:10:00,Vermont,Suspected Physical Attack
+2012-04-01 00:00:00,20:27:00,"Council Bluffs, Iowa",Vandalism
+2012-04-03 00:00:00,11:10:00,"West Rutland, Vermont",Vandalism
+2012-04-03 00:00:00,15:33:00,"Seattle, Washington",Physical Attack
+2012-04-04 00:00:00,15:32:00,"WAPA-SNR Regional Office, California",Suspected Physical Attack
+2012-04-07 00:00:00,14:35:00,"Newark, Delaware",Physical Attack
+2012-04-07 00:00:00,12:25:00,"Newark, Delaware",Physical Attack
+2012-04-07 00:00:00,09:31:00,"Newark, Delaware",Physical Attack
+2012-04-11 00:00:00,09:00:00,"North Attleboro, Massachusetts ",Vandalism
+2012-04-12 00:00:00,08:08:00,"Tacoma, Washington",Suspected Physical Attack
+2012-04-15 00:00:00,19:38:00,Georgia,Suspected Physical Attack
+2012-04-16 00:00:00,15:46:00,"Southeast, Michigan",Severe Weather - High Winds
+2012-04-17 00:00:00,06:11:00,"San Diego County, California",Suspected Physical Attack
+2012-04-19 00:00:00,07:53:00,"Tacoma, Washington",Suspected Physical Attack
+2012-04-20 00:00:00,14:27:00,"Metropolitan Houston, Texas",Severe Weather - Thunderstorms
+2012-04-21 00:00:00,15:02:00,"East Bridgewater, Massachusetts",Physical Attack
+2012-04-21 00:00:00,20:55:00,"Tacoma, Washington",Suspected Physical Attack
+2012-04-23 00:00:00,08:11:00,Northwest Indiana,Suspected Physical Attack
+2012-04-23 00:00:00,11:56:00,"Snohomish County, Washington",Suspected Physical Attack
+2012-05-07 00:00:00,12:50:00,"Williston, Vermont",Vandalism
+2012-05-07 00:00:00,17:45:00,Eastern Ohio,Load Shed/Severe Weather  - Lightning Storm
+2012-05-11 00:00:00,11:05:00,"Lakewood, Washington",Vandalism
+2012-05-24 00:00:00,15:20:00,"Tyngsborough, Massachusetts",Physical Attack
+2012-05-29 00:00:00,18:30:00,"Alder Dam, Pierce County, Washington",Physical Attack
+2012-05-29 00:00:00,20:35:00,"Oklahoma City Metro Area, Oklahoma",Severe Weather - Thunderstorms
+2012-05-31 00:00:00,23:45:00,"Columbus, Ohio",Physical Attack
+2012-06-02 00:00:00,07:30:00,"San Francisco, California",Vandalism
+2012-06-06 00:00:00,08:00:00,"Delhi, New York",Vandalism
+2012-06-06 00:00:00,12:37:00,"Columbia Heights, NW, Washington DC",Vandalism
+2012-06-08 00:00:00,17:20:00,"Denver Metro Area, Colorado",Load Shed
+2012-06-11 00:00:00,19:50:00,North/Central Alabama; North/Central Georgia,Severe Weather - Thunderstorms
+2012-06-12 00:00:00,15:57:00,"Houston, Texas",Severe Weather - Thunderstorms
+2012-06-13 00:00:00,16:55:00,"San Juan County, New Mexico",Vandalism
+2012-06-19 00:00:00,04:30:00,"Minneapolis/St. Paul, Minnesota",Severe Weather - Thunderstorms
+2012-06-19 00:00:00,05:30:00,CAISO Territory California,Fuel Supply Deficiency (Water)
+2012-06-23 00:00:00,18:57:00,"North Shore, Massachusetts",Load Shed
+2012-06-25 00:00:00,16:04:00,Central Virginia,Severe Weather - Wind & Rain
+2012-06-29 00:00:00,10:45:00,"New Castle, Delaware",Physical Attack
+2012-06-29 00:00:00,12:10:00,Puerto Rico,Equipment Trip & Failure
+2012-06-29 00:00:00,14:10:00,"Dayton, Ohio",Severe Weather - Thunderstorms
+2012-06-29 00:00:00,16:00:00,Indiana; Michigan; Ohio; West Virginia,Severe Weather - Thunderstorms
+2012-06-29 00:00:00,16:00:00,"Eastern, Arkansas",Public Appeal to Reduce Electricity Usage
+2012-06-29 00:00:00,17:15:00,Eastern Indiana; Northern Kentucky; Greater Cincinnati area Ohio,Severe Weather - Thunderstorms
+2012-06-29 00:00:00,18:24:00,West Virginia,Severe Weather - Thunderstorms
+2012-06-29 00:00:00,19:00:00,Maryland; West Virginia,Severe Weather - Thunderstorms
+2012-06-29 00:00:00,22:15:00,"Montgomery and Prince Georges Counties, Maryland; District of Columbia",Severe Weather - Thunderstorms
+2012-06-29 00:00:00,22:29:00,Virginia,Severe Weather - Thunderstorms
+2012-06-29 00:00:00,22:43:00,"Greater Baltimore area, Maryland",Severe Weather - Thunderstorms
+2012-06-29 00:00:00,23:30:00,Northeast Illinois,Severe Weather - Thunderstorms
+2012-06-30 00:00:00,01:00:00,Delaware; Maryland,Severe Weather - Thunderstorms
+2012-06-30 00:00:00,01:15:00,Atlantic City Electric Service Territory New Jersey,Severe Weather - Thunderstorms
+2012-06-30 00:00:00,15:00:00,Northeast Tennessee,Public Appeal to Reduce Electricity Usage
+2012-06-30 00:00:00,22:30:00,"Calvert, Charles, St. Mary's, Prince Georges Counties Maryland",Severe Weather - Thunderstorms
+2012-07-01 13:00:00,2012-07-01 13:00:00,Illinois,Severe Weather - Thunderstorms
+2012-07-01 16:47:00,2012-07-01 16:47:00,"Tarboro, North Carolina",Operational Failure; Storm Damage
+2012-07-01 17:45:00,2012-07-01 17:45:00,"Northern, Central and Eastern North Carolina",Severe Weather  
+2012-07-05 04:30:00,00:00:00,Lower Peninsula Michigan,Severe Weather - Thunderstorms
+2012-07-05 19:00:00,2012-07-05 19:00:00,Northeast Tennessee,Severe Weather - Wind & Storms
+2012-07-06 15:05:00,2012-07-06 15:05:00,"Tacoma, Washington",Vandalism
+2012-07-07 04:00:00,2012-07-07 04:00:00,CAISO California,Fuel Supply Deficiency (Water)
+2012-07-07 06:06:00,2012-07-07 06:06:00,"Lower Valley, Central, Susquehanna Regions Pennsylvania",Severe Weather - Thunderstorms
+2012-07-07 18:00:00,2012-07-07 18:00:00,Central and Northern New Jersey,Severe Weather - Thunderstorms
+2012-07-09 12:15:00,2012-07-09 12:15:00,"Alberta, Canada",Energy Deficiency Alert
+2012-07-16 11:27:00,2012-07-16 11:27:00,"Little Rock, Arkansas",Public Appeal to Reduce Energy Usage
+2012-07-18 14:16:00,2012-07-18 14:16:00,"Southeast Ohio, Northern Kentucky, Southern Indiana",Severe Weather - Thunderstorms
+2012-07-18 16:20:00,2012-07-18 16:20:00,Eastern Ohio,Severe Weather - Thunderstorms
+2012-07-18 23:00:00,2012-07-18 23:00:00,Northern Illinois,Severe Weather - Thunderstorms
+2012-07-19 10:30:00,2012-07-19 10:30:00,"Niagara County, New York",Fuel Supply Deficiency (Coal)
+2012-07-19 12:32:00,2012-07-19 12:32:00,"Newark, Delaware",Vandalism
+2012-07-21 02:19:00,2012-07-21 02:19:00,"City of Lubbock, Texas",Severe Weather; Equipment Failure
+2012-07-24 07:01:00,2012-07-24 07:01:00,Northern Indiana,Severe Weather - Thunderstorms
+2012-07-24 07:30:00,2012-07-24 07:30:00,Northern Illinois,Severe Weather - Thunderstorms
+2012-07-26 18:14:00,2012-07-26 18:14:00,Western Pennsylvania,Severe Weather - Thunderstorms
+2012-07-26 18:21:00,2012-07-26 18:21:00,North/Central Pennsylvania,Severe Weather - Thunderstorms
+2012-07-26 18:30:00,2012-07-26 18:30:00,Eastern Ohio,Severe Weather - Thunderstorms
+2012-07-27 17:19:00,2012-07-27 17:19:00,Central Indiana,Severe Weather - Thunderstorms
+2012-08-01 12:00:00,2012-08-01 12:00:00,"Oklahoma, Arkansas",Public Appeal to Reduce Electricity Usage
+2012-08-04 03:55:00,2012-08-04 03:55:00,"Temblor Substation in McKittrick, California",Electrical System Separation (Islanding)
+2012-08-04 04:00:00,2012-08-04 04:00:00,Northern Indiana,Severe Weather - Thunderstorms
+2012-08-04 17:30:00,2012-08-04 17:30:00,Northeast Illinois,Severe Weather - Thunderstorms
+2012-08-11 12:45:00,2012-08-11 12:45:00,"Tacoma, Washington",Suspected Physical Attack
+2012-08-13 13:15:00,2012-08-13 13:15:00,"Knoxville, Tennessee",Vandalism
+2012-08-13 15:52:00,2012-08-13 15:52:00,CFE (Mexico & U.S.),Severe Weather - Dust Storm; Load Shed Event
+2012-08-16 13:13:00,2012-08-16 13:13:00,Northern Indiana,Vandalism
+2012-08-19 08:42:00,2012-08-19 08:42:00,"El Paso, Texas",Suspected Physical Attack
+2012-08-26 22:04:00,2012-08-26 22:04:00,Florida,Severe Weather - TS Isaac
+2012-08-28 06:00:00,2012-08-28 06:00:00,"Arkansas, Louisiana, Mississippi",Severe Weather - Hurricane Isaac
+2012-08-29 06:53:00,2012-08-29 06:53:00,Louisiana,Severe Weather - Hurricane Isaac
+2012-08-29 09:00:00,2012-08-29 09:00:00,Louisiana,Severe Weather - Hurricane Isaac
+2012-08-29 09:48:00,2012-08-29 09:48:00,Louisiana,Severe Weather - Hurricane Isaac
+2012-09-05 10:56:00,2012-09-05 10:56:00,"Alberta, Canada",Electrical System Separation (Islanding)
+2012-09-06 04:45:00,2012-09-06 04:45:00,"Oroville, California",Fuel Supply Deficiency (Water)
+2012-09-07 21:30:00,2012-09-07 21:30:00,Arkansas,Severe Weather - Thunderstorms
+2012-09-08 15:40:00,2012-09-08 15:40:00,"Prince George's County, Montgomery County Maryland; D.C.",Severe Weather - Thunderstorms
+2012-09-08 15:53:00,2012-09-08 15:53:00,Virginia,Severe Weather - Thunderstorms
+2012-09-11 13:00:00,2012-09-11 13:00:00,"Alberta, Canada",Electrical System Separation (Islanding)
+2012-09-24 00:00:00,2012-09-24 00:00:00,"Brighton, Maryland",Suspected Physical Attack
+2012-09-26 21:16:00,2012-09-26 21:16:00,Puerto Rico,Voltage Reduction
+2012-10-05 17:30:00,2012-10-05 17:30:00,"Greater Sacramento, California",Suspected Physical Attack
+2012-10-09 00:00:00,2012-10-09 00:00:00,"Seat Pleasant, Maryland",Vandalsim
+2012-10-11 00:00:00,2012-10-11 00:00:00,"Seat Pleasant, Maryland",Vandalsim
+2012-10-14 10:36:00,2012-10-14 10:36:00,Northern California,Electrical System Separation (Islanding)
+2012-10-15 14:15:00,2012-10-15 14:15:00,Southeast Vermont,Vandalism; Theft
+2012-10-22 00:00:00,2012-10-22 00:00:00,"Norbeck, Maryland",Physical Attack; Vandalism
+2012-10-23 09:10:00,2012-10-23 09:10:00,"Crawfordsville, Indiana",Transmission System Interruption
+2012-10-24 00:00:00,2012-10-24 00:00:00,"Kingswood, Maryland",Physical Attack; Vandalism
+2012-10-24 00:00:00,2012-10-24 00:00:00,"Brighton, Maryland",Suspected Physical Attack
+2012-10-24 15:15:00,2012-10-24 15:15:00,"Frankford, Delaware",Physical Attack; Vandalism
+2012-10-25 00:00:00,2012-10-25 00:00:00,"West Lanham, Maryland",Physical Attack; Vandalism
+2012-10-25 14:39:00,2012-10-25 14:39:00,"Pueblo, Colorado",Physical Attack; Vandalism
+2012-10-25 18:51:00,2012-10-25 18:51:00,"Newark, Delaware",Physical Attack; Vandalism
+2012-10-29 00:00:00,2012-10-29 00:00:00,West Virginia,Severe Weather - Hurricane Sandy
+2012-10-29 08:00:00,2012-10-29 08:00:00,New Jersey,Severe Weather - Hurricane Sandy
+2012-10-29 09:00:00,2012-10-29 09:00:00,"LaGrande, Washington",Physical Attack; Vandalism
+2012-10-29 09:00:00,2012-10-29 09:00:00,"Delaware, Maryland",Severe Weather - Hurricane Sandy
+2012-10-29 12:00:00,2012-10-29 12:00:00,New Jersey,Severe Weather - Hurricane Sandy
+2012-10-29 13:00:00,2012-10-29 13:00:00,"Long Island, New York",Severe Weather - Hurricane Sandy
+2012-10-29 14:40:00,2012-10-29 14:40:00,"Boston, Southeast Massachusetts",Severe Weather - Hurricane Sandy
+2012-10-29 14:45:00,2012-10-29 14:45:00,Eastern Massachusetts,Severe Weather - Hurricane Sandy
+2012-10-29 15:00:00,2012-10-29 15:00:00,"Las Vegas, Nevada",Suspected Physical Attack
+2012-10-29 15:15:00,2012-10-29 15:15:00,"Connecticut, Western Massachusetts",Severe Weather - Hurricane Sandy
+2012-10-29 16:00:00,2012-10-29 16:00:00,Eastern Pennsylvania,Severe Weather - Hurricane Sandy
+2012-10-29 16:00:00,2012-10-29 16:00:00,Maryland; West Virginia,Severe Weather - Hurricane Sandy
+2012-10-29 16:00:00,2012-10-29 16:00:00,Greater Cleveland Ohio,Severe Weather - Hurricane Sandy
+2012-10-29 16:01:00,2012-10-29 16:01:00,"Greater New York City, New York",Severe Weather - Hurricane Sandy
+2012-10-29 16:03:00,2012-10-29 16:03:00,New Jersey,Severe Weather - Hurricane Sandy
+2012-10-29 16:45:00,2012-10-29 16:45:00,New Hampshire,Severe Weather - Hurricane Sandy
+2012-10-29 17:13:00,2012-10-29 17:13:00,Greater Baltimore Maryland,Severe Weather - Hurricane Sandy
+2012-10-29 17:30:00,2012-10-29 17:30:00,Greater Philadelphia Pennsylvania,Severe Weather - Hurricane Sandy
+2012-10-29 18:11:00,2012-10-29 18:11:00,Central Pennsylvania,Severe Weather - Hurricane Sandy
+2012-10-29 18:12:00,2012-10-29 18:12:00,Virginia,Severe Weather - Hurricane Sandy
+2012-10-29 18:46:00,2012-10-29 18:46:00,Southeast New York; New Jersey,Severe Weather - Hurricane Sandy
+2012-10-29 18:48:00,2012-10-29 18:48:00,New York,Severe Weather - Hurricane Sandy
+2012-10-29 19:00:00,2012-10-29 19:00:00,Indiana; Kentucky; Michigan; Ohio,Severe Weather - Nor'easter
+2012-10-29 19:15:00,2012-10-29 19:15:00,Southeast and Seacoast Maine,Severe Weather - Hurricane Sandy
+2012-10-30 00:00:00,2012-10-30 00:00:00,"Hyattsville, Maryland",Physical Attack; Vandalism
+2012-10-30 02:00:00,2012-10-30 02:00:00,Greater Detroit Michigan,Severe Weather - Nor'easter
+2012-10-30 13:20:00,2012-10-30 13:20:00,"Fitzwilliam, New Hampshire",Vandalism   
+2012-10-30 15:00:00,2012-10-30 15:00:00,"Pueblo, Colorado",Physical Attack; Vandalism
+2012-11-02 00:00:00,09:30:00,"Concord, Vermont",Physical Attack; Vandalism
+2012-11-07 00:00:00,14:21:00,New Hampshire,Physical Attack; Vandalism
+2012-11-08 00:00:00,09:34:00,"Bishopville, Maryland",Physical Attack; Vandalism
+2012-11-15 00:00:00,05:38:00,Southeast Massachusetts,Physical Attack; Vandalism
+2012-11-15 00:00:00,21:09:00,Iowa; Michigan,Suspected Cyber Attack
+2012-11-17 00:00:00,10:00:00,"Comanche Peak, Texas",Fuel Supply Deficiency
+2012-11-21 00:00:00,14:50:00,"Bethany Beach, Delaware",Physical Attack; Vandalism
+2012-11-26 00:00:00,12:37:00,"Frankfort, Delaware",Physical Attack; Vandalism
+2012-11-26 00:00:00,15:07:00,"Georgetown, Delaware",Physical Attack; Vandalism
+2012-11-27 00:00:00,13:07:00,New Hampshire,Physical Attack; Vandalism
+2012-12-02 00:00:00,05:20:00,Northern California,Severe Weather - Winter Storm
+2012-12-03 00:00:00,12:02:00,"Tacoma, Washington",Suspected Physical Attack
+2012-12-06 00:00:00,21:18:00,"Greater San Jose, California",Load Shed
+2012-12-17 00:00:00,06:55:00,"Tacoma, Washington",Suspected Physical Attack
+2012-12-25 00:00:00,00:45:00,Arkansas; Louisiana; Mississippi; Texas ,Severe Weather - Winter Storm
+2012-12-25 00:00:00,09:28:00,"Houston, Texas","Severe Weather - Cold Front, High Winds"
+2012-12-26 00:00:00,14:50:00,"Stantonsburg, North Carolina",Severe Weather - Thunderstorm
+2012-12-31 00:00:00,14:21:00,North Carolina,Transmission Interruption
+2013-01-07 00:00:00,10:43:00,"Denton, Maryland",Physcial Attack; Vandalism
+2013-01-16 00:00:00,14:25:00,"Denton, Maryland",Physcial Attack; Vandalism
+2013-01-16 00:00:00,16:45:00,"San Juan County, New Mexico",Suspected Physical Attack
+2013-01-16 00:00:00,07:41:00,"Webster County, Iowa",Physical Attack
+2013-01-17 00:00:00,18:07:00,"Southwest Virginia, Southern West Virginia",Severe Weather - Winter Storm
+2013-01-17 00:00:00,19:02:00,Northeast Tennessee,Severe Weather - Winter Storm
+2013-01-17 00:00:00,20:35:00,"Elizabeth City, North Carolina",Distribution Interruption
+2013-01-20 00:00:00,03:30:00,Southeastern Michigan,Severe Weather - Wind Storm
+2013-01-28 00:00:00,16:46:00,"Tacoma Narrows Crossing, Washington",Physical Attack
+2013-01-31 00:00:00,03:05:00,Central and Eastern Virginia,Severe Weather - Wind Storm
+2013-01-31 00:00:00,06:30:00,Connecticut,Severe Weather - Wind Storm
+2013-02-02 00:00:00,21:15:00,"El Paso, New Mexico",Vandalism
+2013-02-07 00:00:00,08:32:00,"Cincinnati, Ohio",Vandalism
+2013-02-08 00:00:00,11:38:00,District of Columbia; Prince George's County Maryland,Equipment Trip & Failure
+2013-02-08 00:00:00,20:00:00,Central and eastern Massachusetts; Rhode Island,Severe Weather - Winter Storm Nemo
+2013-02-08 00:00:00,20:55:00,Boston area and Southeast Massachusetts,Severe Weather - Winter Storm Nemo
+2013-02-09 00:00:00,08:30:00,"El Paso, New Mexico",Vandalism; Equipment Fault
+2013-02-10 00:00:00,19:46:00,Puerto Rico,Generator Trip; Voltage Reduction
+2013-02-13 00:00:00,09:30:00,"Fort Washington, Maryland",Vandalism
+2013-02-13 00:00:00,17:39:00,Eastern Massachusetts,Fuel Supply Emergency - Petroleum
+2013-02-15 00:00:00,00:00:00,"Tuxedo, Maryland",Vandalism
+2013-02-16 00:00:00,07:54:00,Prince George's County Maryland,Vandalism
+2013-02-19 00:00:00,16:01:00,"Stockton, California",Electrical System Separation (Islanding)
+2013-02-21 00:00:00,11:00:00,"Las Cruces, New Mexico",Vandalism
+2013-02-26 00:00:00,13:00:00,Northern Missouri,Severe Weather - Winter Storm Nemo
+2013-03-03 00:00:00,06:39:00,"Merced County, California",Transmission System Interruption
+2013-03-03 00:00:00,16:27:00,"Tacoma Park, Maryland",Vandalism
+2013-03-04 00:00:00,09:49:00,Metropolitan area Puerto Rico,Equipment Failure; Transmission System Interruption
+2013-03-06 00:00:00,08:22:00,Northwest Virginia,Severe Weather - Winter Storm
+2013-03-18 00:00:00,05:21:00,Systemwide Puerto Rico,Generator Trip; Load Shed
+2013-03-18 00:00:00,17:50:00,Northeast Florida,Suspected Physical Attack
+2013-03-18 00:00:00,19:30:00,North/Central Alabama; Georgia,Severe Weather - Thunderstorms
+2013-03-23 00:00:00,07:00:00,Connecticut,Vandalism
+2013-03-27 00:00:00,10:25:00,Western Massachusetts,Physical Attack; Vandalism
+2013-03-28 00:00:00,13:01:00,"Wilmington, Delaware",Vandalism
+2013-03-29 00:00:00,10:16:00,Maryland,Suspected Physical Attack
+2013-04-01 00:00:00,08:40:00,Connecticut,Vandalism - Copper Wire Theft
+2013-04-03 00:00:00,11:05:00,"Colorado Springs, Colorado",Sabotage; Vandalism
+2013-04-09 00:00:00,11:30:00,"Delaware City, Delaware",Vandalism
+2013-04-16 00:00:00,01:47:00,California,"Loss of Part of a High Voltage Substation, Physical Attack"
+2013-04-17 00:00:00,15:36:00,"Colbert Steam Plant in Cherokee, Alabama",Suspected Physical Attack
+2013-04-18 00:00:00,15:00:00,"Southeast Michigan, Michigan",Severe Weather - Storms and Wind
+2013-04-21 00:00:00,02:11:00,East Tennessee,Suspected Physical Attack
+2013-04-23 00:00:00,11:00:00,"Newark, Delaware",Vandalism
+2013-04-23 00:00:00,00:49:00,"South of Humboldt, California",Electrical System Separation (Islanding)
+2013-04-25 00:00:00,16:00:00,"Sunol, California",Vandalism
+2013-05-01 00:00:00,09:22:00,Northeast Colorado ,Electrical System Separation (Islanding)
+2013-05-02 00:00:00,06:52:00,Unknown,Electrical System Separation (Islanding)
+2013-05-09 00:00:00,13:21:00,"Alberta, Canada; Washington State",Electrical System Separation (Islanding)
+2013-05-13 00:00:00,12:52:00,Central California,Fuel Supply Emergency - Hydro
+2013-05-14 00:00:00,00:01:00,"Portland, Oregon",Vandalism/Theft
+2013-05-14 00:00:00,10:25:00,New Hampshire,Vandalism
+2013-05-15 00:00:00,14:11:00,"Wilmington, Delaware",Vandalism
+2013-05-17 00:00:00,08:35:00,"Newcastle, Delaware",Vandalism
+2013-05-20 00:00:00,15:00:00,"Moore, Oklahoma",Severe Weather - Tornados
+2013-05-20 00:00:00,17:22:00,Gonzales Area Louisiana,Generator Trip; Load Shed 100+ MW
+2013-05-22 00:00:00,10:51:00,System wide Puerto Rico,System Wide Voltage Reduction
+2013-05-28 00:00:00,13:00:00,Maine,Vandalism/Theft
+2013-05-29 00:00:00,00:00:00,"Henrico County, Virginia",Physical Attack
+2013-05-29 00:00:00,20:58:00,Central and Eastern New York,Severe Weather - Thunderstorms
+2013-05-29 00:00:00,09:52:00,"Wilmington, Delaware",Vandalism/Theft
+2013-05-30 00:00:00,10:15:00,"Saranac, New York",Vandalism
+2013-05-31 00:00:00,01:00:00,"Maumelle, Arkansas",Severe Weather - Lightning
+2013-05-31 00:00:00,18:00:00,"El Reno, S. Oklahoma City, Oklahoma",Severe Weather - Tornados
+2013-05-31 00:00:00,19:07:00,"Southeast Kansas, Northeast Oklahoma",Transmission System Interruption
+2013-05-31 00:00:00,19:30:00,St. Louis Metro Area Missouri,Severe Weather - Thunderstorms
+2013-06-03 00:00:00,12:50:00,"Alberta, Canada",Electrical System Separation (Islanding)
+2013-06-13 00:00:00,20:47:00,Southern Company Territory,Severe Weather - Thunderstorms
+2013-06-13 00:00:00,15:30:00,District of Columbia; Maryland,Loss of 300+ MW Load; Severe Weather - Thunderstorms
+2013-06-13 00:00:00,16:08:00,"Richmond Metro area, Virginia",Severe Weather - Thunderstorms
+2013-06-13 00:00:00,13:17:00,Western Piedmont North Carolina,Severe Weather - Thunderstorms
+2013-06-13 00:00:00,17:45:00,Central and Eastern North Carolina,Severe Weather - Thunderstorms
+2013-06-13 00:00:00,15:20:00,Ohio; Virginia; West Virginia,Severe Weather - Thunderstorms
+2013-06-17 00:00:00,16:17:00,Hillsborough County Florida,Load Shed of 100+ MW Under Emergency Operational Policy
+2013-06-18 00:00:00,15:51:00,Wyoming,Electrical System Separation (Islanding)
+2013-06-19 00:00:00,19:57:00,"Alberta, Canada",Electrical System Separation (Islanding)
+2013-06-20 00:00:00,18:00:00,"Richie Station (No. 123), Maryland",Physcial Attack; Vandalism
+2013-06-21 00:00:00,08:31:00,"Michigan, Iowa",Suspected Cyber Attack
+2013-06-21 00:00:00,07:40:00,Pahrump Nevada,Physical Attack; Vandalism & Sabotage
+2013-06-21 00:00:00,03:00:00,Minnesota,Severe Weather - Hailstorm
+2013-06-21 00:00:00,23:14:00,New Castle Delaware,Physical Attack; Vandalism  
+2013-06-21 00:00:00,17:39:00,Minneapolis/St. Paul area Minnesota,Severe Weather - Hailstorm
+2013-06-22 00:00:00,16:12:00,Eastern Montana,Suspected Physical Attack
+2013-06-22 00:00:00,04:59:00,Medford Oregon,Physical Attack; Vandalism  
+2013-06-23 00:00:00,21:20:00,Central Coast California,Severe Weather - Fog
+2013-06-24 00:00:00,19:30:00,Illinois,Severe Weather - Thunderstorms
+2013-06-24 00:00:00,19:30:00,Indiana,Severe Weather - Thunderstorms
+2013-06-27 00:00:00,17:00:00,South Eastern Michigan,Severe Weather - Thunderstorms
+2013-06-27 00:00:00,01:10:00,"Richie Substation,Seat Pleasant, Maryland",Physical Attack; Vandalism  
+2013-06-28 00:00:00,18:02:00,"Los Angeles and Orange Counties, California",Equipment Failure
+2013-06-28 00:00:00,13:00:00,Vermont,Physical Attack; Vandalism  
+2013-06-28 00:00:00,17:14:00,New Castle Delaware,Physical Attack; Vandalism  
+2013-07-02 00:00:00,14:20:00,"Alberta, Canada",Load Shed 100+MW
+2013-07-03 00:00:00,09:34:00,Sacramento California,Suspected Physical Attack
+2013-07-03 00:00:00,12:04:00,System-wide Puerto Rico,Voltage Reduction; Line and Generator Trip
+2013-07-05 00:00:00,00:05:00,California,Physical Attack; Vandalism
+2013-07-10 00:00:00,14:30:00,"Boston, Massachusetts",Physical Attack; Copper Theft
+2013-07-10 00:00:00,17:30:00,AEP Ohio Power Footprint,Severe Weather - Thunderstorms
+2013-07-11 00:00:00,23:20:00,Arizona,Physical Attack; Vandalism
+2013-07-12 00:00:00,10:00:00,Washington,Physical Attack; Vandalism
+2013-07-17 00:00:00,15:30:00,"Holtsville, New York",Fuel Supply Emergency (Natural Gas)
+2013-07-18 00:00:00,03:15:00,Utah,Physical Attack; Vandalism   
+2013-07-18 00:00:00,11:30:00,Upstate New York,Public Appeal - Heatwave
+2013-07-18 00:00:00,23:45:00,Southern Orange County California,Equipment Failure
+2013-07-19 00:00:00,18:00:00,Michigan,Severe Weather - Thunderstorms
+2013-07-19 00:00:00,22:30:00,New York,Severe Weather - Thunderstorms
+2013-07-22 00:00:00,07:00:00,California,Physical Attack; Vandalism
+2013-07-23 00:00:00,23:38:00,"Tulsa, Oklahoma",Severe Weather - Thunderstorms
+2013-07-25 00:00:00,13:10:00,"Polk Substation, Tacoma Washington",Physical Attack; Vandalism
+2013-08-01 00:00:00,11:00:00,"Newburgh, New York",Physical Attack; Copper Theft
+2013-08-01 00:00:00,18:54:00,Western British Columbia,Electrical System Separation (Islanding
+2013-08-01 00:00:00,23:19:00,Daytona Beach Florida,Loss of 300+ MW Load
+2013-08-04 00:00:00,03:00:00,Utah,Physical Attack; Vandalism
+2013-08-05 00:00:00,18:35:00,"Vancouver, British Columbia",Electrical System Separation (Islanding); Severe Weather
+2013-08-06 00:00:00,16:00:00,"Holloman Air Force Base, New Mexico",Physcial Attack; Vandalism
+2013-08-07 00:00:00,07:30:00,"Green Bay, Wisconsin",Fuel Supply Emergency (Natural Gas & Fuel Oil)
+2013-08-07 00:00:00,14:30:00,"Arlington, Oregon",Physcial Attack; Vandalism
+2013-08-07 00:00:00,00:15:00,Eastern Central Wisconsin,Severe Weather - Thunderstorms
+2013-08-12 00:00:00,11:55:00,"Portland, Oregon",Suspicious Activity
+2013-08-16 00:00:00,16:58:00,Houston Service Area Texas,Severe Weather - Thunderstorms
+2013-08-19 00:00:00,19:06:00,Central California,Severe Weather - Lightning Strike
+2013-08-21 00:00:00,14:00:00,"Cabot, Arkansas",Physcial Attack; Sabotage
+2013-08-22 00:00:00,08:40:00,"Gila River, Arizona",Physcial Attack; Sabotage
+2013-08-22 00:00:00,12:55:00,"New Castle, Delaware",Physcial Attack; Vandalism
+2013-08-23 00:00:00,07:30:00,"New Castle, Delaware",Physcial Attack; Vandalism
+2013-08-26 00:00:00,20:15:00,Tacoma Washington,Physcial Attack; Vandalism
+2013-08-28 00:00:00,09:30:00,Sweetwater County Wyoming,Physcial Attack; Vandalism
+2013-08-29 00:00:00,14:57:00,"Ashland, Wisconsin",Electrical System Separation (Islanding); Severe Weather
+2013-08-29 00:00:00,09:50:00,"Joplin, Missouri",Physcial Attack; Vandalism
+2013-08-30 00:00:00,19:30:00,Entire ComEd territory Illinois,Severe Weather - Thunderstorms
+2013-09-10 00:00:00,17:42:00,"Erie, Pennsylvania",Load Shed of 100+ MW
+2013-09-11 00:00:00,16:00:00,Southeastern Michigan,Severe Weather - Thunderstorms
+2013-09-29 00:00:00,00:00:00,Cabot Arkansas,Physcial Attack; Sabotage
+2013-10-06 00:00:00,07:25:00,"Jacksonville, Arkansas",Physical Attack
+2013-10-11 00:00:00,14:30:00,"Keo, Arkansas",Physical Attack
+2013-10-16 00:00:00,11:15:00,"Roxboro Plant, North Carolina",Cyber Event with Potential to Cause Impact
+2013-10-19 00:00:00,14:32:00,California,Physical Attack
+2013-10-21 00:00:00,05:18:00,Location Unknown,Electrical System Separation (Islanding)
+2013-10-26 00:00:00,07:13:00,Arizona,Suspected Physical Attack
+2013-10-27 00:00:00,04:27:00,"Houston, Texas",Severe Weather - Hail Storm
+2013-11-01 00:00:00,13:26:00,"Wilmington, Delaware",Physical Attack - Vandalism
+2013-11-02 00:00:00,08:25:00,"Salt Lake City, Utah",Physical Attack - Vandalism
+2013-11-02 00:00:00,00:00:00,"King, Whatcom, and Skagit, Washington",Severe Weather - Heavy Winds
+2013-11-04 00:00:00,09:04:00,Connecicut,Physical Attack - Vandalism
+2013-11-05 00:00:00,10:10:00,Indiana,Physical Attack
+2013-11-12 00:00:00,14:04:00,"Valle, California",Electrical System Separation (Islanding)
+2013-11-12 00:00:00,09:14:00,Eastern Central New Mexico,Loss of Power from Wholesale Provider; Major Distribution Disruption
+2013-11-16 00:00:00,15:15:00,"Salt Lake County, Utah",Physical Attack - Vandalism
+2013-11-17 00:00:00,07:00:00,Michigan,Severe Weather - Ice and Snow Storm
+2013-11-17 00:00:00,12:35:00,"Rochelle, Indiana",System-wide voltage reductions of 3 percent or more
+2013-11-17 00:00:00,16:47:00,Central Indiana,Severe Weather - Tornadoes
+2013-11-17 00:00:00,16:45:00,Entire Lower Peninsula Michigan,Severe Weather - Thunderstorms
+2013-11-17 00:00:00,12:35:00,"Central Missouri, Central Illinois",Severe Weather - Tornadoes
+2013-11-17 00:00:00,13:06:00,North Central Indiana,Severe Weather - Thunderstorms
+2013-11-17 00:00:00,16:19:00,"Indiana, Michigan",Severe Weather - Thunderstorms
+2013-11-17 00:00:00,14:31:00,Entire ComEd Territory Illinois,Severe Weather - Thunderstorms
+2013-11-17 00:00:00,16:47:00,Central Indiana,Severe Weather - Thunderstorms
+2013-11-20 00:00:00,03:08:00,Salt Lake County Utah,Physical Attack - Vandalism
+2013-11-21 00:00:00,19:45:00,Northern California,Severe Weather - Wind Storm
+2013-11-24 00:00:00,07:38:00,Salt Lake County Utah,Physical Attack - Vandalism
+2013-12-04 00:00:00,05:00:00,"Idaho Falls Area Idaho, Utah-Idaho Border Utah",Load Shed 100+ MW
+2013-12-06 00:00:00,08:47:00,"Saratoga, Utah","Physical Attack - Vandalism, Theft"
+2013-12-06 00:00:00,01:51:00,"Greater Houston, Texas",Severe Weather - Ice/Snow
+2013-12-09 00:00:00,06:54:00,Virginia Service Territory,Severe Weather - Ice/Snow
+2013-12-10 00:00:00,01:01:00,Arizona,Suspected Physical Attack
+2013-12-13 00:00:00,11:00:00,Texas,Fuel Supply Emergencies (Coal)
+2013-12-13 00:00:00,11:00:00,Texas,Fuel Supply Emergencies (Coal)
+2013-12-22 00:00:00,06:16:00,Frontier/Genesee/Northern New York,Severe Weather - Ice/Snow
+2013-12-22 00:00:00,06:30:00,Michigan,Severe Weather - Ice/Snow
+2013-12-22 00:00:00,03:28:00,"Southern Lower Penninsula, Michigan",Severe Weather - Ice/Snow
+2013-12-23 00:00:00,15:20:00,Central Maine Maine,Severe Weather - Ice/Snow
+2013-12-27 00:00:00,09:43:00,Gilabend Arizona,Physical Attack
+2013-12-30 00:00:00,11:00:00,Salt Lake County Utah,Physical Attack
+2013-12-30 00:00:00,11:00:00,North of Roosevelt lake Arizona,Physical Attack
+2014-01-06 00:00:00,19:50:00,District of Columbia,Voltage Reduction due to Severe Weather - Cold
+2014-01-06 00:00:00,19:50:00,Unknown,Voltage Reduction due to Severe Weather - Cold
+2014-01-06 00:00:00,19:52:00,Delaware,Voltage Reduction due to Severe Weather - Cold
+2014-01-06 00:00:00,20:45:00,Unknown,Public Appeal due to Severe Weather - Cold
+2014-01-06 00:00:00,19:50:00,Pennsylvania,Voltage Reduction due to Severe Weather - Cold
+2014-01-06 00:00:00,19:50:00,Pennsylvania,Voltage Reduction due to Severe Weather - Cold
+2014-01-06 00:00:00,14:37:00,Utah,Vandalism
+2014-01-06 00:00:00,22:00:00,Kentucky,Public Appeal due to Severe Weather - Cold
+2014-01-06 00:00:00,07:01:00,Texas,Public Appeal due to Severe Weather - Cold
+2014-01-07 00:00:00,21:00:00,Unknown,Public Appeal due to Severe Weather - Cold
+2014-01-07 00:00:00,06:18:00,Pennsylvania,Severe Weather - Cold
+2014-01-07 00:00:00,07:58:00,North Carolina,Voltage Reduction; Public Appeal due to Severe Weather - Cold
+2014-01-07 00:00:00,16:15:00,North Carolina,Public Appeal due to Severe Weather - Cold
+2014-01-07 00:00:00,06:00:00,Northeast Tennessee,Public Appeal due to Severe Weather - Cold
+2014-01-07 00:00:00,06:00:00,Tennessee,Public Appeal due to Severe Weather - Cold
+2014-01-07 00:00:00,18:00:00,South Carolina,Voltage Reduction; Public Appeal; Load Shed 100+MW due to Severe Weather - Cold
+2014-01-07 00:00:00,10:59:00,Illinois,Fuel Supply Emergency - Natural Gas
+2014-01-07 00:00:00,09:30:00,"Piedmont North Carolina, Piedmont South Carolina",Fuel Supply Emergency due to Severe Weather - Cold
+2014-01-08 00:00:00,05:00:00,Unknown,Voltage Reduction due to Severe Weather - Cold
+2014-01-08 00:00:00,06:00:00,South Carolina,Voltage Reduction; Public Appeal; Load Shed 100+MW due to Severe Weather - Cold
+2014-01-13 00:00:00,16:44:00,Arizona,Physical Attack - Vandalism
+2014-01-15 00:00:00,14:32:00,Utah,Physical Attack - Vandalism
+2014-01-16 00:00:00,12:30:00,Arizona,Physical Attack - Vandalism
+2014-01-17 00:00:00,12:20:00,Ohio,Suspected Physical Attack
+2014-01-17 00:00:00,10:30:00,Illinois,Fuel Supply Emergency - Natural Gas
+2014-01-18 00:00:00,17:39:00,Unknown,Electrical System Islanding
+2014-01-18 00:00:00,09:00:00,Texas,Public Appeal to Reduce Electricity Usage
+2014-01-21 00:00:00,17:00:00,New Jersey,Physical Attack - Vandalism
+2014-01-21 00:00:00,12:14:00,Missouri,Physical Attack - Vandalism
+2014-01-22 00:00:00,13:55:00,Wisconsin,Physical Attack - Vandalism
+2014-01-22 00:00:00,09:45:00,Ohio,Physical Attack - Vandalism
+2014-01-22 00:00:00,21:15:00,"Burlington County, New Jersey",Suspected Physical Attack
+2014-01-22 00:00:00,00:30:00,Wisconsin,Physical Attack - Vandalism
+2014-01-23 00:00:00,04:00:00,Tennessee,Public Appeal due to Severe Weather - Cold
+2014-01-23 00:00:00,21:17:00,"Wynoochee, Washington",Physical Attack - Vandalism
+2014-01-23 00:00:00,13:04:00,Maryland,Public Appeal due to Severe Weather - Cold
+2014-01-23 00:00:00,16:00:00,Tennessee,Public Appeal due to Severe Weather - Cold
+2014-01-24 00:00:00,00:00:00,Wisconsin,Fuel Supply Emergency - Coal
+2014-01-24 00:00:00,15:30:00,Wisconsin,Physical Attack - Vandalism
+2014-01-25 00:00:00,10:00:00,"Madison, Wisconsin",Physical Attack - Vandalism
+2014-01-26 00:00:00,23:00:00,New Jersey,Physical Attack
+2014-01-26 00:00:00,21:00:00,Oregon,Physical Attack - Vandalism
+2014-01-27 00:00:00,14:20:00,Maryland,Public Appeal due to Severe Weather - Cold
+2014-01-29 00:00:00,16:00:00,Unknown,Physical Attack - Vandalism
+2014-01-30 00:00:00,15:00:00,Arizona,Physical Attack - Vandalism
+2014-02-05 00:00:00,00:00:00,"Maryland, West Virginia",Severe Weather - Snow/Ice
+2014-02-05 00:00:00,01:00:00,Pennsylvania,Severe Weather - Snow/Ice
+2014-02-05 00:00:00,05:00:00,Pennsylvania,Severe Weather - Snow/Ice
+2014-02-05 00:00:00,07:00:00,New York,Fuel Supply Emergency - Coal
+2014-02-05 00:00:00,07:35:00,"Lancaster Region, Pennsylvania",Severe Weather - Snow/Ice
+2014-02-05 00:00:00,08:05:00,"Baltimore, Maryland",Severe Weather - Ice
+2014-02-06 00:00:00,13:00:00,California,Fuel Supply Emergency - Natural Gas
+2014-02-06 00:00:00,13:05:00,Northern California,Fuel Supply Emergency - Natural Gas
+2014-02-06 00:00:00,13:58:00,Rio Grande Valley Texas,Public Appeal to Reduce Electricity Usage
+2014-02-06 00:00:00,14:15:00,California,Fuel Supply Emergency - Natural Gas
+2014-02-06 00:00:00,15:35:00,ERCOT Region Texas,Public Appeal to Reduce Electricity Usage
+2014-02-07 00:00:00,07:00:00,Niagara County New York,Fuel Supply Emergency - Coal
+2014-02-07 00:00:00,16:30:00,ERCOT Region Texas,Public Appeal to Reduce Electricity Usage
+2014-02-07 00:00:00,16:50:00,Texas,Public Appeal to Reduce Electricity Usage
+2014-02-12 00:00:00,07:48:00,Northern/Northeastern Georgia,Severe Weather - Snow/Ice
+2014-02-12 00:00:00,11:03:00,South Carolina,Severe Weather - Snow/Ice
+2014-02-12 00:00:00,12:10:00,North Carolina,Severe Weather - Snow/Ice
+2014-02-12 00:00:00,14:15:00,Vermont,Physical Attack - Vandalism
+2014-02-14 00:00:00,13:00:00,"Portland, Oregon",Physical Attack - Vandalism
+2014-02-18 00:00:00,18:43:00,"Bend, Oregon",Physical Attack - Vandalism
+2014-02-20 00:00:00,16:40:00,"Missouri, Illinois",Severe Weather - Snow/Ice
+2014-02-21 00:00:00,02:53:00,Northern/Northeastern Georgia,Severe Weather - Thunderstorms/High Winds
+2014-03-02 00:00:00,19:00:00,ERCOT Region Texas,Public Appeal due to Severe Weather - Cold
+2014-03-03 00:00:00,17:25:00,New York,Suspected Physical Attack
+2014-03-03 00:00:00,06:40:00,Tennessee,Severe Weather - Winter Storm
+2014-03-03 00:00:00,01:48:00,"Mid-Columbia River Generation, Washington",Fuel Supply Emergency - Hydro
+2014-03-04 00:00:00,09:06:00,"Weston, Wisconsin",Fuel Supply Emergency - Coal
+2014-03-05 00:00:00,17:06:00,"Salt Lake City, Utah",Physical Attack
+2014-03-07 00:00:00,03:30:00,"Triad, North Carolina",Severe Weather - Winter Storm
+2014-03-11 00:00:00,00:00:00,"Boone County, Iowa",Suspected Physical Attack
+2014-03-12 00:00:00,19:35:00,North Carolina,Severe Weather - High Winds
+2014-03-14 00:00:00,12:34:00,"Boone County, Iowa",Physical Attack - Vandalism
+2014-03-17 00:00:00,17:25:00,"Glendale, Arizona",Physical Attack - Sabatoge
+2014-03-20 00:00:00,00:00:00,New York,Suspected Cyber Attack
+2014-03-24 00:00:00,11:07:00,"Salt Lake City, Utah",Physical Attack - Vandalism
+2014-03-26 00:00:00,16:00:00,Iowa,Physical Attack
+2014-03-26 00:00:00,13:37:00,Montana,Electrical System Separation (Islanding)
+2014-03-31 00:00:00,15:41:00,Puerto Rico,System Wide Voltage Reduction
+2014-04-03 00:00:00,00:00:00,Texas,Fuel Supply Emergency - Coal
+2014-04-03 00:00:00,14:45:00,Wisconsin,Fuel Supply Emergency - Coal
+2014-04-04 00:00:00,03:30:00,Central Arkansas,Severe Weather - Wind
+2014-04-08 00:00:00,13:00:00,"Davis, California",Physical Attack - Vandalism
+2014-04-08 00:00:00,11:09:00,Puerto Rico,Voltage Reduction
+2014-04-12 00:00:00,18:15:00,Western and Central Michigan,Severe Weather - Thunderstorms
+2014-04-12 00:00:00,20:00:00,Michigan,Severe Weather
+2014-04-23 00:00:00,19:45:00,"Baton Rouge, Louisiana",Load shedding of 100 Megawatts
+2014-04-24 00:00:00,15:02:00,"Alberta, Canada",Electrical System Separation (Islanding)
+2014-04-25 00:00:00,07:00:00,Delaware,Physical Attack - Vandalism
+2014-04-27 00:00:00,09:15:00,"Alberta, Canada",Electrical System Separation (Islanding)
+2014-04-27 00:00:00,12:07:00,"Albany, Oregon",Physical Attack - Vandalism
+2014-04-29 00:00:00,23:30:00,"Mississippi, Alabama",Severe Weather - Thunderstorms
+2014-04-29 00:00:00,09:37:00,"Northeastern Mississippi, Northern Alabama",Severe Weather - Thunderstorms
+2014-04-30 00:00:00,03:50:00,"Alabama, Florida, Georgia",Severe Weather - Thunderstorms
+2014-05-08 00:00:00,08:39:00,"Imperial Valley, California",Physical Attack
+2014-05-08 00:00:00,01:00:00,Mississippi,Physical Attack
+2014-05-09 00:00:00,18:00:00,Indiana,Severe Weather - Heavy Winds
+2014-05-11 00:00:00,18:38:00,"MISO North, Minnesota",Physical Attack - Vandalism
+2014-05-12 00:00:00,13:14:00,"Layton, Utah",Physical Attack - Vandalism
+2014-05-14 00:00:00,15:34:00,"San Diego & Orange Counties, California",Public Appeal to Reduce Electricity Usage - Wild Fires
+2014-05-15 00:00:00,10:43:00,"San Diego & Orange Counties, California",Public Appeal to Reduce Electricity Usage - Wild Fires
+2014-05-15 00:00:00,12:10:00,"Whiting, Indiana",Suspected Physical Attack
+2014-05-16 00:00:00,10:43:00,"San Diego & Orange Counties, California",Public Appeal to Reduce Electricity Usage - Wild Fires
+2014-05-20 00:00:00,07:01:00,"Duchesne County, Utah",Physical Attack - Vandalism
+2014-05-23 00:00:00,15:00:00,North Carolina,Physical Attack - Vandalism
+2014-05-26 00:00:00,12:31:00,"British Columbia & Alberta, Canada",Electrical System Separation (Islanding)
+2014-05-27 00:00:00,11:00:00,"Phoenix, Arizona",Physical Attack - Vandalism
+2014-06-03 00:00:00,01:38:00,Texas,Physical Attack - Vandalism
+2014-06-03 00:00:00,15:32:00,"Alberta, Canada",Electrical System Islanding
+2014-06-05 00:00:00,03:00:00,"Shelby County, Tennessee",Severe Weather - Thunderstorms
+2014-06-06 00:00:00,13:00:00,Texas,Fuel Supply Emergency - Coal
+2014-06-05 00:00:00,13:06:00,West Tennessee,Severe Weather - Thunderstorms
+2014-06-07 00:00:00,23:00:00,"North and Central , Alabama",Severe Weather - Thunderstorms
+2014-06-09 00:00:00,11:07:00,"Alberta, Canada",Electrical System Islanding
+2014-06-11 00:00:00,09:30:00,"Nogales, Arizona",Suspected Physical Attack
+2014-06-10 00:00:00,21:50:00,West Virginia,Severe Weather - Thunderstorms
+2014-06-11 00:00:00,16:00:00,Southern Mississippi,Physical Attack - Vandalism
+2014-06-12 00:00:00,09:10:00,"Somervell County, Texas",Suspected Physical Attack
+2014-06-15 00:00:00,00:00:00,Central Minnesota,Severe Weather - Thunderstorms
+2014-06-18 00:00:00,09:52:00,Washington,Physical Attack - Vandalism
+2014-06-18 00:00:00,17:00:00,Southeast Michigan,Severe Weather - Thunderstorms
+2014-06-19 00:00:00,08:47:00,"Nashville, Tennessee",Physical Attack - Vandalism
+2014-06-24 00:00:00,14:54:00,"Nashville, Tennessee",Physical Attack - Vandalism
+2014-06-27 00:00:00,13:21:00,Wisconsin,Fuel Supply Emergency - Coal
+2014-06-30 00:00:00,17:55:00,Southeast  Wisconsin,Severe Weather - Thunderstorms
+2014-06-30 00:00:00,20:00:00,Illinois,Severe Weather - Thunderstorms
+2014-06-30 00:00:00,23:20:00,North Central Indiana,Severe Weather - Thunderstorms
+2014-07-01 00:00:00,05:00:00,"Indiana, Michigan",Severe Weather - Thunderstorms
+2014-07-02 00:00:00,08:39:00,Wisconsin,Fuel Supply Emergency - Coal
+2014-07-01 00:00:00,03:30:00,Southwest Michigan,Severe Weather - Thunderstorms
+2014-07-01 00:00:00,04:00:00,Southeast Michigan,Severe Weather - Thunderstorms
+2014-07-03 00:00:00,18:00:00,Pennsylvania,Severe Weather - Thunderstorms
+2014-07-03 00:00:00,22:55:00,"Vermont, New Hampshire, Maine, Rhode Island, Massachusetts, Connecticut",Severe Weather - Thunderstorms
+2014-07-08 00:00:00,20:30:00,Pennsylvania,Severe Weather - Thunderstorms
+2014-07-08 00:00:00,21:31:00,Maryland,Severe Weather - Thunderstorms
+2014-07-08 00:00:00,18:00:00,Eastern Pennsylvania,Severe Weather - Thunderstorms
+2014-07-08 00:00:00,17:30:00,"Maryland, West Virginia",Severe Weather - Thunderstorms
+2014-07-08 00:00:00,17:30:00,West Virginia,Severe Weather - Thunderstorms
+2014-07-08 00:00:00,19:21:00,Upstate New York,Severe Weather - Thunderstorms
+2014-07-08 00:00:00,17:30:00,Central and Northeastern Pennsylvania,Severe Weather - Thunderstorms
+2014-07-14 00:00:00,16:00:00,Washington,Suspected Physical Attack
+2014-07-23 00:00:00,19:14:00,"Arkansas, Louisiana",Severe Weather - Thunderstorms
+2014-07-24 00:00:00,16:29:00,California,Load shedding of 100 Megawatts
+2014-07-27 00:00:00,17:00:00,Southeast Michigan,Severe Weather - Thunderstorms
+2014-07-27 00:00:00,23:00:00,Central California,Uncontrolled Loss of 300 Megawatts
+2014-08-01 00:00:00,15:03:00,Utah,Physical Attack
+2014-08-13 00:00:00,06:08:00,"Alberta, Canada",Electrical System Separation (Islanding)
+2014-08-20 00:00:00,01:21:00,"Alberta, Canada",Electrical System Separation (Islanding)
+2014-08-23 00:00:00,16:39:00,"City of Highland, Illinois",Operational Failure of Electrical System
+2014-08-24 00:00:00,03:20:00,"North of San Francisco, California",Earthquake
+2014-08-26 00:00:00,15:30:00,Southeast Michigan,Severe Weather - Thunderstorms
+2014-08-27 00:00:00,12:49:00,Delaware,Suspected Physical Attack
+2014-08-30 00:00:00,15:30:00,"Luzerne County, Pennsylvania",Suspected Physical Attack
+2014-09-05 00:00:00,20:00:00,Michigan,Severe Weather - Thunderstorms
+2014-09-05 00:00:00,16:30:00,Illinois,Severe Weather - Thunderstorms
+2014-09-05 00:00:00,19:14:00,Lower Peninsula of Michigan,Severe Weather - Thunderstorms
+2014-09-09 00:00:00,08:18:00,"Alberta, Canada",Electrical System Separation (Islanding)
+2014-09-11 00:00:00,04:56:00,"Alberta, Canada",Electrical System Separation (Islanding)
+2014-09-14 00:00:00,21:50:00,Oregon,Electrical System Separation (Islanding)
+2014-09-16 00:00:00,11:56:00,California,Physical Attack - Vandalism
+2014-09-17 00:00:00,13:30:00,Michigan,Suspected Physical Attack - Suspcious Activity
+2014-09-19 00:00:00,14:20:00,"Estacada, Oregon",Electrical System Separation (Islanding)
+2014-09-22 00:00:00,11:00:00,Northeast Minnesota,Fuel Supply Emergency - Coal
+2014-09-23 00:00:00,01:13:00,New York,Physical Attack - Suspcious Activity
+2014-09-21 00:00:00,13:30:00,New York,Physical Attack - Suspcious Activity
+2014-09-24 00:00:00,11:30:00,Washington,Physical Attack - Vandalism
+2014-10-02 00:00:00,15:00:00,"Cave Junction, Oregon",Suspected Physical Attack - Vandalism
+2014-10-02 00:00:00,22:15:00,Arkansas,Severe Weather - Thunderstorms
+2014-10-02 00:00:00,16:00:00,Texas,Severe Weather - Thunderstorms
+2014-10-06 00:00:00,10:52:00,"Houston, Texas",Severe Weather - Thunderstorms
+2014-10-07 00:00:00,12:00:00,Maryland,Suspected Physical Attack - Vandalism
+2014-10-08 00:00:00,16:47:00,Rio Grande Valley Texas,Public Appeal to Reduce Electricity Usage; Load Shed of 100 MW
+2014-10-08 00:00:00,16:49:00,Rio Grande Valley Texas,Public Appeal to Reduce Electricity Usage; Load Shed of 100 MW
+2014-10-09 00:00:00,09:27:00,Rio Grande Valley Texas,Public Appeal to Reduce Electricity Usage
+2014-10-13 00:00:00,12:45:00,Louisiana,Severe Weather - Thunderstorms
+2014-10-14 00:00:00,07:33:00,Oregon,Suspected Physical Attack - Vandalism
+2014-10-14 00:00:00,18:20:00,Puerto Rico,Voltage Reduction
+2014-10-14 00:00:00,05:44:00,"Alabama, Florida, Georgia",Severe Weather - Thunderstorms
+2014-10-15 00:00:00,07:46:00,Oregon,Suspected Physical Attack - Vandalism
+2014-10-16 00:00:00,09:12:00,"Garden City, Kansas",Suspected Physical Attack - Vandalism
+2014-10-16 00:00:00,13:25:00,Manitoba,Suspected Physical Attack
+2014-10-20 00:00:00,00:00:00,"Howard County, Texas",Suspected Physical Attack - Vandalism
+2014-10-21 00:00:00,08:25:00,"Carmel, Indiana",Suspected Cyber Attack
+2014-10-22 00:00:00,22:46:00,"New Hampshire, Maine, Massachusetts, Rhode Island, Connecticut, Vermont",Severe Weather
+2014-10-24 00:00:00,18:16:00,"Enfield, Connecticut ",Suspected Physical Attack - Vandalism
+2014-10-24 00:00:00,16:00:00,"Howard County, Texas",Suspected Physical Attack - Vandalism
+2014-10-25 00:00:00,16:00:00,"Greater Portland and Salem, Oregon",Severe Weather - Wind
+2014-10-25 00:00:00,18:00:00,"King County, Thurston County and Kitsap County,  Washington",Severe Weather - Wind
+2014-11-01 00:00:00,01:00:00,"Portland, Oregon",Suspected Physical Attack - Vandalism
+2014-11-02 00:00:00,13:46:00,"Massachusetts, Maine, Vermont, New Hampshire, Rhode Island, Connecticut",Severe Weather - Winter Storm
+2014-11-11 00:00:00,18:00:00,Washington,Severe Weather - Wind
+2014-11-12 00:00:00,02:59:00,Unknown,Suspected Physical Attack - Vandalism
+2014-11-13 00:00:00,07:07:00,"Howard County,Texas",Suspected Physical Attack - Vandalism
+2014-11-14 00:00:00,09:50:00,"Estacada, Oregon",Electrical System Islanding
+2014-11-19 00:00:00,14:44:00,"Victorville, California",Suspected Physical Attack - Vandalism
+2014-11-21 00:00:00,20:29:00,"Twin Falls, Idaho",Suspected Physical Attack - Vandalism
+2014-11-21 00:00:00,11:26:00,"Sand Springs - Fort Rock, Oregon",Suspected Physical Attack - Vandalism
+2014-11-24 00:00:00,00:00:00,"Nebraska, Kansas, Texas, Arkansas, Louisiana, New Mexico",Fuel Supply Emergency - Coal
+2014-11-24 00:00:00,12:00:00,Michigan,Severe Weather - Wind
+2014-11-26 00:00:00,17:50:00,"New Hampshire, Massachusetts, Maine, Rhode Island, Connecticut, Vermont",Severe Weather - Winter Storm
+2014-12-01 00:00:00,10:44:00,"Fayetteville, North Carolina",Suspected Physical Attack - Vandalism
+2014-12-03 00:00:00,12:15:00,Maine,Suspected Physical Attack - Vandalism
+2014-12-11 00:00:00,06:40:00,Northern California,Severe Weather- High Winds
+2014-12-11 00:00:00,07:21:00,"San Francisco, California",Distribution Interruption - Unknown Cause
+2014-12-11 00:00:00,23:15:00,Northern California,Severe Weather- High Winds
+2014-12-11 00:00:00,16:05:00,"Portland, Oregon",Severe Weather- High Winds
+2014-12-11 00:00:00,17:00:00,"Kitsap, Thurston, Whatcom counties Washington",Severe Weather- High Winds
+2014-12-17 00:00:00,11:00:00,Washington,Suspected Physical Attack
+2014-12-30 00:00:00,15:50:00,"New Hampshire, Massachusetts, Maine, Rhode Island, Connecticut, Vermont",Suspected Cyber Attack
+2014-12-30 00:00:00,13:08:00,Northern California,Severe Weather- High Winds
+2015-01-07 00:00:00,17:00:00,Tennessee,Severe Weather - Winter
+2015-01-07 00:00:00,17:00:00,"Tennessee, Kentucky, Virginia, North Carolina, Georgia, Alabama, Missouri",Severe Weather - Winter
+2015-01-22 00:00:00,04:24:00,"Portland, Oregon",Vandalism
+2015-01-26 00:00:00,14:39:00,"Cave Junction, Oregon",Vandalism
+2015-01-27 00:00:00,10:30:00,"Kountze, Texas",Sabotage
+2015-02-01 00:00:00,11:24:00,"Weber County, Utah",Vandalism
+2015-02-02 00:00:00,09:40:00,"Conroe, Texas",Sabotage
+2015-02-04 00:00:00,11:55:00,"Vollmers, California",Vandalism
+2015-02-05 00:00:00,08:15:00,"Cameron, Arizona",Vandalism
+2015-02-05 00:00:00,11:20:00,"Dunismuir, California",Vandalism
+2015-02-06 00:00:00,20:58:00,Northern California,Severe Weather - Wind
+2015-02-09 00:00:00,11:30:00,"Colorado Springs, Colorado",Sabotage
+2015-02-16 00:00:00,21:41:00,"Northern/North Eastern, Georgia",Severe Weather - Winter
+2015-02-16 00:00:00,21:00:00,"Tennessee, Kentucky, Virginia, North Carolina, Georgia, Alabama, Missouri",Severe Weather - Winter
+2015-02-17 00:00:00,09:00:00,"North Carolina, South Carolina",Severe Weather - Winter
+2015-02-17 00:00:00,02:12:00,"North Carolina, South Carolina",Severe Weather - Winter
+2015-02-17 00:00:00,06:20:00,"Prescott Valley, Arizona",Vandalism
+2015-02-18 00:00:00,15:00:00,"Tennessee, Kentucky, Virginia, North Carolina, Georgia, Alabama, Missouri",Severe Weather - Winter
+2015-02-19 00:00:00,14:30:00,"Winslow, Arizona",Vandalism
+2015-02-20 00:00:00,06:00:00,"North Carolina, South Carolina",Severe Weather - Winter
+2015-02-21 00:00:00,08:34:00,"Fentress County, Tennessee",Severe Weather - Winter
+2015-02-26 00:00:00,03:12:00,"North Carolina, South Carolina",Severe Weather - Winter
+2015-02-26 00:00:00,03:30:00,North Carolina ,Severe Weather - Winter
+2015-03-04 00:00:00,09:05:00,"Johnson City , Tennessee",Vandalism
+2015-03-09 00:00:00,23:50:00,Washington,Vandalism
+2015-03-15 00:00:00,15:30:00,"Greater Portland & Salem , Oregon",Severe Weather - Wind
+2015-03-16 00:00:00,07:31:00,"Winona , Minnesota",Sabotage
+2015-03-19 00:00:00,18:30:00,Southwest Kansas,Vandalism
+2015-03-22 00:00:00,16:25:00,West Virginia,Vandalism
+2015-03-26 00:00:00,15:21:00,"Contra Costa County, California",System Operations
+2015-03-29 00:00:00,04:26:00,California,Vandalism
+2015-04-01 00:00:00,18:25:00,"San Juan County, Utah",Vandalism
+2015-04-02 00:00:00,07:04:00,"San Juan County, Utah",Vandalism
+2015-04-03 00:00:00,02:00:00,"Harvey, Reno, and Sedgwick Counties, Kansas",Severe Weather - Thunderstorms
+2015-04-06 00:00:00,08:12:00,"Butte County, California",System Operations
+2015-04-07 00:00:00,12:30:00,Unknown ,System Operations
+2015-04-07 00:00:00,15:34:00,California,System Operations
+2015-04-17 00:00:00,21:30:00,"Houston, Texas",Severe Weather
+2015-04-17 00:00:00,09:16:00,Canada ,System Operations
+2015-04-18 00:00:00,21:00:00,"Dallas, Fort Worth, Texas",Severe Weather
+2015-04-24 00:00:00,19:10:00,"Dallas, Fort Worth, Texas",Severe Weather
+2015-04-27 00:00:00,10:30:00,Louisiana and Texas,Severe Weather
+2015-05-02 00:00:00,22:51:00,"Franklin County, Tennessee",Vandalism
+2015-05-04 00:00:00,15:25:00,"Salt Lake County, Utah",Vandalism
+2015-05-11 00:00:00,08:32:00,"Shasta County, California",Sabotage
+2015-05-12 00:00:00,00:40:00,"Coahoma County, Mississippi",Sabotage
+2015-05-18 00:00:00,15:28:00,Washington,Severe Weather
+2015-05-25 00:00:00,18:00:00,North Texas,Severe Weather
+2015-05-25 00:00:00,22:45:00,"Fort Bend County, & Harris County ,Texas",Severe Weather
+2015-05-25 00:00:00,20:30:00,Texas,Severe Weather
+2015-05-25 00:00:00,20:30:00,"Texas, Louisiana, Arkansas",Severe Weather
+2015-05-26 00:00:00,05:30:00,"Texas, Louisiana, Arkansas, Mississippi",Severe Weather
+2015-06-01 00:00:00,00:27:00,"Daviess County, Kentucky",Vandalism
+2015-06-01 00:00:00,19:19:00,California,System Operations
+2015-06-02 00:00:00,18:58:00,California,System Operations
+2015-06-03 00:00:00,15:00:00,Texas,System Operations
+2015-06-07 00:00:00,13:54:00,"Shelby County, Tennessee",System Operations
+2015-06-07 00:00:00,13:52:00,Tennessee,System Operations
+2015-06-08 00:00:00,00:00:00,"Merced County, California",System Operations
+2015-06-20 00:00:00,13:52:00,"Solano County, California",Vandalism
+2015-06-23 00:00:00,18:00:00,"Gloucester County, Burlington County, Atlantic County, Cape May County, New Jersey",Severe Weather
+2015-06-23 00:00:00,17:06:00,"New Castle County, Delaware",Severe Weather
+2015-06-23 00:00:00,17:30:00,"Delaware County, PA; Chester County, PA",Severe Weather
+2015-06-23 00:00:00,18:30:00,"Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont",Severe Weather
+2015-06-23 00:00:00,18:18:00,New Jersey,System Operations
+2015-06-23 00:00:00,18:26:00,New Jersey,Severe Weather
+2015-06-26 00:00:00,02:00:00,Kansas,Severe Weather
+2015-06-27 00:00:00,17:00:00,"Wayne County, Michigan",Severe Weather
+2015-06-29 00:00:00,19:21:00,Washington,Severe Weather
+2015-06-30 00:00:00,14:00:00,California,Severe Weather
+2015-06-30 00:00:00,10:50:00,California,Severe Weather
+2015-07-03 00:00:00,08:30:00,"Butte County, California",Suspicious Activity 
+2015-07-03 00:00:00,17:17:00,Texas,System Operations
+2015-07-13 00:00:00,14:14:00,"Ohio, Kentucky",Severe Weather
+2015-07-13 00:00:00,19:40:00,Virginia,Severe Weather
+2015-07-14 00:00:00,15:29:00,Arkansas,Severe Weather
+2015-07-14 00:00:00,20:00:00,Alabama,Severe Weather
+2015-07-15 00:00:00,02:00:00,California,System Operations
+2015-07-16 00:00:00,16:45:00,Texas,System Operations
+2015-07-18 00:00:00,02:00:00,"Henepin and Ramsey County, Minnesota",Severe Weather
+2015-07-18 00:00:00,18:26:00,California,System Operations
+2015-07-18 00:00:00,19:59:00,California,Severe Weather
+2015-07-21 00:00:00,12:47:00,Washington,System Operations
+2015-07-27 00:00:00,03:52:00,California,System Operations
+2015-07-28 00:00:00,12:05:00,Puerto Rico,System Operations
+2015-07-29 00:00:00,16:45:00,New York,System Operations
+2015-07-30 00:00:00,09:50:00,Texas,System Operations
+2015-07-30 00:00:00,13:00:00,Tennessee,Vandalism
+2015-07-31 00:00:00,10:55:00,Washington,System Operations
+2015-08-02 00:00:00,17:45:00,Michigan: Emmet County; Grand Traverse County; Leelanau County; Kalkaska County; Benzie County; Manistee County; Wexford County; Missaukee County; Mecosta County; ,Severe Weather
+2015-08-03 00:00:00,00:30:00,Illinois,Severe Weather
+2015-08-03 00:00:00,01:00:00,Michigan,Severe Weather
+2015-08-03 00:00:00,08:27:00,Arizona: New Mexico,Sabotage
+2015-08-04 00:00:00,07:17:00,Massachusetts: Rhode Island:,Severe Weather
+2015-08-11 00:00:00,19:30:00,Texas: Houston;,Severe Weather
+2015-08-13 00:00:00,15:15:00,Texas: Williamson County;,Other
+2015-08-27 00:00:00,21:51:00,Puerto Rico,System Operations
+2015-08-29 00:00:00,10:00:00,Washington,Severe Weather
+2015-08-29 00:00:00,11:00:00,"King County, Skagit County, Whatcom County, Kitsap County, Pierce County, Thurston County, Island County, Washington",Severe Weather
+2015-08-29 00:00:00,13:00:00,Washington: King County;,Severe Weather
+2015-09-03 00:00:00,02:33:00,Michigan,Severe Weather
+2015-09-13 00:00:00,17:56:00,New York: Dutchess County;,Vandalism
+2015-09-20 00:00:00,13:12:00,California,System Operations
+2015-09-29 00:00:00,15:40:00,Oregon,Vandalism
+2015-10-13 00:00:00,06:30:00,Utah: Emery County;,Vandalism
+2015-10-13 00:00:00,10:25:00,Texas,Other
+2015-10-13 00:00:00,16:32:00,California,Other
+2015-10-16 00:00:00,12:25:00,Utah ,Vandalism
+2015-10-18 00:00:00,07:00:00,California: Central Coast area;,Severe Weather
+2015-10-23 00:00:00,09:42:00,Puerto Rico,System Operations
+2015-10-28 00:00:00,13:38:00,Pennsylvania: Columbia County; Montour County; Northumberland County;,Other
+2015-10-30 00:00:00,15:00:00,Oregon: Josephine County;,Other
+2015-10-31 00:00:00,00:45:00,Texas: Harris County;,Severe Weather
+2015-11-01 00:00:00,11:53:00,Ohio: Hamilton County;,Vandalism
+2015-11-02 00:00:00,17:37:00,Arkansas: Hot Spring County;,Sabotage
+2015-11-10 00:00:00,12:00:00,Indiana: Dearborn County;,Sabotage
+2015-11-13 00:00:00,11:30:00,New York,Suspicious Activity 
+2015-11-17 00:00:00,09:00:00,Washington: Snohomish County;,Severe Weather
+2015-11-17 00:00:00,10:00:00,Washington,Severe Weather
+2015-11-17 00:00:00,13:30:00,"Washington: Stevens County, Lincoln County, Adams County, Whitman County, Spokane County; Idaho: Bonner County, Kootenai County, Shoshone County, Benewah County, Idaho County;",Severe Weather
+2015-11-21 00:00:00,20:30:00,Michigan,Severe Weather
+2015-11-28 00:00:00,06:00:00,Oklahoma,Severe Weather
+2015-11-28 00:00:00,06:00:00,Oklahoma,Severe Weather
+2015-11-29 00:00:00,16:48:00,Puerto Rico,System Operations
+2015-11-30 00:00:00,06:18:00,Puerto Rico,System Operations
+2015-12-02 00:00:00,13:03:00,Kansas: Thomas County;,Vandalism
+2015-12-05 00:00:00,21:00:00,Kansas,Vandalism
+2015-12-05 00:00:00,19:22:00,"New York: Orange County, Sullivan County; Pennsylvania: Pike County;",Other
+2015-12-08 00:00:00,14:00:00,Nevada: Clark County;,Sabotage
+2015-12-09 00:00:00,18:06:00,Puerto Rico,System Operations
+2015-12-09 00:00:00,04:00:00,Washington,Severe Weather
+2015-12-10 00:00:00,21:25:00,Missouri: New Madrid County;,System Operations
+2015-12-10 00:00:00,17:55:00,California: Stanislaus County;,Vandalism
+2015-12-10 00:00:00,03:53:00,California: Plumas County,Severe Weather
+2015-12-10 00:00:00,06:01:00,California: Northern;,Severe Weather
+2015-12-24 00:00:00,03:00:00,"Michigan: Antrim County, Charlevoix County, Manistee County, Mecosta County, Kalkaska County, Grand Traverse County, Osceola County, Lake County, Newaygo County, Clare County, Isabella County;",Severe Weather
+2015-12-26 00:00:00,19:30:00,Texas,Severe Weather
+2015-12-26 00:00:00,18:00:00,Texas: Oklahoma:,Severe Weather
+2015-12-27 00:00:00,23:38:00,Oklahoma,Severe Weather
+2015-12-27 00:00:00,17:00:00,Oklahoma,Severe Weather
+2015-12-29 00:00:00,08:30:00,Maine,Sabotage
+2015-12-31 00:00:00,17:00:00,Oklahoma: Blaine County;,Severe Weather
+2015-12-31 00:00:00,11:00:00,Missouri,Sabotage
+2016-01-04 00:00:00,05:15:00,Wisconsin: Milwaukee County;,Sabotage
+2016-01-10 00:00:00,20:46:00,Maine: Connecticut: Massachusetts: Vermont: New Hampshire: Rhode Island:,Weather
+2016-01-11 00:00:00,20:16:00,Pennsylvania: Chester County;,Vandalism
+2016-01-14 00:00:00,08:27:00,Delaware:,Vandalism
+2016-01-17 00:00:00,12:00:00,Utah: Salt Lake County;,Sabotage
+2016-01-22 00:00:00,15:52:00,North Carolina: South Carolina:,Weather
+2016-01-23 00:00:00,07:49:00,New Jersey:,Weather
+2016-02-05 00:00:00,11:21:00,Connecticut: Massachusetts: Rhode Island:,Weather
+2016-02-07 00:00:00,11:30:00,New York: Orange County,Cyber Attack
+2016-02-07 00:00:00,14:58:00,Oregon: Klamath County,Sabotage
+2016-02-07 00:00:00,13:21:00,Utah: Salt Lake County,Vandalism
+2016-02-13 00:00:00,12:44:00,California,Islanding
+2016-02-16 00:00:00,08:35:00,"Virginia: Roanoke County, Montgomery County; West Virginia: Kanawha County, Cabell County; Tennessee: Sullivan County;",Weather
+2016-02-19 00:00:00,22:00:00,Michigan,Weather
+2016-02-21 00:00:00,15:54:00,Oregon: Klamath County,Sabotage
+2016-02-24 00:00:00,14:45:00,North Carolina: South Carolina,Weather
+2016-02-24 00:00:00,09:10:00,Delaware,Vandalism
+2016-02-25 00:00:00,01:44:00,Connecticut: Maine: Massachusetts: Rhode Island: Vermont:,Weather
+2016-02-26 00:00:00,16:35:00,Arizona: Maricopa County,Sabotage - Operator Action(s)
+2016-02-26 00:00:00,00:01:00,California: San Bernardino County,Fuel Supply Deficiency
+2016-03-01 00:00:00,13:35:00,Idaho: Ada County;,Vandalism
+2016-03-01 00:00:00,15:00:00,"Washington: King County, Whatcom County, Kitsap County, Skagit County;",Weather
+2016-03-03 00:00:00,11:00:00,California: San Bernardino County;,Fuel Supply Deficiency
+2016-03-08 00:00:00,00:00:00,Idaho: Bannock County;,Sabotage
+2016-03-10 00:00:00,04:00:00,"Washington: Kitsap County, King County, Whatcom County, Island County, Skagit County;",Sabotage
+2016-03-13 00:00:00,14:00:00,"Washington: Island County, Skagit County, Whatcom County, King County, Kitsap County, Pierce County, Thurston County;",Sabotage
+2016-03-13 00:00:00,16:55:00,Washington:,Vandalism
+2016-03-23 00:00:00,05:00:00,"Colorado: Denver, City and County of[12];",Weather
+2016-03-27 00:00:00,12:00:00,Nevada: Clark County;,Sabotage
+2016-03-30 00:00:00,21:12:00,Massachusetts: Middlesex County[13];,Sabotage
+2016-04-01 00:00:00,16:37:00,Florida: Hillsborough County,Sabotage
+2016-04-02 00:00:00,11:08:00,California,System Operations
+2016-04-12 00:00:00,11:30:00,Washington: Pend Oreille County,Cyber Attack
+2016-04-14 00:00:00,16:49:00,Maryland: Baltimore County,Sabotage
+2016-04-15 00:00:00,10:00:00,Utah: Weber County,Vandalism
+2016-04-18 00:00:00,05:05:00,Texas: Harris County,Weather
+2016-04-27 00:00:00,13:36:00,Tennessee,Vandalism
+2016-04-27 00:00:00,05:50:00,Texas: Harris County,Weather
+2016-04-27 00:00:00,18:00:00,Texas: Rusk County,Sabotage
+2016-05-07 00:00:00,07:49:00,New York: Dutchess County;,Sabotage
+2016-05-08 00:00:00,09:12:00,Washington: Clark County;,Islanding
+2016-05-10 00:00:00,20:45:00,"Texas: Dallas County, Tarrant County, Parker County;",Distribution Interruption
+2016-05-14 00:00:00,21:25:00,Missouri:,Sabotage
+2016-05-19 00:00:00,21:36:00,Utah:,System Operations
+2016-05-20 00:00:00,00:00:00,Louisiana:,Distribution Interruption 
+2016-05-20 00:00:00,01:15:00,Louisiana:,Weather
+2016-05-24 00:00:00,08:00:00,Missouri:,Vandalism
+2016-05-26 00:00:00,21:29:00,New York:,Transmission Interruption
+2016-05-31 00:00:00,07:30:00,New York: Tompkins County;,Fuel Supply Deficiency
+2016-06-07 00:00:00,12:00:00,Utah,Sabotage 
+2016-06-14 00:00:00,07:59:00,New Jersey,Vandalism
+2016-06-17 00:00:00,15:40:00,"Georgia, Alabama, Mississippi, Florida",Weather
+2016-06-17 00:00:00,04:30:00,Delaware,Vandalism
+2016-07-02 00:00:00,04:00:00,Oregon: Multnomah County,Actual Physical Event
+2016-07-05 00:00:00,02:45:00,"Texas: Dallas County, Tarrant County",Severe Weather
+2016-07-05 00:00:00,17:30:00,"Minnesota, Wisconsin",Severe Weather
+2016-07-07 00:00:00,04:20:00,"Kansas: Johnson County; Missouri: Jackson County, Platte County, Cass County, Buchanan County, Atchison County, Andrew County, Clay County, Nodaway County",Severe Weather
+2016-07-07 00:00:00,05:53:00,North Carolina: New Hanover County,Vandalism
+2016-07-08 00:00:00,20:50:00,North Carolina,Severe Weather
+2016-07-08 00:00:00,19:00:00,"Michigan: Wayne County, Oakland County, Macomb County, St. Clair County, Lapeer County, Tuscola County, Sanilac County, Huron County",Severe Weather
+2016-07-08 00:00:00,18:00:00,West Virginia: Virginia,Severe Weather
+2016-07-09 00:00:00,17:45:00,Texas: Dallas County,Severe Weather
+2016-07-12 00:00:00,14:10:00,Puerto Rico,System Operations
+2016-07-13 00:00:00,13:00:00,Washington,Vandalism
+2016-07-13 00:00:00,15:00:00,Tennessee: Shelby County,System Operations
+2016-07-14 00:00:00,17:30:00,Oklahoma: Arkansas,Severe Weather
+2016-07-14 00:00:00,16:30:00,Arkansas: Louisiana: Mississippi: Texas,Severe Weather
+2016-07-14 00:00:00,14:44:00,Oklahoma,Severe Weather
+2016-07-19 00:00:00,15:45:00,Idaho,System Operations
+2016-07-19 00:00:00,15:45:00,Idaho,System Operations
+2016-07-21 00:00:00,19:21:00,Puerto Rico,System Operations
+2016-07-21 00:00:00,06:18:00,Delaware: New Castle County,Suspicious Activity
+2016-07-22 00:00:00,23:50:00,Massachusetts: Connecticut: Rhode Island: New Hampshire: Vermont: Maine,Severe Weather
+2016-07-23 00:00:00,15:15:00,Pennsylvania: Cambria County,System Operations
+2016-07-23 00:00:00,19:30:00,Connecticut: Massachusetts: New Hampshire: Vermont: Rhode Island,Severe Weather
+2016-07-25 00:00:00,18:51:00,Puerto Rico,System Operations
+2016-07-26 00:00:00,18:51:00,Puerto Rico,System Operations
+2016-07-27 00:00:00,18:50:00,Puerto Rico,System Operations
+2016-07-28 00:00:00,18:51:00,Puerto Rico,System Operations
+2016-07-29 00:00:00,19:09:00,Puerto Rico,System Operations
+2016-08-04 00:00:00,14:15:00,Delaware: New Castle County;,Vandalism
+2016-08-07 00:00:00,18:39:00,New Mexico: Bernalillo County;,System Operations
+2016-08-10 00:00:00,06:00:00,California: Butte County;,Fuel Supply Deficiency
+2016-08-11 00:00:00,16:30:00,Ohio:,Severe Weather
+2016-08-13 00:00:00,11:42:00,South Carolina:,System Operations
+2016-08-20 00:00:00,14:18:00,New York:,Actual Physical Event
+2016-08-23 00:00:00,17:00:00,Texas: Harris County;,Severe Weather
+2016-08-24 00:00:00,18:13:00,Puerto Rico:,System Operations
+2016-08-24 00:00:00,19:18:00,Washington: King County;,Islanding
+2016-08-25 00:00:00,18:40:00,Oregon: Crook County;,Vandalism
+2016-08-31 00:00:00,09:45:00,Colorado:,Transmission Interruption
+2016-08-31 00:00:00,14:52:00,Washington: Clark County;,Islanding
+2016-09-01 00:00:00,22:00:00,Florida:,Severe Weather
+2016-09-02 00:00:00,00:40:00,"Florida: Leon County, Wakulla County;",Severe Weather
+2016-09-02 00:00:00,04:00:00,"Florida: Alachua County, Bay County, Citrus County, Columbia County, Dixie County, Franklin County, Gilchrist County, Gulf County, Hamilton County, Hardee County, Hernando County, Highlands County, Jefferson County, Lafayette County, Lake County, Levy County, Madison County, Marion County, Orange County, Osceola County, Pasco County, Pinellas County, Polk County, Seminole County, Sumter County, Suwannee County, Taylor County, Volusia County, Wakulla County;",Severe Weather
+2016-09-02 00:00:00,05:45:00,Georgia:,Severe Weather
+2016-09-06 00:00:00,18:12:00,Washington: Clark County;,Islanding
+2016-09-08 00:00:00,08:30:00,New York: Tompkins County;,Fuel Supply Deficiency
+2016-09-08 00:00:00,14:49:00,Washington:,Islanding
+2016-09-10 00:00:00,09:42:00,Washington: Clark County;,Generation Inadequacy
+2016-09-11 00:00:00,12:05:00,Connecticut: Massachusetts: New Hampshire: Rhode Island: Vermont: Maine:,Severe Weather
+2016-09-12 00:00:00,12:30:00,"New Mexico: Bernalillo County, Sandoval County, Santa Fe County, Valencia County;",Generation Inadequacy
+2016-09-21 00:00:00,14:30:00,Puerto Rico:,System Operations
+2016-09-21 00:00:00,19:44:00,Texas: Lubbock County;,Actual Physical Event
+2016-09-22 00:00:00,10:56:00,Iowa: Black Hawk County;,System Operations
+2016-09-25 00:00:00,12:49:00,"Utah: Kane County, Garfield County; Arizona: Coconino County, Mohave County",Vandalism
+2016-10-31 00:00:00,08:06:00,North Carolina: Stokes County;,Actual Physical Event
+2017-02-02 00:00:00,01:04:00,"New Mexico: Bernalillo County, Santa Fe County;",Transmission Interruption
+2017-02-02 00:00:00,01:11:00,New Mexico: Bernalillo County;,Transmission Interruption
+2017-02-06 00:00:00,01:00:00,"Washington: Skagit County, King County, Kitsap County;",Severe Weather
+2017-02-09 00:00:00,16:05:00,Connecticut: Massachusetts: Rhode Island:,Severe Weather
+2017-02-11 00:00:00,15:46:00,Utah,Actual Physical Attack
+2017-02-13 00:00:00,13:00:00,North Carolina: Union County;,Vandalism 
+2017-02-17 00:00:00,13:00:00,Nevada: Clark County;,Vandalism 
+2017-02-17 00:00:00,15:00:00,California: Los Angeles County;,Severe Weather
+2017-02-17 00:00:00,08:09:00,California,Severe Weather
+2017-02-17 00:00:00,04:32:00,Missouri: Arkansas: Oklahoma: Texas:,System Operations
+2023-03-28 00:00:00,18:03:00,Texas: Cameron County;,Suspicious Activity
+2023-05-01 00:00:00,05:16:00,Connecticut: Massachusetts: Rhode Island: Maine: New Hampshire: Vermont:,Severe Weather
+2023-05-02 00:00:00,10:00:00,Texas:,Actual Physical Attack/Vandalism
+2023-05-02 00:00:00,11:29:00,Ohio: Kentucky:,Suspicious Activity
+2023-05-04 00:00:00,18:00:00,Texas: San Patricio County;,Vandalism
+2023-05-11 00:00:00,00:15:00,Michigan: Eaton County;,Suspicious Activity
+2023-05-11 00:00:00,12:00:00,Texas: Tarrant County;,Vandalism
+2023-05-12 00:00:00,13:00:00,Kentucky: Jefferson County;,Vandalism
+2023-05-12 00:00:00,11:43:00,New York: Broome County;,Suspicious Activity
+2023-05-13 00:00:00,07:25:00,North Dakota: Williams County;,Actual Physical Attack/Vandalism
+2023-05-13 00:00:00,06:27:00,North Dakota: Williams County;,Actual Physical Attack/Vandalism
+2023-05-13 00:00:00,05:27:00,North Dakota: Williams County;,Actual Physical Attack/Vandalism
+2023-05-16 00:00:00,14:45:00,Oregon: Multnomah County;,Suspicious Activity
+2023-05-21 00:00:00,15:30:00,Washington: Whatcom County;,Suspicious Activity
+2023-05-22 00:00:00,15:39:00,Florida: Putnam County;,Severe Weather
+2023-05-23 00:00:00,14:00:00,North Dakota:,Vandalism
+2023-05-24 00:00:00,07:45:00,North Dakota:,Transmission Interruption
+2023-05-24 00:00:00,09:16:00,Iowa: Minnesota:,System Operations
+2023-05-26 00:00:00,07:41:00,Georgia: Gwinnett County;,Vandalism
+2023-05-28 00:00:00,09:15:00,Alabama: Tuscaloosa County;,Actual Physical Attack/Vandalism
+2023-05-30 00:00:00,08:00:00,Massachusetts: Hampden County[13];,Actual Physical Attack/Vandalism
+2023-05-31 00:00:00,11:00:00,Florida: Alachua County;,System Operations
+2023-06-25 00:00:00,06:45:00,Tennessee,- Weather or natural disaster
+2023-06-24 00:00:00,18:17:00,Michigan,- Vandalism - Theft
+2023-06-25 00:00:00,17:30:00,"Georgia, Alabama",- Weather or natural disaster
+2023-06-25 00:00:00,04:00:00,"Wisconsin, Michigan",- Weather or natural disaster
+2023-06-25 00:00:00,19:00:00,Michigan,- Weather or natural disaster
+2023-06-27 00:00:00,13:43:00,California,- Vandalism
+2023-06-25 00:00:00,19:30:00,"Arkansas, Mississippi",- Weather or natural disaster
+2023-06-27 00:00:00,17:37:00,"Washington, Idaho, Montana",- Failure at high voltage substation or switchyard
+2023-06-29 00:00:00,15:42:00,Indiana,- Weather or natural disaster
+2023-06-28 00:00:00,11:01:00,Georgia,- Vandalism - Theft
+2023-06-22 00:00:00,02:30:00,Louisiana,- Transmission equipment failure
+2023-06-20 00:00:00,17:48:00,Louisiana,- Transmission equipment failure
+2023-06-30 00:00:00,12:13:00,Connecticut,- Unknown

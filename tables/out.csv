@@ -1,0 +1,80 @@
+Event Type,Valid Date,Valid Time,State,Counties,Valid DateTime,State_FIPS,County_FIPS
+Severe Weather,1/2/2022,13:21:00,California,Tuolumne County;,1/2/2022 13:21,6,6109
+Severe Weather,1/3/2022,1:00:00,Georgia: Alabama: Mississippi:,,1/3/2022 1:00,"13, 01, 28",
+Severe Weather,1/16/2022,5:15:00,Georgia: Alabama:,,1/16/2022 5:15,"13, 01",
+Severe Weather,1/29/2022,8:45:00,Connecticut: Massachusetts: New Hampshire: Rhode Island: Vermont: Maine:,,1/29/2022 8:45,"09, 25, 33, 44, 50, 23",
+Severe Weather/Transmission Interruption,2/3/2022,10:00:00,Tennessee,Shelby County;,2/3/2022 10:00,47,47157
+Severe Weather/Transmission Interruption,2/3/2022,12:56:00,Ohio,,2/3/2022 12:56,39,
+Severe Weather/Transmission Interruption,2/4/2022,13:10:00,New York,Ulster County;,2/4/2022 13:10,36,36111
+Severe Weather,2/18/2022,7:10:00,Connecticut: Maine: Massachusetts: New Hampshire: Vermont: Rhode Island:,,2/18/2022 7:10,"09, 23, 25, 33, 50, 44",
+Severe Weather,3/12/2022,8:33:00,Alabama: Georgia: Mississippi: Florida:,,3/12/2022 8:33,"01, 13, 28, 12",
+Severe Weather,3/21/2022,19:00:00,Texas,"Anderson County, Bell County, Bosque County, Comanche County, Coryell County, Falls County, Freestone County, Hamilton County, Henderson County, Hill County, Lampasas County, Leon County, Limestone County, McLennan County, Milam County, Mills County, Robertson County, Collin County, Cooke County, Dallas County, Denton County, Ellis County, Erath County, Fannin County, Grayson County, Hood County, Hunt County, Johnson County, Kaufman County, Navarro County, Parker County, Rains County, Rockwall County, Somervell County, Tarrant County, Van Zandt County, Wise County;",3/21/2022 19:00,48,"48001, 48027, 48035, 48093, 48099, 48145, 48161, 48193, 48213, 48217, 48281, 48289, 48293, 48309, 48331, 48333, 48395, 48085, 48097, 48113, 48121, 48139, 48143, 48147, 48181, 48221, 48231, 48251, 48257, 48349, 48367, 48379, 48397, 48425, 48439, 48467, 48497"
+Severe Weather,3/30/2022,15:45:00,Louisiana: Mississippi: Arkansas:,,3/30/2022 15:45,"22, 28, 05",
+Severe Weather,3/31/2022,0:04:00,Georgia: Alabama: Mississippi: Florida:,,3/31/2022 0:04,"13, 01, 28, 12",
+Severe Weather,4/11/2022,9:15:00,Oregon,"Multnomah County, Clackamas County, Marion County, Yamhill County, Washington County;",4/11/2022 9:15,41,"41051, 41005, 41047, 41071, 41067"
+Severe Weather,4/19/2022,4:07:00,New York,"Broome County, Chemung County, Chenango County, Clinton County, Columbia County, Cortland County, Delaware County, Dutchess County, Erie County, Essex County, Greene County, Hamilton County, Herkimer County, Madison County, Oneida County, Otsego County, Putnam County, Saratoga County, Schoharie County, Schuyler County, Steuben County, Sullivan County, Tioga County, Tompkins County, Ulster County, Westchester County;",4/19/2022 4:07,36,"36007, 36015, 36017, 36019, 36021, 36023, 36025, 36027, 36029, 36031, 36039, 36041, 36043, 36053, 36065, 36077, 36079, 36091, 36095, 36097, 36101, 36105, 36107, 36109, 36111, 36119"
+Severe Weather,4/22/2022,23:00:00,North Dakota,,4/22/2022 23:00,38,
+Severe Weather,4/22/2022,23:16:00,North Dakota: Montana: ,"Wibaux County, Richland County",4/22/2022 23:16,"38, 30","38077, 30109, 30083"
+Severe Weather,4/23/2022,15:38:00,North Dakota,"Mountrail County, Williams County;",4/23/2022 15:38,38,"38061, 38105"
+Severe Weather,4/23/2022,19:42:00,Iowa,Illinois:,4/23/2022 19:42,19,
+Severe Weather,5/22/2022,2:30:00,Texas,Harris County;,5/22/2022 2:30,48,48201
+Severe Weather,6/8/2022,0:00:00,Kansas: Missouri: Nebraska:,,6/8/2022 0:00,"20, 29, 31",
+Severe Weather/Distribution Interruption,6/8/2022,1:00:00,Missouri,,6/8/2022 1:00,29,
+Severe Weather/Transmission Interruption,6/12/2022,23:30:00,Ohio: West Virginia: Virginia: Indiana:,,6/12/2022 23:30,"39, 54, 51, 18",
+Severe Weather/Transmission Interruption,6/13/2022,18:00:00,Ohio: Kentucky:,,6/13/2022 18:00,"39, 21",
+Severe Weather,6/17/2022,6:02:00,Illinois: Missouri:,,6/17/2022 6:02,"17, 29",
+Severe Weather/Distribution Interruption,6/22/2022,16:56:00,Virginia,,6/22/2022 16:56,51,
+Severe Weather,7/23/2022,20:45:00,Michigan,"Muskegon County, Ottawa County, Kent County, Montcalm County, Ionia County, Allegan County, Van Buren County, Kalamazoo County, Barry County, Mason County, Shiawassee County, Ingham County, Genesee County, Saginaw County, Midland County, Wexford County, Grand Traverse County;",7/23/2022 20:45,26,"26121, 26139, 26081, 26117, 26067, 26005, 26159, 26077, 26015, 26105, 26155, 26065, 26049, 26145, 26111, 26165, 26055"
+Severe Weather,8/3/2022,2:30:00,Minnesota: Wisconsin:,,8/3/2022 2:30,"27, 55",
+Severe Weather,8/3/2022,17:00:00,Michigan,"Allegan County, Van Buren County, Barry County, Kalamazoo County, Calhoun County, Jackson County, Calhoun County, Washtenaw County;",8/3/2022 17:00,26,"26005, 26159, 26015, 26077, 26025, 26075, 26025, 26161"
+Severe Weather,8/4/2022,18:00:00,Maryland,"Anne Arundel County, Baltimore County;",8/4/2022 18:00,24,"24003, 24005"
+Severe Weather,8/10/2022,1:25:00,Arkansas,Lawrence County;,8/10/2022 1:25,5,5075
+Severe Weather,8/10/2022,19:56:00,Texas,Harris County;,8/10/2022 19:56,48,48201
+Severe Weather,8/22/2022,20:40:00,Texas,El Paso County;,8/22/2022 20:40,48,48141
+Severe Weather,9/1/2022,15:00:00,California,Shasta County;,9/1/2022 15:00,6,6089
+Severe Weather,9/4/2022,16:00:00,Texas,"Tarrant County, Collin County, Dallas County, Ellis County, Kaufman County, Rockwall County, Williamson County, Denton County, Archer County;",9/4/2022 16:00,48,"48439, 48085, 48113, 48139, 48257, 48397, 48491, 48121, 48009"
+Severe Weather,9/6/2022,16:00:00,California,Shasta County;,9/6/2022 16:00,6,6089
+Severe Weather,9/7/2022,16:00:00,California,Shasta County;,9/7/2022 16:00,6,6089
+Severe Weather,9/8/2022,11:54:00,California,Shasta County;,9/8/2022 11:54,6,6089
+Severe Weather,9/9/2022,16:00:00,California,Shasta County;,9/9/2022 16:00,6,6089
+Severe Weather,9/13/2022,19:55:00,Texas,El Paso County;,9/13/2022 19:55,48,48141
+Severe Weather,9/28/2022,15:00:00,Florida,"Hillsborough County, Polk County, Pasco County, Pinellas County;",9/28/2022 15:00,12,"12057, 12105, 12101, 12103"
+Severe Weather,9/29/2022,3:27:00,Florida,Polk County;,9/29/2022 3:27,12,12105
+Severe Weather,9/30/2022,2:45:00,North Carolina,,9/30/2022 2:45,37,
+Sever Weather,10/14/2022,13:15:00,Connecticut: Massachusetts: Maine: Rhode Island: New Hampshire: Vermont:,,10/14/2022 13:15,"09, 25, 23, 44, 33, 50",
+Severe Weather,11/4/2022,20:05:00,Washington,"Island County, King County, Kittitas County, Thurston County, Kitsap County, Pierce County, Skagit County, Whatcom County;",11/4/2022 20:05,53,"53029, 53033, 53037, 53067, 53035, 53053, 53057, 53073"
+Severe Weather,11/5/2022,13:00:00,Michigan,"Kalamazoo County, Kent County, Calhoun County, Genesee County, Ottawa County, Muskegon County, Eaton County, Saginaw County, Van Buren County, Hillsdale County, Shiawassee County, Jackson County, Lenawee County, Branch County, Montcalm County, Monroe County, Manistee County, Roscommon County, Clinton County, Ingham County, Gladwin County, Arenac County, Ogemaw County, Iosco County, Alcona County;",11/5/2022 13:00,26,"26077, 26081, 26025, 26049, 26139, 26121, 26045, 26145, 26159, 26059, 26155, 26075, 26091, 26023, 26117, 26115, 26101, 26143, 26037, 26065, 26051, 26011, 26129, 26069, 26001"
+Severe Weather,11/5/2022,19:00:00,Wisconsin,,11/5/2022 19:00,55,
+Severe Weather,11/10/2022,6:00:00,Florida,"Alachua County, Bay County, Citrus County, Columbia County, Dixie County, Franklin County, Gilchrist County, Gulf County, Hamilton County, Hardee County, Hernando County, Highlands County, Jefferson County, Lafayette County, Lake County, Levy County, Madison County, Marion County, Orange County, Osceola County, Pasco County, Pinellas County, Polk County, Seminole County, Sumter County, Suwannee County, Taylor County, Volusia County, Wakulla County;",11/10/2022 6:00,12,"12001, 12005, 12017, 12023, 12029, 12037, 12041, 12045, 12047, 12049, 12053, 12055, 12065, 12067, 12069, 12075, 12079, 12083, 12095, 12097, 12101, 12103, 12105, 12117, 12119, 12121, 12123, 12127, 12129"
+Severe Weather,11/30/2022,3:35:00,Alabama: Mississippi: Georgia:,,11/30/2022 3:35,"01, 28, 13",
+Severe Weather,12/16/2022,23:30:00,Massachusetts: Vermont: New Hampshire: Maine:,,12/16/2022 23:30,"25, 50, 33, 23",
+Severe Weather,12/23/2022,3:03:00,Alabama: Georgia: Mississippi:,,12/23/2022 3:03,"01, 13, 28",
+Severe Weather,12/23/2022,7:19:00,Missouri,Jasper County;,12/23/2022 7:19,29,29097
+Severe Weather,12/24/2022,4:45:00,North Carolina: South Carolina:,,12/24/2022 4:45,"37, 45",
+Severe Weather,12/24/2022,9:00:00,Alabama: Georgia: Mississippi:,,12/24/2022 9:00,"01, 13, 28",
+Severe Weather,12/26/2022,8:30:00,Washington,"King County, Island County, Kittitas County, Kitsap County, Pierce County, Skagit County, Thurston County, Whatcom County;",12/26/2022 8:30,53,"53033, 53029, 53037, 53035, 53053, 53057, 53067, 53073"
+Severe Weather,12/31/2022,19:00:00,California,Sacramento County;,12/31/2022 19:00,6,6067
+Severe Weather,1/2/2023,18:22:00,Arkansas: Louisiana:,Ouachita Parish,1/2/2023 18:22,"05, 22",22073
+Severe Weather,1/7/2023,22:00:00,California,Sacramento County;,1/7/2023 22:00,6,6067
+Severe Weather,1/23/2023,7:05:00,Connecticut: Rhode Island: Massachusetts: Vermont: New Hampshire: Maine:,,1/23/2023 7:05,"09, 44, 25, 50, 33, 23",
+Severe Weather,1/24/2023,15:25:00,Texas,Harris County;,1/24/2023 15:25,48,48201
+Severe Weather,1/25/2023,3:30:00,Arkansas: Texas: Louisiana: Mississippi:,,1/25/2023 3:30,"05, 48, 22, 28",
+Severe Weather,1/31/2023,8:15:00,Texas,"Dallas County, Anderson County, Bosque County, Collin County, Comanche County, Cooke County, Delta County, Denton County, Ellis County, Erath County, Fannin County, Freestone County, Hamilton County, Henderson County, Hill County, Hood County, Hopkins County, Hunt County, Jack County, Johnson County, Kaufman County, Lamar County, Navarro County, Palo Pinto County, Parker County, Rains County, Red River County, Rockwall County, Somervell County, Tarrant County, Van Zandt County, Wichita County, Wise County;",1/31/2023 8:15,48,"48113, 48001, 48035, 48085, 48093, 48097, 48119, 48121, 48139, 48143, 48147, 48161, 48193, 48213, 48217, 48221, 48223, 48231, 48237, 48251, 48257, 48277, 48349, 48363, 48367, 48379, 48387, 48397, 48425, 48439, 48467, 48485, 48497"
+Severe Weather,2/1/2023,5:00:00,Texas,Travis County;,2/1/2023 5:00,48,48453
+Severe Weather,2/2/2023,8:15:00,Arkansas: Mississippi: Texas:,,2/2/2023 8:15,"05, 28, 48",
+Severe Weather,2/23/2023,4:30:00,Wisconsin,Michigan:,2/23/2023 4:30,55,
+Severe Weather,2/25/2023,0:08:00,California,Los Angeles County;,2/25/2023 0:08,6,6037
+Severe Weather,2/27/2023,13:25:00,Michigan,"Newaygo County, Oceana County, Ionia County, Montcalm County, Jackson County, Van Buren County, Washtenaw County, Hillsdale County, Lenawee County;",2/27/2023 13:25,26,"26123, 26127, 26067, 26117, 26075, 26159, 26161, 26059, 26091"
+Severe Weather,3/2/2023,19:00:00,Texas,"Montague County, Cooke County, Grayson County, Fannin County, Lamar County, Young County, Jack County, Wise County, Denton County, Collin County, Hunt County, Delta County, Hopkins County, Stephens County, Palo Pinto County, Parker County, Tarrant County, Dallas County, Rockwall County, Kaufman County, Van Zandt County, Rains County, Eastland County, Erath County, Hood County, Somervell County, Johnson County, Ellis County, Henderson County, Comanche County, Mills County, Hamilton County, Bosque County, Hill County, Navarro County, Freestone County, Anderson County, Lampasas County, Coryell County, Bell County, McLennan County, Falls County, Limestone County, Leon County, Milam County, Robertson County;",3/2/2023 19:00,48,"48337, 48097, 48181, 48147, 48277, 48503, 48237, 48497, 48121, 48085, 48231, 48119, 48223, 48429, 48363, 48367, 48439, 48113, 48397, 48257, 48467, 48379, 48133, 48143, 48221, 48425, 48251, 48139, 48213, 48093, 48333, 48193, 48035, 48217, 48349, 48161, 48001, 48281, 48099, 48027, 48309, 48145, 48293, 48289, 48331, 48395"
+Severe Weather,3/3/2023,12:45:00,Alabama: Georgia: Mississippi:,,3/3/2023 12:45,"01, 13, 28",
+Severe Weather,3/3/2023,15:40:00,Kentucky: Virginia:,"Williamsburg, Wise County",3/3/2023 15:40,"21, 51","51830, 51195"
+Severe Weather,3/9/2023,18:00:00,Wisconsin,"Walworth County, Waukesha County, Milwaukee County, Racine County, Ozaukee County, Kenosha County;",3/9/2023 18:00,55,"55127, 55133, 55079, 55101, 55089, 55059"
+Severe Weather,3/14/2023,8:00:00,Connecticut: Massachusetts: Vermont: Rhode Island: New Hampshire: Maine:,,3/14/2023 8:00,"09, 25, 50, 44, 33, 23",
+Severe Weather,3/14/2023,9:25:00,New York,,3/14/2023 9:25,36,
+Severe Weather,3/25/2023,16:12:00,Ohio: West Virginia: Virginia:,,3/25/2023 16:12,"39, 54, 51",
+Severe Weather,3/31/2023,18:00:00,Arkansas,,3/31/2023 18:00,5,
+Severe Weather,3/31/2023,20:49:00,Illinois,,3/31/2023 20:49,17,
+Severe Weather,4/1/2023,14:00:00,Ohio: West Virginia: Virginia:,,4/1/2023 14:00,"39, 54, 51",
+Severe Weather,4/29/2023,0:00:00,Texas,"Hidalgo County, Cameron County, Willacy County, Starr County;",4/29/2023 0:00,48,"48215, 48061, 48489, 48427"
+Severe Weather,5/1/2023,5:16:00,Connecticut: Massachusetts: Rhode Island: Maine: New Hampshire: Vermont:,,5/1/2023 5:16,"09, 25, 44, 23, 33, 50",
+Severe Weather,5/22/2023,15:39:00,Florida,Putnam County;,5/22/2023 15:39,12,12107
