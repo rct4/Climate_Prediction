@@ -1,0 +1,1664 @@
+,Unnamed: 0,Event Type,Valid Date,Valid Time,State,Cities,Counties,Dirty,description
+0,1,Ice Storm,2002-01-29,,,Kansas City,,1,
+1,0,Ice Storm,2002-01-30,6:00:00,Oklahoma,,,,FAILED
+2,2,Ice Storm,2002-01-30,16:00:00,Missouri,,,,FAILED
+3,3,Severe Weather,2002-03-09,0:00:00,Michigan,,,1,FAILED
+4,4,Fire,2002-07-20,12:40:00,New York,,,,FAILED
+5,5,Severe Weather,2002-08-28,14:09:00,Florida,,,,FAILED
+6,6,Hurricane Lily,2002-10-03,3:33:00,Louisiana,,,1,FAILED
+7,7,Winter Storm,2002-11-06,22:00:00,California,,,1,FAILED
+8,8,Ice Storm,2002-11-17,6:00:00,Connecticut,,,1,FAILED
+9,9,Ice Storm,2002-12-03,18:30:00,Arkansas,,,,FAILED
+10,10,Winter Storm,2002-12-11,13:09:00,Virginia,Fredericksburg,,1,FAILED
+11,11,Winter Storm,2002-12-14,11:00:00,California,,,,FAILED
+12,12,Winter Storm,2002-12-19,6:00:00,California,,,,FAILED
+13,14,Winter Storm,2002-12-25,10:00:00,Pennsylvania,"Reading, York, Hanover, Hamburg",,,FAILED
+14,13,Winter Storm,2002-12-25,17:00:00,Pennsylvania,,,,FAILED
+15,15,Winter Ice Storm,2003-02-27,,North Carolina,Piedmont,,1,FAILED
+16,16,Ice Storm,2003-04-03,,Michigan,,,1,FAILED
+17,17,Severe Storm ,2003-04-04,,New York,,,,FAILED
+18,18,Severe Thunderstorms,2003-05-02,,North Carolina,Piedmont,,1,FAILED
+19,19,Severe Thunderstorms,2003-05-02,,Georgia,,,,FAILED
+20,20,Flood,2003-05-15,,MichigaDIRTY,,,1,FAILED
+21,21,Severe Thunderstorms,2003-07-04,,Wisconsin,,,1,FAILED
+22,22,Severe Thunderstorms,2003-07-04,,Michigan,,,1,FAILED
+23,23,Severe Storms,2003-07-04,,"Indiana, Ohio",,,1,FAILED
+24,24,Severe Storms,2003-07-05,,Illinois,,,1,FAILED
+25,25,Severe Thunderstorms,2003-07-07,,Illinois,,,1,FAILED
+26,26,Severe Thunderstorms,2003-07-08,,Ohio,,,,FAILED
+27,27,Severe Thunderstorms,2003-07-09,,Virginia,,,1,FAILED
+28,1273,Hurricane Claudette,2003-07-15,,Texas,,TRUE,,FAILED
+29,28,Severe Storms,2003-07-21,,Pennsylvania,,,,FAILED
+30,29,Severe Thunderstorms,2003-08-26,,Maryland,,"Anne Arundel County, Baltimore County, Calvert County, Carroll County, Howard County, Montgomery County,  Prince George's and Baltimore City.",,FAILED
+31,30,Severe Thunderstorms,2003-08-26,,Maryland,,"Washington, D.C.,  Montgomery County,  Prince Georges County,",,FAILED
+32,31,Hurricane Isabel,2003-09-18,,"North Carolina, Virginia",,,1,FAILED
+33,32,Hurricane Isabel,2003-09-18,,North Carolina,,,1,FAILED
+34,33,Hurricane Isabel,2003-09-18,,Maryland,,"Baltimore City, Baltimore County, Anne Arundel County, Hartford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County",,FAILED
+35,34,Hurricane Isabel,2003-09-18,,"Pennsylvania, Maryland, Virginia",,,,FAILED
+36,35,Hurricane Isabel,2003-09-18,,North Carolina,,"Triangle, Tridad ",,FAILED
+37,36,Hurricane Isabel,2003-09-18,,Maryland,,"Montgomery County, Prince George's County ",,FAILED
+38,37,Hurricane Isabel,2003-09-18,,All PPL includingDIRTY,,"Williamsport, Harrisburg, Lancaster, Scranton and Allentown areas",1,FAILED
+39,38,Wild Fire,2003-10-26,,California,,San Diego County,,FAILED
+40,39,Tornado,2003-11-05,,"Maryland, Virginia",,,1,FAILED
+41,41,High Winds,2003-11-12,,Illinois,,,1,FAILED
+42,1274,Storm with High Winds,2003-11-12,,Michigan,,TRUE,,FAILED
+43,40,Wind Storm,2003-11-12,,Michigan,,,1,FAILED
+44,42,High Winds,2003-11-13,,Maryland,,"Baltimore City, Baltimore County, Anne Arundel County, Harford County, Montgomery County, Calvert County, Prince George's County, Carroll County, Howard County",,FAILED
+45,43,Wind Storm,2003-11-13,,Virginia,Richmond,,,FAILED
+46,1275,Storm with High Winds,2003-11-13,,New York,,TRUE,,FAILED
+47,1276,Major Wind Storm,2003-11-13,,Washington,,TRUE,,FAILED
+48,44,High Winds,2003-12-04,,Eastern portions of King County and Pierce CountyDIRTY,,,1,FAILED
+49,45,Earthquake,2003-12-22,,California,,,1,FAILED
+50,46,Winter Storm,2003-12-28,,California,,,1,FAILED
+51,47,Winter Storm,2004-01-01,,California,,,1,FAILED
+52,48,Snow Storm,2004-01-07,,King CountyDIRTY,,,1,FAILED
+53,51,Ice Storm,2004-01-26,,"North Carolina, South Carolina",,,1,FAILED
+54,49,Ice Storm,2004-01-26,,South Carolina,,,1,FAILED
+55,50,Ice Storm,2004-01-26,,Georgia,,,,FAILED
+56,52,Ice Storm,2004-01-28,,Maryland,,Harford County,,FAILED
+57,53,Ice Storm,2004-02-05,,"Pennsylvania, Maryland, Virginia",,,,FAILED
+58,1277,Lightning struck Intertie Breaker ,2004-02-17,,California,,TRUE,,FAILED
+59,54,Winter Storm,2004-02-25,,California,,,1,FAILED
+60,55,Severe Storm,2004-02-26,,Georgia,,,,FAILED
+61,1278,High Winds - Severe Storm,2004-03-04,,Texas,,TRUE,,FAILED
+62,56,Severe Storm,2004-03-07,,"North Carolina, South Carolina",,,,FAILED
+63,57,Thunderstorms,2004-04-10,,Texas,Houston,,,FAILED
+64,1279,Storm with High Winds,2004-04-12,,Florida,,TRUE,,FAILED
+65,58,Strong Winds,2004-04-27,,Washington,,Snohomish County ,,FAILED
+66,59,Heat Storm,2004-05-03,,California,,,1,FAILED
+67,1280,Strong Thunderstorms,2004-05-11,,Texas,,TRUE,,FAILED
+68,62,Severe Thunderstorms,2004-05-21,,Michigan,,"Buchanan, Elkhart, New Buffalo, South Bend, St. Joseph, Three Rivers",,FAILED
+69,63,Severe Thunderstorms,2004-05-21,,MichigaDIRTY,"Grand Rapids, Kalamazoo, Battle Creek, Jackson, Bronson, Jonesville, Flint",,,FAILED
+70,64,Severe Thunderstorms,2004-05-21,,Michigan,,,1,FAILED
+71,1281,High Winds and Heavy Rains,2004-05-21,,"West Virginia, Pennsylvania, Maryland, Virginia",,TRUE,,FAILED
+72,61,Severe Thunderstorms,2004-05-21,,Ohio,Cleveland,,,FAILED
+73,60,Severe Thunderstorms,2004-05-21,,Ohio,"Akron, Youngstown",,,FAILED
+74,1282,Severe Storms with Strong Winds,2004-06-01,,Texas,,TRUE,,FAILED
+75,1284,Severe Thunderstorms with Strong Winds,2004-06-02,,Oklahoma,,TRUE,,FAILED
+76,1283,Severe  Thunderstorms with Strong Winds,2004-06-02,,Louisiana,,TRUE,,FAILED
+77,65,Tornado,2004-06-12,,Nebraska,Lincoln,,,FAILED
+78,66,Thunderstorms,2004-06-23,,"Alabama, Georgia",,,,FAILED
+79,67,Severe Thunderstorms,2004-07-07,,Virginia,,,1,FAILED
+80,68,Severe Thunderstorms,2004-07-13,,Indiana,,,1,FAILED
+81,69,Wildfire,2004-07-20,,"Regions of  San Juan, Caguas, Ponce, Bayamon, Carolina, Arecibo and MayaguezDIRTY",,,1,FAILED
+82,70,Severe Thunderstorms,2004-07-21,,Illinois,Chicago,,,FAILED
+83,71,Severe Storms,2004-07-25,,"Alabama, Georgia",,,,FAILED
+84,72,Severe Storm,2004-08-03,,Illinois,,,1,FAILED
+85,1289,Hurricane Charley,2004-08-13,,Florida,,TRUE,,FAILED
+86,1288,Hurricane Charley,2004-08-13,,Florida,,TRUE,,FAILED
+87,1287,Hurricane Charley,2004-08-13,,Florida,,TRUE,,FAILED
+88,1286,Hurricane Charley,2004-08-13,,Florida,,TRUE,,FAILED
+89,1285,Hurricane Charley,2004-08-13,,Florida,,TRUE,,FAILED
+90,1290,Hurricane Charley,2004-08-14,,"North Carolina, South Carolina",,TRUE,,FAILED
+91,1291,Tropical Storm Gaston,2004-08-29,,South Carolina,,TRUE,,FAILED
+92,1292,Tropical Storm Gaston,2004-08-30,,"North Carolina, Virginia",,TRUE,,FAILED
+93,1293,Hurricane Frances,2004-09-03,,Florida,,TRUE,,FAILED
+94,1294,Hurricane Frances,2004-09-04,,Florida,,TRUE,,FAILED
+95,1295,Hurricane Frances,2004-09-04,,Florida,,TRUE,,FAILED
+96,1296,Hurricane Frances,2004-09-05,,Florida,,TRUE,,FAILED
+97,1297,Hurricane Frances,2004-09-05,,Florida,,TRUE,,FAILED
+98,1298,Hurricane Frances,2004-09-06,,"Alabama, Georgia, Mississippi, Florida",,TRUE,,FAILED
+99,1299,Hurricane Frances,2004-09-07,,Georgia,,TRUE,,FAILED
+100,73,Hurricane Jeanne,2004-09-15,,Puerto RicoDIRTY,,,1,FAILED
+101,74,Hurricane Ivan,2004-09-15,,"Alabama, Georgia, Mississippi, Florida",,,,FAILED
+102,75,Hurricane Ivan,2004-09-16,,Alabama,,"Baldwin County, Alabama, Escambia County, Florida, Washington County",,FAILED
+103,76,Hurricane Ivan,2004-09-16,,South Carolina,,,1,FAILED
+104,77,Hurricane Ivan,2004-09-17,,North Carolina,,,1,FAILED
+105,78,Hurricane Jeanne,2004-09-25,,Florida,Fort Pierce,,,FAILED
+106,80,Hurricane Jeanne,2004-09-26,,Florida,"Orlando, St. Cloud, ",,,FAILED
+107,81,Hurricane Jeanne,2004-09-26,,Florida,,"Alachua, Bay, Brevard, Citrus, Columbia, Dixie, Flagler, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Hillsborough, Jefferson, Lafayette, Lake, Leon, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",,FAILED
+108,79,Hurricane Jeanne,2004-09-26,,Florida,,"Hillsborough, Pasco, Polk County",,FAILED
+109,82,Hurricane Jeanne,2004-09-27,,Georgia,,,,FAILED
+110,1300,Severe Storm with High Wind Gusts,2004-10-18,,California,,TRUE,,FAILED
+111,1302,High Wind Gusts,2004-10-30,,Michigan,,TRUE,,FAILED
+112,1301,Severe Storm with High Wind Gusts,2004-10-30,,Michigan,"Grand Rapids, Kalamazoo, Battle Creek, Greenville, Jackson,  Flint, Lansing, Allegan, Temperance",TRUE,,FAILED
+113,1303,"Heavy Snow, High Winds and Rain/Major Distribution System Interruption",2004-11-14,,Nova ScotiaDIRTY,,TRUE,,FAILED
+114,1304,Strong Thunderstorms,2004-11-23,,Texas,,TRUE,,FAILED
+115,1305,Strong Thunderstorms,2004-11-24,,Georgia,,TRUE,,FAILED
+116,83,High Winds,2004-12-01,,Maryland,Baltimore City,"Baltimore County, Anne Arundel County, Hartford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County",,FAILED
+117,1306,Heavy Rain and Wind Storm,2004-12-01,,"Pennsylvania, Delaware",,TRUE,,FAILED
+118,1307,Major Freezing Rain and Ice Storm,2004-12-23,,Columbus DistrictDIRTY,,TRUE,,FAILED
+119,1308,Severe Weather/Line Relayed,2004-12-27,,California,,TRUE,,FAILED
+120,84,Winter Storm,2005-01-04,,Kansas,,,1,FAILED
+121,85,Ice Storm,2005-01-05,,Ohio,"Akron, Mansfield",,,FAILED
+122,86,Winter Ice Storm,2005-01-05,,"Michigan, Indiana",,,1,FAILED
+123,87,Winter Storm,2005-01-07,,California,,,1,FAILED
+124,89,Ice Storm,2005-01-29,,Georgia,,,,FAILED
+125,88,Ice Storm,2005-01-29,,"Alabama, Georgia",,,1,FAILED
+126,90,Wind Storms,2005-03-08,,North Carolina,,,1,FAILED
+127,91,Winter Storm,2005-04-01,,Ohio,"Cleveland,",,,FAILED
+128,92,Winter Storm,2005-04-23,,Ohio,"Cleveland,",,,FAILED
+129,93,Thunderstorms,2005-04-30,,"Alabama, Georgia",,,,FAILED
+130,1309,Strong Thunderstorms,2005-05-08,,Texas,,TRUE,,FAILED
+131,1310,Strong Thunderstorms,2005-05-29,,Texas,,TRUE,,FAILED
+132,1312,Strong Thunderstorm,2005-06-05,,Michigan,,TRUE,,FAILED
+133,1311,Strong Thunderstorm/High Winds,2005-06-05,,Michigan,,TRUE,,FAILED
+134,1314,Strong Thunderstorm,2005-06-06,,"Pennsylvania, Delaware",,TRUE,,FAILED
+135,1313,Strong Thunderstorms,2005-06-06,,New York,,TRUE,,FAILED
+136,1315,Strong Thunderstorm,2005-06-08,,Minnesota,,TRUE,,FAILED
+137,1316,Strong Thunderstorm/High Winds,2005-06-29,,Michigan,,TRUE,,FAILED
+138,1317,Tropical Storm Cindy,2005-07-05,,Louisiana,,TRUE,,FAILED
+139,94,Hurricane Dennis,2005-07-10,,"Alabama, Georgia, Mississippi, Florida",,,,FAILED
+140,95,Hurricane Dennis,2005-07-10,,"Alabama, Florida",,,1,FAILED
+141,96,Severe Thunderstorms,2005-07-23,,Maryland,,"Montgomery, Prince Georges ",,FAILED
+142,99,Severe Thunderstorms,2005-07-27,,Maryland,,"Baltimore County, Anne Arundel County, Prince Georges County ",,FAILED
+143,98,Severe Thunderstorm,2005-07-27,,Maryland,,"Montgomery, Prince Georges ",,FAILED
+144,97,Severe Thunderstorms,2005-07-27,,Pennsylvania,,"Bucks, Chester, Delaware, Montgomery, Philadelphia County ",,FAILED
+145,100,Severe Thunderstorm,2005-07-28,,"North, CarolinaDIRTY",Piedmont,,,FAILED
+146,101,Severe Thunderstorms,2005-08-20,,Arkansas,,,1,FAILED
+147,1319,Hurricane Katrina,2005-08-29,,Louisiana,,TRUE,,FAILED
+148,1320,Hurricane Katrina disrupted fuel supply in the Gulf of Mexico. Public appeals for conservation were issued.,2005-08-29,,"Counties of Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and WakullaDIRTY",,TRUE,,FAILED
+149,1321,Hurricane Katrina ,2005-08-29,,"Alabama, Mississippi, Florida",,TRUE,,FAILED
+150,1318,Hurricane Katrina,2005-08-29,,Louisiana,,TRUE,,FAILED
+151,1323,Hurricane Katrina  disrupted normal gas allotment through natural gas pipelines (FGT & Gulf stream). Public appeals for conservation were issued.,2005-08-29,,Florida,,TRUE,,FAILED
+152,1322,Hurricane Katrina,2005-08-29,,"Tennessee, Alabama, Mississippi",,TRUE,,FAILED
+153,1324,Hurricane Katrina disrupted normal gas supplies distribution. Public appeals for conservation were issued.,2005-08-31,,Florida,,TRUE,,FAILED
+154,102,Severe Storm,2005-09-13,,Wisconsin,,,1,FAILED
+155,1325,Hurricane Ophelia,2005-09-14,,North Carolina,,TRUE,,FAILED
+156,1326,High Winds/Tornados,2005-09-21,,Minnesota,,TRUE,,FAILED
+157,1327,Hurricane Rita disrupted fuel supply in the Gulf of Mexico. Public Appeals for conservation were issued.,2005-09-22,,"Counties of Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and WakullaDIRTY",,TRUE,,FAILED
+158,103,Severe Thunderstorm,2005-09-22,,Michigan,,,1,FAILED
+159,1328,Hurricane Rita  disrupted normal gas allotment through natural gas pipelines (FGT & Gulf stream). Public Appeals for conservation were issued.,2005-09-23,,Florida,,TRUE,,FAILED
+160,104,Hurricane Rita,2005-09-23,,Louisiana,,,1,FAILED
+161,105,Hurricane Rita,2005-09-23,,Texas,Houston,,,FAILED
+162,106,Hurricane Rita,2005-09-23,,"Texas, Arkansas, Louisiana, Mississippi",,,,FAILED
+163,107,Hurricane Rita,2005-09-24,,Texas,"Nacogdoches, Lufkin, Tyler, Jacksonville, Rusk, Paris, Commerce, Huntington",,,FAILED
+164,108,Hurricane Rita,2005-09-24,,Louisiana,Shreveport,,,FAILED
+165,109,Hurricane Wilma,2005-10-23,,Florida," Naples, Ft. Myers, Miami, Ft. Lauderdale",,"West Palm Beach, Martin County",FAILED
+166,110,Hurricane Wilma,2005-10-24,,Florida,,"Collier, Charlotte, Lee",,FAILED
+167,112,Hurricane Wilma,2005-10-24,,"Pennsylvania, Maryland, Virginia",,,,FAILED
+168,111,Hurricane Wilma ,2005-10-24,,Florida,"Key West, Clewiston, Lake Worth, Ft. Pierce",,,FAILED
+169,113,Severe Thunderstorm,2005-11-06,,Michigan,,,1,FAILED
+170,114,Severe Thunderstorms,2005-11-12,,Wisconsin,,,1,FAILED
+171,115,Severe Thunderstorm,2005-11-12,,Michigan,,,1,FAILED
+172,116,Ice Storm,2005-12-15,,North Carolina,Piedmont,,1,FAILED
+173,117,Ice Storm,2005-12-15,,Georgia,,,1,FAILED
+174,118,Severe Storms,2005-12-31,,California,,,1,FAILED
+175,119,High Winds,2006-01-14,,Pennsylvania,,"Chester, Montgomery, Delaware, Philadelphia, Bucks County",,FAILED
+176,120,Severe Storm,2006-01-18,,Maine,,,1,FAILED
+177,121,Strong Winds,2006-02-04,,Washington,,Snohomish County,,FAILED
+178,122,Severe Windstorm,2006-02-04,,Washington,,,1,FAILED
+179,1329,Major Snow Storm,2006-02-11,,Maryland,,TRUE,,FAILED
+180,123,Severe Snow Storm,2006-02-12,,Virginia,,,1,FAILED
+181,1332,Winter Snow/Ice Storm,2006-02-12,,Entire Delmarva Power service territoryDIRTY,,TRUE,,FAILED
+182,1331,Winter Snow/Ice Storm,2006-02-12,,New Jersey,,TRUE,,FAILED
+183,1330,Major Snow Storm,2006-02-12,,Washington,,TRUE,,FAILED
+184,1333,Severe Thunderstorm/ Snow/Ice Storm,2006-02-16,,Michigan,,TRUE,,FAILED
+185,124,Severe Weather,2006-02-17,,New York,,,,FAILED
+186,125,Severe Winter Storm,2006-02-27,,California,,,1,FAILED
+187,126,Severe Weather,2006-03-09,,"Arkansas, Louisiana, Mississippi",,,,FAILED
+188,127,Severe Weather,2006-03-12,,Illinois,Springfield,,,FAILED
+189,1334,Major Storms/Tornadoes,2006-04-02,,Indiana,,TRUE,,FAILED
+190,1335,Severe Weather/ Tornadoes,2006-04-08,,"Alabama, Georgia",,TRUE,,FAILED
+191,128,Severe Weather,2006-04-21,,Texas,Houston,,,FAILED
+192,1336,Lightning Storm,2006-04-29,,Island of Puerto RicoDIRTY,,TRUE,,FAILED
+193,1337,Lightning Strike,2006-05-19,,California,,TRUE,,FAILED
+194,129,Severe Weather,2006-05-25,,"Kentucky, Indiana, Ohio",,,1,FAILED
+195,130,Severe Weather,2006-06-01,,Pennsylvania,,"Chester, Montgomery, Delaware, Philadelphia, Bucks County",,FAILED
+196,131,Severe Thunderstorms,2006-06-01,,Maryland,,,1,FAILED
+197,132,Severe Thunderstorm,2006-06-11,,North Carolina,Charlotte,,,FAILED
+198,133,Severe Thunderstorms,2006-06-22,,"Indiana, Ohio",,,,FAILED
+199,134,Severe Thunderstorms,2006-07-02,,Virginia,,,1,FAILED
+200,135,Severe Thunderstorms,2006-07-04,,Virginia,,,1,FAILED
+201,1338,Severe Lightning Storms,2006-07-16,,Michigan,,TRUE,,FAILED
+202,1339,Severe Weather/Public Appeals Made/Voltage Reduction,2006-07-17,,New York,,TRUE,,FAILED
+203,1340,Severe Lightning Storms,2006-07-17,,Illinois,,TRUE,,FAILED
+204,1341,Severe Lightning Storms,2006-07-18,,"Pennsylvania, Delaware",,TRUE,,FAILED
+205,1342,Lightning Storms/Tripped Lines,2006-07-18,,Connecticut,,TRUE,,FAILED
+206,1343,Severe Storms (3) (Many customers experienced multiple outages.),2006-07-19,,"Illinois, Missouri",,TRUE,,FAILED
+207,1344,Widespread Heat Wave/Public Appeals Made,2006-07-22,,California,,TRUE,,FAILED
+208,1345,Widespread Heat Wave/CAISO Implementation of Stage 2 Electrical Emergency Plan,2006-07-24,,California,,TRUE,,FAILED
+209,1346,Widespread Heat Wave/CAISO  Implementation of Stage 2 Electrical Emergency Plan,2006-07-24,,California,,TRUE,,FAILED
+210,136,Severe Thunderstorms,2006-07-27,,Pennsylvania,,"Chester, Montgomery, Delaware, Philadelphia, Bucks County",,FAILED
+211,137,Severe Thunderstorms,2006-08-02,,New EnglandDIRTY,,,1,FAILED
+212,138,Severe Thunderstorm,2006-08-10,,"Idaho, Oregon",,,1,FAILED
+213,1351,Tropical Storm Ernesto,2006-09-01,,New Jersey,,TRUE,,FAILED
+214,1350,Tropical Storm Ernesto,2006-09-01,,"Pennsylvania, Delaware",,TRUE,,FAILED
+215,1349,Tropical Storm Ernesto,2006-09-01,,Southern Delmarva PeninsulaDIRTY,,TRUE,,FAILED
+216,1348,Tropical Storm Ernesto,2006-09-01,,"North Carolina, Virginia",,TRUE,,FAILED
+217,1347,Tropical Storm Ernesto,2006-09-01,,North Carolina,,TRUE,,FAILED
+218,139,Severe Thunderstorms,2006-09-28,,"North Carolina, Virginia",,,1,FAILED
+219,140,Severe Thunderstorms,2006-10-02,,Illinois,Chicago,,,FAILED
+220,141,Snow Storm,2006-10-12,,New York,,,1,FAILED
+221,142,Snow Storm,2006-10-12,,New York,,,1,FAILED
+222,144,Earthquakes,2006-10-15,,IslandDIRTY,Oahu,,,FAILED
+223,143,Earthquakes,2006-10-15,,Hawaii,Maui,,,FAILED
+224,145,High Winds,2006-10-20,,Pennsylvania,,"Chester, Montgomery, Delaware, Philadelphia, Bucks County",,FAILED
+225,1352,Wet Snow/Winds,2006-10-26,,Colorado,,TRUE,,FAILED
+226,147,High Winds,2006-11-15,,Washington,,"Whatcom, Skagit Counties",,FAILED
+227,148,Severe Weather,2006-11-15,,Georgia,,,,FAILED
+228,146,High Winds,2006-11-15,,Texas,Houston,,,FAILED
+229,1353,Wind/Snow Storm,2006-11-26,,Washington,,TRUE,,FAILED
+230,149,Ice Storm,2006-11-30,,"Illinois, Missouri",,,,FAILED
+231,150,Wind Storm,2006-12-01,,Ohio,,,,FAILED
+232,151,Wind Storm,2006-12-13,,Washington,,,1,FAILED
+233,153,Wind Storm,2006-12-14,,Washington,,Snohomish County,,FAILED
+234,154,Wind Storm,2006-12-14,,"Idaho, Oregon, Montana, Washington",,,,FAILED
+235,155,HIgh Winds,2006-12-14,,Oregon,,,1,FAILED
+236,156,High Winds,2006-12-14,,Washington,Tacoma ,South Pierce County,,FAILED
+237,157,High Winds,2006-12-14,,Oregon,,"Multnomah, Clackamas, Washington, Marion",,FAILED
+238,152,Wind Storm,2006-12-14,,Washington,Seattle,,,FAILED
+239,158,Severe Weather,2006-12-26,,California,,,1,FAILED
+240,159,Severe Weather,2006-12-30,,Nebraska,,"Gosper, Harlan, Franklin, Webster, Clay, Adams, Kearney, Phelps, Dawson, Buffalo, Hall, Hamilton, Sherman, Custer, Valley, Greeley, Howard, Merrick, York, Fillmore, Nance, Boone, Wheeler, Madison, Antelope, Pierce, Platte, Seward",,FAILED
+241,161,Ice Storm,2007-01-13,,Michigan,,,1,FAILED
+242,160,Ice Storm,2007-01-13,,"Illinois, Missouri",,,,FAILED
+243,1354,Major Windstorm,2007-01-16,,Washington,,TRUE,,FAILED
+244,162,Ice/Wind Storm,2007-02-13,,"Indiana, Ohio",,,1,FAILED
+245,163,Winter Storm,2007-02-13,,Maryland,,,1,FAILED
+246,164,Ice Storm,2007-02-24,,Illinois,Rock Island,,,FAILED
+247,165,Ice Storm,2007-02-24,,Iowa,,,1,FAILED
+248,166,Ice Storm,2007-02-24,,Iowa,Cedar Rapids,,,FAILED
+249,167,Winter Storm,2007-02-28,,California,,,1,FAILED
+250,168,Major Storm,2007-03-01,,"Alabama, Georgia, Mississippi, Florida",,,1,FAILED
+251,169,Severe Thunderstorms,2007-03-31,,Texas,Houston,,,FAILED
+252,1355,Heavy Snow Storm,2007-04-05,,Maine,,TRUE,,FAILED
+253,170,High Winds,2007-04-12,,California,Los Angeles,,,FAILED
+254,171,High Winds,2007-04-14,,"New Hampshire, Massachusetts, Rhode Island",,,,FAILED
+255,172,Severe Thunderstorms,2007-04-16,,New Hampshire,,,,FAILED
+256,1356,Heavy Snow Storm,2007-04-16,,Maine,,TRUE,,FAILED
+257,173,HIgh Winds,2007-04-16,,South Carolina,,,1,FAILED
+258,174,Severe Thunderstorms,2007-04-16,,Maryland,Baltimore City,,,FAILED
+259,175,High Winds,2007-04-16,,"North Carolina, Virginia",,,1,FAILED
+260,176,Severe Storms,2007-05-02,,Texas,,"Dallas, Fort Worth",,FAILED
+261,177,Severe Thunderstorms,2007-05-15,,Michigan,,,1,FAILED
+262,178,Severe Storm,2007-05-16,,Connecticut,,,,FAILED
+263,179,Lightning,2007-06-27,,"Northern Manhattan NY (Yorkville) and SW Bronx (Motthaven, Melrose, High Bridge Sections)DIRTY",,,1,FAILED
+264,180,Severe Storm,2007-07-05,,Michigan,,,1,FAILED
+265,181,Major Storms,2007-07-10,,New York,,,1,FAILED
+266,182,Severe Weather,2007-07-18,,Illinois,,,1,FAILED
+267,184,Major Storms,2007-07-19,,Virginia,,,1,FAILED
+268,183,Major Storm,2007-07-19,,Southwestern Region of Service TerritoryDIRTY,,,1,FAILED
+269,185,Severe Thunderstorms,2007-08-09,,Pennsylvania,Pittsburgh,,,FAILED
+270,186,Severe Thunderstorm,2007-08-13,,Missouri,,,,FAILED
+271,187,Severe Weather,2007-08-16,,"North Carolina, Virginia",,,1,FAILED
+272,188,Severe Thunderstorms,2007-08-19,,Virginia,,,1,FAILED
+273,189,Severe Storms,2007-08-23,,Illinois,,,1,FAILED
+274,190,Severe Storm,2007-08-24,,Michigan,,,1,FAILED
+275,1357,Severe Weather/Transmission Fault-Units Tripped,2007-09-05,,Texas,,TRUE,,FAILED
+276,1358,Hurricane Humberto,2007-09-13,,Texas,,TRUE,,FAILED
+277,191,High Winds,2007-10-18,,Washington,,,1,FAILED
+278,1359,Tropical Storm,2007-11-03,,"Massachusetts, Rhode Island",,TRUE,,FAILED
+279,192,Ice Storm,2007-12-10,,Oklahoma,Tulsa,,,FAILED
+280,193,Ice Storm,2007-12-11,,Kansas,,,1,FAILED
+281,195,Winter Storm,2007-12-23,,Michigan,,,1,FAILED
+282,194,Severe Storm,2007-12-23,,The Entire ComEd Service TerritoryDIRTY,,,1,FAILED
+283,196,Severe Thunderstorms,2008-01-29,,"Arkansas, Mississippi",,,,FAILED
+284,197,Wind/Ice Storm,2008-01-29,,Michigan,,,1,FAILED
+285,198,High Winds,2008-01-29,,Ohio,Dayton,,,FAILED
+286,199,High Winds,2008-01-30,,New York,,,1,FAILED
+287,200,Severe Weather,2008-02-05,,Kentucky,,,1,FAILED
+288,201,Severe Weather,2008-02-06,,Tennessee,,,1,FAILED
+289,202,Severe Weather,2008-02-10,,"West Virginia, Pennsylvania, Maryland, Virginia",,,,FAILED
+290,203,High Winds,2008-02-10,,"West Virginia, Pennsylvania, Ohio, Virginia",,,,FAILED
+291,204,High Winds,2008-02-10,,"West Virginia, Virginia",,,1,FAILED
+292,205,High Winds,2008-02-10,,Dominion Service TerritoryDIRTY,,,1,FAILED
+293,206,High Winds,2008-02-10,,North Carolina,Greensboro,,,FAILED
+294,207,Severe Weather,2008-02-12,,"Arkansas, Louisiana, Mississippi",,,,FAILED
+295,208,Ice Storm,2008-02-13,,Maine,,,,FAILED
+296,209,Thunderstorms,2008-02-26,,"Alabama, Georgia",,,,FAILED
+297,210,Thunderstorms,2008-03-04,,South Carolina,,,1,FAILED
+298,211,Windstorm,2008-03-08,,"North Carolina, Virginia",,,1,FAILED
+299,212,Severe Weather,2008-03-08,,Pennsylvania,,"Chester, Montgomery, Delaware, Philadelphia and Bucks County,",,FAILED
+300,213,Major Storm,2008-03-15,,"Alabama, Georgia",,,1,FAILED
+301,214,Severe Thunderstorms,2008-04-04,,"Arkansas, Louisiana, Mississippi",,,,FAILED
+302,215,Severe Weather,2008-04-09,,Texas,,,1,FAILED
+303,216,Severe Thunderstorms,2008-05-11,,Georgia,,,,FAILED
+304,217,Severe Storm,2008-05-12,,New Jersey,,"Cape May, Cumberland, Gloucester, Salem, Camden, Atlantic, Burlington County ",,FAILED
+305,1360,Lightning Storm,2008-05-27,,Connecticut,,TRUE,,FAILED
+306,218,Severe Storms,2008-05-30,,Illinois,,,1,FAILED
+307,219,Severe Thunderstorms,2008-05-30,,Indiana,,Northeastern Marion County ,,FAILED
+308,220,Severe Weather,2008-06-03,,"West Virginia, Maryland, Virginia",,,,FAILED
+309,221,Severe Storms,2008-06-04,,Entire BGE Service TerritoryDIRTY,,,1,FAILED
+310,222,Thunderstorms,2008-06-04,,Virginia,,,1,FAILED
+311,1361,Lightning Storm,2008-06-04,,"Maryland, Washington",,TRUE,,FAILED
+312,1362,Lightning Storm,2008-06-06,,Michigan,,TRUE,,FAILED
+313,223,Severe Weather,2008-06-08,,The Entire ComEd TerritoryDIRTY,,,1,FAILED
+314,224,Severe Storm,2008-06-08,,Michigan,,,1,FAILED
+315,228,Storm,2008-06-10,,All Six New England StatesDIRTY,,,1,FAILED
+316,227,Severe Thunderstorms,2008-06-10,,Pennsylvania,,"Chester, Montgomery, Delaware, Philadelphia and Bucks County,",,FAILED
+317,226,Severe Storms,2008-06-10,,New Jersey,,"Bergen, Essex, Hudson ",,FAILED
+318,225,Severe Storm,2008-06-10,,New York,,,1,FAILED
+319,1363,Flooding and Uncontrolled Loss,2008-06-12,,Iowa,,TRUE,,FAILED
+320,229,Severe Weather,2008-06-15,,The Entire ComEd TerritoryDIRTY,,,1,FAILED
+321,230,Thunderstorms,2008-06-16,,Virginia,,,1,FAILED
+322,231,Severe Thunderstorms,2008-06-17,,Texas,,,1,FAILED
+323,1364,Thunderstorms/Uncontrolled Loss of Load,2008-06-17,,"Texas, Oklahoma",,TRUE,,FAILED
+324,1365,Lightning Stirke/Uncontrolled Loss of Load,2008-06-22,,Indiana,,TRUE,,FAILED
+325,232,Thunderstorms,2008-06-26,,Michigan,,,1,FAILED
+326,233,Severe Wind Storm,2008-06-27,,Nebraska,Omaha,,,FAILED
+327,234,Severe Weather,2008-07-02,,Michigan,,,1,FAILED
+328,235,Thunderstorms,2008-07-02,,Michigan,,,1,FAILED
+329,1367,Brush Fire/Lines Loss/Transmission Emergency Declared,2008-07-02,,California,,TRUE,,FAILED
+330,1366,Wild Land Fire,2008-07-02,,California,,TRUE,,FAILED
+331,1368,Heat Wave/Potential Fire Threat/Made Public Appeals,2008-07-07,,ISO Balancing AreaDIRTY,,TRUE,,FAILED
+332,236,Storm,2008-07-21,,Illinois,"Sioux City, Carroll, Des Moines, Iowa City, and Davenport Iowa, Rock Island, Moline",,,FAILED
+333,237,Severe Thunderstorms,2008-07-22,,Indiana,,,,FAILED
+334,238,Severe Thunderstorms,2008-07-22,,Ohio,,,1,FAILED
+335,239,Hurricane Dolly,2008-07-23,,Texas,"Port Isabel, Harlingen, Weslaco, Pharr, San Benito, Mission, McAllen, Edinburg",,,FAILED
+336,240,Severe Thunderstorms,2008-08-02,,"Alabama, Georgia",,,,FAILED
+337,241,Severe Thunderstorms,2008-08-03,,"Texas, Louisiana, Mississippi",,,,FAILED
+338,242,Severe Weather,2008-08-04,,The ComEd TerritoryDIRTY,,,1,FAILED
+339,243,Severe Storms,2008-08-05,,Indiana,,,1,FAILED
+340,1369,Lightning/Transmission Equipment Damage,2008-08-16,,City of LubbockDIRTY,,TRUE,,FAILED
+341,1370,Tropical Storm Fay,2008-08-19,,Florida,,TRUE,,FAILED
+342,1371,Tropical Storm Fay,2008-08-21,,Florida,,TRUE,,FAILED
+343,1372,Tropical Storm Fay,2008-08-24,,"Alabama, Georgia",,TRUE,,FAILED
+344,244,Hurricane Gustav,2008-08-31,,"Arkansas, Louisiana, Mississippi",,,,FAILED
+345,245,Hurricane Gustav,2008-09-01,,Louisiana,,,1,FAILED
+346,246,Hurricane Gustav,2008-09-01,,Louisiana,,,1,FAILED
+347,1374,Tropical Storm Hanna,2008-09-06,,"North Carolina, Virginia",,TRUE,,FAILED
+348,1373,Tropical Storm Hanna,2008-09-06,,North Carolina,,TRUE,,FAILED
+349,249,Hurricane Ike,2008-09-12,,Texas,Houston,,,FAILED
+350,248,Hurricane Ike,2008-09-12,,Texas,Houston,,,FAILED
+351,247,Hurricane Ike,2008-09-12,,"Texas, Arkansas, Louisiana",,,1,FAILED
+352,250,Hurricane Ike,2008-09-12,,Texas,"Galveston, Brazoria County",,,FAILED
+353,251,Hurricane Ike,2008-09-13,,Louisiana,,,1,FAILED
+354,252,Hurricane Ike,2008-09-13,,Texas,,,1,FAILED
+355,253,Hurricane Ike,2008-09-13,,Texas,,,,FAILED
+356,1377,Tropical Depression Ike,2008-09-14,,Pennsylvania,,TRUE,,FAILED
+357,260,Wind Storm,2008-09-14,,Ohio,,,1,FAILED
+358,259,Wind Storm,2008-09-14,,Ohio,,,1,FAILED
+359,257,Wind Storm,2008-09-14,,"Indiana, Ohio",,,1,FAILED
+360,256,Hurricane Ike,2008-09-14,,Ohio,Dayton ,,,FAILED
+361,258,Wind Storm,2008-09-14,,Pennsylvania,,,1,FAILED
+362,254,Hurricane Ike,2008-09-14,,"Illinois, Missouri",,,,FAILED
+363,1376,Tropical Depression Ike,2008-09-14,,Kentucky,,TRUE,,FAILED
+364,255,High Winds,2008-09-14,,Kentucky,Owensboro,,,FAILED
+365,1375,Tropical Depression Ike,2008-09-14,,"Kentucky, Indiana, Ohio",,TRUE,,FAILED
+366,1378,Tropical Depression Ike,2008-09-15,,Pennsylvania,,TRUE,,FAILED
+367,261,Severe Storm,2008-10-25,,Connecticut,,,,FAILED
+368,1379,Brush Fire/Shed Firm Load,2008-11-15,,City of Los AngelesDIRTY,,TRUE,,FAILED
+369,262,Snow Storm,2008-12-11,,"Louisiana, Mississippi",,,1,FAILED
+370,263,Ice Storm,2008-12-11,,New York,,"Northern Dutchess County, Western Ulster County",,FAILED
+371,264,Ice Storm,2008-12-12,,New EnglandDIRTY,,,1,FAILED
+372,265,Ice Storm,2008-12-12,,New York,,,1,FAILED
+373,266,Ice Storm,2008-12-12,,Maine,,,1,FAILED
+374,267,Ice Storm,2008-12-19,,"Michigan, Indiana",,,,FAILED
+375,268,Ice Storm,2008-12-19,,Indiana,,,1,FAILED
+376,269,Lightning,2008-12-26,,Hawaii,Oahu,,,FAILED
+377,270,Wind Storm,2008-12-27,,Michigan,,,1,FAILED
+378,271,Wind Storm,2008-12-28,,Michigan,,,1,FAILED
+379,272,Wind Storm,2008-12-28,,Michigan,,,1,FAILED
+380,273,Severe Storm,2009-01-05,,Texas,,,1,FAILED
+381,274,High Winds,2009-01-07,,South Carolina,,,1,FAILED
+382,275,Shed Load,2009-01-22,,Indiana,Crawfordsville,,,FAILED
+383,276,Ice Storm,2009-01-27,,Kentucky,,,,FAILED
+384,277,Ice Storm,2009-01-27,,Central and Eastern KentruckyDIRTY,,,1,FAILED
+385,278,Ice Storm,2009-01-27,,"Kentucky, Indiana",,,1,FAILED
+386,279,Winter Storm,2009-01-27,,Missouri,,,1,FAILED
+387,280,Ice Storm,2009-01-27,,Arkansas,,,1,FAILED
+388,281,Ice/Snow Storm,2009-01-27,,CSWS-AEP WestDIRTY,,,1,FAILED
+389,282,Ice Storm,2009-01-27,,Arkansas,,,1,FAILED
+390,283,Ice Storm,2009-01-27,,TVA Service TerritoryDIRTY,,,1,FAILED
+391,289,Ice Storm,2009-01-28,,"Kentucky, Tennessee",,,1,FAILED
+392,290,Ice/Snow Storm,2009-01-28,,"Kentucky, Ohio",,,1,FAILED
+393,286,Ice Storm,2009-01-28,,Kentucky,Henderson,Henderson County,,FAILED
+394,287,Ice Storm,2009-01-28,,Indiana,Evansville,,,FAILED
+395,288,Ice/Snow Storm,2009-01-28,,Indiana,,,1,FAILED
+396,285,Winter Storm,2009-01-28,,"Kentucky, Illinois, Indiana, Ohio",,,,FAILED
+397,284,Winter Storm,2009-01-28,,Missouri,,,1,FAILED
+398,291,High Winds,2009-02-11,,Texas,Houston,,,FAILED
+399,292,Severe Thunderstorms,2009-02-11,,"Kentucky, West Virginia, Ohio, Virginia",,,,FAILED
+400,293,Severe Thunderstorms,2009-02-11,,"West Virginia, Pennsylvania, Maryland, Virginia",,,,FAILED
+401,294,Severe Thunderstorms,2009-02-11,,Kentucky,,,,FAILED
+402,295,Severe Thunderstorms,2009-02-11,,"Kentucky, Ohio",,,1,FAILED
+403,296,High Winds,2009-02-12,,Ohio,,,1,FAILED
+404,297,High Winds,2009-02-12,,Pennsylvania,,,1,FAILED
+405,298,High Winds,2009-02-13,,Ohio,,,1,FAILED
+406,299,Ice/Snow Storm,2009-02-23,,Maine,,,1,FAILED
+407,300,Severe Weather,2009-03-01,,Southern Balancing AreaDIRTY,,,1,FAILED
+408,301,Ice/Snow Storm,2009-03-01,,Duke Energy Carolinas Balance AuthorityDIRTY,,,1,FAILED
+409,302,Winter Storm,2009-03-01,,Virginia,,,1,FAILED
+410,303,Winter Storm,2009-04-06,,Michigan,,,1,FAILED
+411,304,Severe Thunderstorms,2009-04-10,,"Alabama, Georgia",,,,FAILED
+412,1380,High Winds/Rain,2009-04-25,,Western Region of Service TerritoryDIRTY,,TRUE,,FAILED
+413,305,High Winds,2009-04-27,,Texas,"Houston, Galveston",,,FAILED
+414,306,Severe Thunderstorm,2009-05-08,,Missouri,,,1,FAILED
+415,307,Severe Thunderstorm,2009-05-08,,Illinois,,,1,FAILED
+416,308,Severe Thunderstorms,2009-06-09,,Maryland,,,1,FAILED
+417,309,Severe Storms,2009-06-10,,Texas,,,1,FAILED
+418,310,Severe Storm,2009-06-12,,Tennessee,Chattanooga,,,FAILED
+419,311,Severe Thunderstorms,2009-06-12,,"Arkansas, Mississippi",,,,FAILED
+420,312,Severe Thunderstorm,2009-06-12,,Georgia,,,,FAILED
+421,313,Severe Storm,2009-06-19,,Michigan,,,1,FAILED
+422,314,Severe Storm,2009-06-19,,The Entire ComEd Service TerritoryDIRTY,,,1,FAILED
+423,1381,High Winds/Rain,2009-06-25,,Western Region of Service TerritoryDIRTY,,TRUE,,FAILED
+424,315,Severe Thunderstorms,2009-06-26,,"Indiana, Ohio",,,1,FAILED
+425,316,Severe Thunderstorms,2009-06-26,,Connecticut,,,1,FAILED
+426,317,Thunderstorms,2009-07-18,,Texas,"Houston, Galveston",,,FAILED
+427,318,Severe Thunderstorm,2009-07-20,,Colorado,Denver,"Jefferson, Adams, Arapahoe",1,FAILED
+428,319,Highwinds,2009-08-02,,PennsyvaniaDIRTY,,"Chester, Montgomery, Delaware, Philadelphia, Bucks ",,FAILED
+429,320,Thunderstorms,2009-08-04,,"Kentucky, Indiana, Ohio",,,1,FAILED
+430,1382,High Winds and Rain,2009-08-07,,Western Region of Service TerritoryDIRTY,,TRUE,,FAILED
+431,321,Severe Thunderstorms,2009-08-09,,Michigan,,,1,FAILED
+432,322,Thunderstorms,2009-08-12,,Texas,Houston,,,FAILED
+433,323,Thunderstorms,2009-08-21,,Texas,Houston,,,FAILED
+434,324,Severe Storms,2009-10-07,,Michigan,,,1,FAILED
+435,325,Winter Storm,2009-10-09,,"Arkansas, Louisiana",,,1,FAILED
+436,1383,High Winds and Rain,2009-10-13,,California,,TRUE,,FAILED
+437,326,Ice,2009-10-13,,Wyoming,,,1,FAILED
+438,327,High Winds,2009-10-13,,California,,Sacramento County,,FAILED
+439,1384,Tropical Storm Ida,2009-11-12,,"North Carolina, Virginia",,TRUE,,FAILED
+440,328,Severe Weather,2009-12-08,,Arizona,,,,FAILED
+441,329,Severe Weather,2009-12-09,,Ohio,,,,FAILED
+442,330,Severe Weather,2009-12-10,,Michigan,,,,FAILED
+443,331,Severe Weather,2009-12-18,,"Kentucky, West Virginia, Ohio, Virginia",,,,FAILED
+444,332,Severe Weather,2009-12-18,,North Carolina,,,1,FAILED
+445,333,Severe Storm,2010-01-18,,California,,,1,FAILED
+446,334,Severe Storm,2010-01-19,,California,,San Francisco,,FAILED
+447,335,Severe Storm,2010-01-19,,California,San Diego,Orange County,,FAILED
+448,336,Severe Storm,2010-01-20,,California,Los Angeles,,,FAILED
+449,337,Ice Storm,2010-01-28,,Oklahoma,,,,FAILED
+450,1385,Ice Storm/Electrical System Separation,2010-02-01,,Oklahoma,,TRUE,,FAILED
+451,339,Winter Storm,2010-02-05,,South Carolina,,,1,FAILED
+452,340,Winter Storm,2010-02-05,,Maryland,,"Prince Georges, Montgomery County ",,FAILED
+453,342,Winter Storm,2010-02-05,,"Indiana, West Virginia, Ohio, Virginia",,,,FAILED
+454,338,Winter Storm,2010-02-05,,Southern NJDIRTY,,,1,FAILED
+455,341,Winter Storm,2010-02-05,,Pennsylvania,,,1,FAILED
+456,343,Winter Storm,2010-02-06,,"North Carolina, Virginia",,,,FAILED
+457,344,Winter Storm,2010-02-06,,Delmarva PeninsulaDIRTY,,,1,FAILED
+458,345,Winter Storm,2010-02-09,,Pennsylvania,,,1,FAILED
+459,346,Winter Storm,2010-02-11,,Texas,"Dallas, Fort Worth ",,,FAILED
+460,347,Winter Storm,2010-02-12,,"Texas, Arkansas",,,1,FAILED
+461,348,Winter Storm,2010-02-14,,Pennsylvania,,,1,FAILED
+462,349,Winter Storm,2010-02-23,,New York,,,1,FAILED
+463,350,Winter Storm,2010-02-25,,"New York, New Jersey",,,1,FAILED
+464,351,Winter Storm,2010-02-25,,New York,New York City,,,FAILED
+465,352,Winter Storm,2010-02-25,,"New Hampshire, Maine",,,1,FAILED
+466,1388,High Winds and Rain,2010-03-13,,Long IslandDIRTY,,TRUE,,FAILED
+467,1389,High Winds and Flooding,2010-03-13,,New Jersey,,TRUE,,FAILED
+468,1390,High Winds and Rain,2010-03-13,,New Jersey,,TRUE,,FAILED
+469,1391,High Winds and Rain,2010-03-13,,New York,,TRUE,,FAILED
+470,1386,High Winds and rain,2010-03-13,,Pennsylvania,,TRUE,,FAILED
+471,1387,High Winds and Rain,2010-03-13,,Connecticut,,TRUE,,FAILED
+472,353,Severe Thunderstorms,2010-04-16,,Pennsylvania,,,1,FAILED
+473,354,Thunderstorms,2010-05-02,,"Tennessee, Mississippi",,,,FAILED
+474,355,Severe Weather,2010-06-02,,Texas,San Antonio,,,FAILED
+475,356,Thunderstorms,2010-06-08,,Texas,,,1,FAILED
+476,360,Severe Weather,2010-06-18,,"Michigan, Indiana",,,,FAILED
+477,361,Severe Weather,2010-06-18,,Michigan,Detroit,,,FAILED
+478,359,Thunderstorms,2010-06-18,,Michigan,,,1,FAILED
+479,358,Severe Weather,2010-06-18,,Illinois,Chicago,,,FAILED
+480,357,Thunderstorms,2010-06-18,,Indiana,,,1,FAILED
+481,362,Thunderstorms,2010-06-21,,Ohio,Cincinnati,,,FAILED
+482,363,Severe Weather,2010-06-23,,Illinois,Chicago,,,FAILED
+483,364,Thunderstorms,2010-06-23,,Indiana,,,1,FAILED
+484,365,Thunderstorms,2010-06-24,,New Jersey,,,1,FAILED
+485,366,Thunderstorms,2010-06-24,,Pennsylvania,,,1,FAILED
+486,367,Severe Weather,2010-07-15,,Michigan,,,1,FAILED
+487,1392,"Strong Winds, Tornadoes",2010-07-17,,Minnesota,,TRUE,,FAILED
+488,368,Thunderstorms,2010-07-21,,Connecticut,,,,FAILED
+489,369,Severe Weather,2010-07-23,,Michigan,,,1,FAILED
+490,372,Severe Weather,2010-07-25,,Virginia,,,1,FAILED
+491,370,Severe Weather,2010-07-25,,Washington,,,1,FAILED
+492,371,Severe Weather,2010-07-25,,Maryland,,,1,FAILED
+493,373,Thunderstorms,2010-07-29,,Virginia,,,,FAILED
+494,374,Thunderstorms,2010-08-04,,"West Virginia, Pennsylvania, Virginia",,,1,FAILED
+495,375,Severe Weather,2010-08-04,,"Kentucky, West Virginia, Ohio, Virginia",,,,FAILED
+496,376,Thunderstorms,2010-08-05,,Maryland,,,1,FAILED
+497,377,Thunderstorms,2010-08-05,,Virginia,,,1,FAILED
+498,378,Severe Weather,2010-08-11,,Ohio,,,,FAILED
+499,379,Severe Weather,2010-08-12,,Maryland,,,1,FAILED
+500,380,Severe Weather,2010-08-19,,Michigan,,,1,FAILED
+501,381,Severe Weather,2010-08-23,,Texas,Houston,,,FAILED
+502,1393,Tropical Storm,2010-09-07,,Texas,,TRUE,,FAILED
+503,382,Thunderstorms,2010-09-21,,Michigan,,,1,FAILED
+504,384,Thunderstorms,2010-09-22,,Pennsylvania,,,1,FAILED
+505,383,Thunderstorms,2010-09-22,,Pennsylvania,Pittsburgh,,,FAILED
+506,1394,Rain and High Winds,2010-10-05,,California,,TRUE,,FAILED
+507,386,High Winds,2010-10-26,,Minnesota,,,,FAILED
+508,385,Thunderstorms,2010-10-26,,Illinois,,,1,FAILED
+509,389,High Winds,2010-10-27,,Illinois,,,1,FAILED
+510,388,High Winds,2010-10-27,,Michigan,,,1,FAILED
+511,387,High Winds,2010-10-27,,Wisconsin,,,1,FAILED
+512,1395,Snow and High Winds,2010-11-08,,Maine,,TRUE,,FAILED
+513,390,Winter Storm,2010-11-13,,Minnesota,,,,FAILED
+514,391,High Winds,2010-11-15,,Puget Sound RegionDIRTY,,,1,FAILED
+515,392,Winter Storm,2010-11-21,,California,,,1,FAILED
+516,393,Winter Storm,2010-11-22,,Washington,,Puget Sound,,FAILED
+517,394,Severe Weather,2010-12-12,,Michigan,,,1,FAILED
+518,395,Severe Weather,2010-12-18,,Washington,Redmond,,,FAILED
+519,396,Severe Weather,2010-12-26,,CarolinaDIRTY,,,1,FAILED
+520,397,Winter Storm,2011-01-12,6:00:00,Massachusetts,,,,FAILED
+521,398,Winter Storm,2011-01-26,17:00:00,Maryland,,"Montgomery, Prince George's",,FAILED
+522,399,Winter Storm,2011-01-26,18:28:00,Maryland,,,,FAILED
+523,400,Winter Storm,2011-01-26,19:43:00,Virginia,,,1,FAILED
+524,401,Ice Storm,2011-01-31,22:00:00,"Indiana, Ohio",,,1,FAILED
+525,402,Winter Storm,2011-02-01,15:00:00,"Indiana, Ohio",,,,FAILED
+526,403,Winter Storm,2011-02-01,21:00:00,Illinois,,,1,FAILED
+527,404,Winter Storm,2011-02-02,3:00:00,Pennsylvania,Philadelphia,,,FAILED
+528,405,Winter Storm,2011-02-09,3:45:00,Texas,Houston,,,FAILED
+529,1396,Cold Weather Event,2011-02-09,16:30:00,Texas,,TRUE,,FAILED
+530,406,Major Storm,2011-02-17,1:25:00,California,,,1,FAILED
+531,407,Major Storm,2011-02-19,12:30:00,Pennsylvania,Philadelphia,,,FAILED
+532,408,Winter Storm,2011-02-20,16:00:00,Michigan,,,1,FAILED
+533,409,Severe Weather,2011-02-25,15:20:00,Virginia,,,,FAILED
+534,410,Severe Weather,2011-02-25,15:23:00,Maryland,,,,FAILED
+535,411,Winter Storm,2011-02-25,8:00:00,California,,,1,FAILED
+536,412,Severe Weather,2011-03-13,14:20:00,Oregon,,,,FAILED
+537,413,Major Storm,2011-03-19,23:56:00,California,,,1,FAILED
+538,414,Major Storm,2011-03-20,9:44:00,California,Los Angeles,,,FAILED
+539,415,Major Storm,2011-03-21,12:35:00,California,,,1,FAILED
+540,416,Major Storm,2011-03-23,18:30:00,"Kentucky, Michigan, Indiana, West Virginia, Tennessee, Ohio, Virginia",,,,FAILED
+541,417,Severe Weather,2011-03-31,14:30:00,Florida,,,1,FAILED
+542,418,Severe Weather,2011-03-31,11:30:00,Florida,Tampa Bay,,,FAILED
+543,419,Severe Weather,2011-04-04,11:47:00,Tennessee,,Memphis,,FAILED
+544,420,Severe Weather,2011-04-04,13:00:00,Tennessee,,Shelby County,,FAILED
+545,421,Severe Weather,2011-04-04,14:00:00,Tennessee,,Davidson County,,FAILED
+546,422,Severe Weather,2011-04-04,19:00:00,"Texas, Arkansas, Louisiana, Mississippi",,,1,FAILED
+547,423,Severe Weather,2011-04-04,19:00:00,"Kentucky, West Virginia, Virginia",,,,FAILED
+548,424,Severe Weather,2011-04-04,21:00:00,"Alabama, Georgia, Mississippi, Florida",,,,FAILED
+549,425,Severe Weather,2011-04-05,2:00:00,"North Carolina, South Carolina",,,,FAILED
+550,426,Severe Weather,2011-04-16,14:16:00,North Carolina,,,1,FAILED
+551,430,Severe Weather,2011-04-19,23:13:00,Arkansas,Osceola,,,FAILED
+552,428,Severe Weather,2011-04-19,22:44:00,Tennessee,,,,FAILED
+553,429,Severe Weather,2011-04-19,23:02:00,Tennessee,,,,FAILED
+554,427,Severe Weather,2011-04-19,20:00:00,Illinois,,,,FAILED
+555,1397,Severe Weather - High Winds,2011-04-20,2:00:00,"Kentucky, Indiana, Ohio",,TRUE,,FAILED
+556,431,Severe Weather,2011-04-22,21:00:00,Missouri, St. Louis,,,FAILED
+557,432,Severe Weather,2011-04-25,17:30:00,"Arkansas, Louisiana, Mississippi",,,,FAILED
+558,433,Severe Weather,2011-04-26,5:49:00,Louisiana,,,1,FAILED
+559,434,Severe Weather,2011-04-26,9:51:00,"Tennessee, Alabama, Georgia, Mississippi",,,,FAILED
+560,435,Severe Weather,2011-04-26,18:14:00,Arkansas,,,1,FAILED
+561,436,Severe Weather,2011-04-27,8:00:00,"Alabama, Georgia, Mississippi, Florida",,,,FAILED
+562,437,Severe Weather,2011-04-27,10:00:00,"Tennessee, Alabama, Georgia, Mississippi",,,,FAILED
+563,438,Severe Weather,2011-04-27,22:00:00,"Tennessee, Ohio, Virginia",,,,FAILED
+564,439,Severe Weather,2011-04-28,5:00:00,Ohio,Cleveland,,,FAILED
+565,440,Severe Weather,2011-05-02,17:06:00,Hawaii,,,,FAILED
+566,441,Severe Weather,2011-05-10,22:21:00,"Kentucky, West Virginia, Virginia",,,,FAILED
+567,442,Severe Weather,2011-05-11,0:15:00,North Carolina,,,,FAILED
+568,443,Severe Weather,2011-05-22,17:09:00,Missouri,"Joplin, Sarcoxie, Wentworth",,,FAILED
+569,444,Severe Weather,2011-05-23,16:45:00,Indiana,,,1,FAILED
+570,445,Severe Weather,2011-05-23,12:30:00,Missouri,,St. Louis County,,FAILED
+571,446,Severe Weather,2011-05-24,16:45:00,Oklahoma,,,1,FAILED
+572,447,Severe Weather,2011-05-24,16:35:00,Virginia,,,1,FAILED
+573,448,Severe Weather,2011-05-25,22:14:00,Indiana,,,1,FAILED
+574,449,Severe Weather,2011-05-26,19:56:00,Pennsylvania,,,1,FAILED
+575,450,Severe Weather,2011-05-26,18:30:00,Georgia,,,1,FAILED
+576,451,Severe Weather,2011-05-29,18:30:00,Michigan,,,1,FAILED
+577,452,Severe Weather,2011-06-02,23:45:00,South Carolina,,,1,FAILED
+578,453,Severe Thunderstorms,2011-06-05,5:30:00,Texas,Houston,,,FAILED
+579,454,Severe Weather,2011-06-07,14:00:00,Ohio,,,,FAILED
+580,455,Severe Thunderstorms,2011-06-09,4:30:00,Illinois,,,,FAILED
+581,456,Severe Thunderstorms,2011-06-09,17:51:00,"Massachusetts, Connecticut",,,1,FAILED
+582,457,Severe Thunderstorms,2011-06-12,19:00:00,Virginia,,,,FAILED
+583,458,Severe Thunderstorms,2011-06-15,19:15:00,Georgia,,,,FAILED
+584,459,Severe Thunderstorms,2011-06-15,19:17:00,North Carolina,,,1,FAILED
+585,460,Severe Thunderstorms,2011-06-18,15:30:00,Georgia,,,1,FAILED
+586,461,Severe Thunderstorms,2011-06-18,17:00:00,"North Carolina, South Carolina",,,,FAILED
+587,462,Severe Weather,2011-06-21,18:30:00,AEP RegionDIRTY,,,1,FAILED
+588,463,Severe Thunderstorms,2011-06-21,21:45:00,Illinois,,,,FAILED
+589,465,Severe Thunderstorms,2011-06-22,19:00:00,"Alabama, Georgia",,,,FAILED
+590,464,Severe Weather,2011-06-22,9:46:00,Tennessee,Knoxville,,,FAILED
+591,466,Severe Thunderstorms,2011-06-24,18:30:00,"Alabama, Georgia",,,,FAILED
+592,467,Severe Thunderstorms,2011-06-26,18:00:00,"Alabama, Georgia",,,,FAILED
+593,468,Severe Thunderstorms,2011-06-27,0:00:00,"Illinois, Missouri",,,,FAILED
+594,469,Severe Weather,2011-06-30,22:30:00,Illinois,,,,FAILED
+595,470,Severe Weather,2011-07-01,17:00:00,Minnesota,,,,FAILED
+596,471,Severe Weather,2011-07-02,20:15:00,Michigan,,,,FAILED
+597,472,Severe Weather,2011-07-04,18:00:00,Virginia,,,,FAILED
+598,476,Severe Weather,2011-07-11,14:27:00,"Michigan, Indiana, Ohio",,,,FAILED
+599,475,Severe Weather,2011-07-11,11:15:00,Michigan,,,,FAILED
+600,474,Severe Weather,2011-07-11,9:00:00,Michigan,,,,FAILED
+601,473,Severe Weather,2011-07-11,9:00:00,Illinois,,,,FAILED
+602,477,Load Shed,2011-07-13,17:19:00,Colorado,,,,FAILED
+603,478,Severe Weather,2011-07-18,17:00:00,Michigan,,,,FAILED
+604,479,Load Shed,2011-07-22,11:34:00,Ohio,,,,FAILED
+605,480,Severe Weather,2011-07-23,2:30:00,Illinois,,,,FAILED
+606,481,Severe Weather,2011-07-28,0:14:00,Indiana,,,,FAILED
+607,482,Severe Weather,2011-07-29,20:45:00,New Jersey,,,,FAILED
+608,483,Severe Weather,2011-08-02,21:30:00,Illinois,,,,FAILED
+609,484,Severe Weather,2011-08-08,20:58:00,Oklahoma,,,,FAILED
+610,485,Severe Weather,2011-08-13,16:41:00,Kentucky,,,,FAILED
+611,486,Severe Weather,2011-08-20,17:42:00,Michigan,,,,FAILED
+612,487,Severe Weather,2011-08-21,22:45:00,Puerto RicoDIRTY,,,,FAILED
+613,488,Earthquake,2011-08-23,13:51:00,Virginia,,,,FAILED
+614,489,Severe Weather,2011-08-24,7:45:00,Texas,,,,FAILED
+615,490,Severe Weather,2011-08-24,14:51:00,"Texas, Arkansas, Louisiana",,,,FAILED
+616,491,Severe Weather,2011-08-25,0:30:00,Ohio,,,,FAILED
+617,492,Severe Weather,2011-08-26,0:30:00,Pennsylvania,,,,FAILED
+618,500,Severe Weather,2011-08-27,10:33:00,"North Carolina, Virginia",,,,FAILED
+619,499,Severe Weather,2011-08-27,19:00:00,North Carolina,,,,FAILED
+620,501,Severe Weather,2011-08-27,2:57:00,North Carolina,,,,FAILED
+621,498,Severe Weather,2011-08-27,13:00:00,"Maryland, Delaware",,,,FAILED
+622,493,Severe Weather,2011-08-27,23:05:00,Maryland,,,,FAILED
+623,496,Severe Weather,2011-08-27,22:00:00,Pennsylvania,,,,FAILED
+624,495,Severe Weather,2011-08-27,22:00:00,New Jersey,,,,FAILED
+625,494,Severe Weather,2011-08-27,23:00:00,Maryland,,,,FAILED
+626,497,Severe Weather,2011-08-27,20:30:00,Maryland,,,,FAILED
+627,509,Severe Weather,2011-08-28,0:01:00,New York,,,,FAILED
+628,512,Severe Weather,2011-08-28,0:23:00,New Jersey,,,,FAILED
+629,511,Severe Weather,2011-08-28,0:30:00,New Jersey,,,,FAILED
+630,510,Severe Weather,2011-08-28,2:58:00,Pennsylvania,,,,FAILED
+631,508,Severe Weather,2011-08-28,5:00:00,New York,,,,FAILED
+632,504,Severe Weather,2011-08-28,9:42:00,New York,,,,FAILED
+633,506,Severe Weather,2011-08-28,7:00:00,New York,,,,FAILED
+634,505,Severe Weather,2011-08-28,7:40:00,Connecticut,,,,FAILED
+635,503,Severe Weather,2011-08-28,12:10:00,Massachusetts,,,,FAILED
+636,502,Severe Weather,2011-08-28,12:30:00,New York,,,,FAILED
+637,507,Severe Weather,2011-08-28,5:01:00,New York,,,,FAILED
+638,513,Severe Weather,2011-09-03,14:00:00,Michigan,,,,FAILED
+639,514,Severe Weather,2011-09-05,16:30:00,"Alabama, Georgia",,,,FAILED
+640,515,Severe Weather,2011-09-29,5:00:00,Texas,,,,FAILED
+641,516,Severe Weather,2011-10-26,5:00:00,Colorado,,,,FAILED
+642,524,Severe Weather,2011-10-29,15:00:00,New York,,,,FAILED
+643,521,Severe Weather,2011-10-29,12:57:00,Pennsylvania,,,,FAILED
+644,526,Severe Weather,2011-10-29,16:16:00,New York,,,,FAILED
+645,527,Severe Weather,2011-10-29,20:00:00,"New York, New Jersey",,,,FAILED
+646,525,Severe Weather,2011-10-29,16:14:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island",,,,FAILED
+647,519,Severe Weather,2011-10-29,9:59:00,New Jersey,,,,FAILED
+648,518,Severe Weather,2011-10-29,8:59:00,Pennsylvania,,,,FAILED
+649,517,Severe Weather,2011-10-29,8:59:00,Pennsylvania,,,,FAILED
+650,523,Severe Weather,2011-10-29,14:30:00,New Jersey,,,,FAILED
+651,520,Severe Weather,2011-10-29,11:18:00,New York,,,,FAILED
+652,522,Severe Weather,2011-10-29,14:00:00,Pennsylvania,,,,FAILED
+653,528,Severe Weather,2011-11-30,16:56:00,California,,,,FAILED
+654,531,Severe Weather,2011-12-01,10:00:00,Utah,,,,FAILED
+655,529,Severe Weather,2011-12-01,0:45:00,California,,,,FAILED
+656,530,Severe Weather,2011-12-01,3:29:00,California,,,,FAILED
+657,532,Severe Weather,2011-12-07,19:29:00,Virginia,,,,FAILED
+658,1398,Severe Weather - Winter Storm,2012-01-19,7:00:00,Washington,,TRUE,,FAILED
+659,1401,Severe Weather - Winter Storm,2012-03-02,21:00:00,Michigan,,TRUE,,FAILED
+660,1400,Severe Weather - Winter Storm,2012-03-02,21:00:00,Michigan,,TRUE,,FAILED
+661,1399,Severe Weather - Tornadoes ,2012-03-02,12:37:00,"Tennessee, Alabama",,TRUE,,FAILED
+662,1402,Severe Weather - Thunderstorms,2012-03-20,8:00:00,Texas,,TRUE,,FAILED
+663,1403,Severe Weather - High Winds,2012-04-16,15:46:00,Michigan,,TRUE,,FAILED
+664,1404,Severe Weather - Thunderstorms,2012-04-20,14:27:00,Texas,,TRUE,,FAILED
+665,1405,Severe Weather - Thunderstorms,2012-05-29,20:35:00,Oklahoma,,TRUE,,FAILED
+666,1406,Severe Weather - Thunderstorms,2012-06-11,19:50:00,"Alabama, Georgia",,TRUE,,FAILED
+667,1407,Severe Weather - Thunderstorms,2012-06-12,15:57:00,Texas,,TRUE,,FAILED
+668,1408,Severe Weather - Thunderstorms,2012-06-19,4:30:00,Minnesota,,TRUE,,FAILED
+669,1409,Severe Weather - Wind & Rain,2012-06-25,16:04:00,Virginia,,TRUE,,FAILED
+670,1411,Severe Weather - Thunderstorms,2012-06-29,16:00:00,"Michigan, Indiana, West Virginia, Ohio, Virginia",,TRUE,,FAILED
+671,1412,Severe Weather - Thunderstorms,2012-06-29,17:15:00,"Kentucky, Indiana, Ohio",,TRUE,,FAILED
+672,1413,Severe Weather - Thunderstorms,2012-06-29,18:24:00,"West Virginia, Virginia",,TRUE,,FAILED
+673,1414,Severe Weather - Thunderstorms,2012-06-29,19:00:00,"West Virginia, Maryland, Virginia",,TRUE,,FAILED
+674,1416,Severe Weather - Thunderstorms,2012-06-29,22:29:00,Virginia,,TRUE,,FAILED
+675,1417,Severe Weather - Thunderstorms,2012-06-29,22:43:00,Maryland,,TRUE,,FAILED
+676,1418,Severe Weather - Thunderstorms,2012-06-29,23:30:00,Illinois,,TRUE,,FAILED
+677,1415,Severe Weather - Thunderstorms,2012-06-29,22:15:00,Maryland,,TRUE,,FAILED
+678,1410,Severe Weather - Thunderstorms,2012-06-29,14:10:00,Ohio,,TRUE,,FAILED
+679,1419,Severe Weather - Thunderstorms,2012-06-30,1:00:00,"Maryland, Delaware",,TRUE,,FAILED
+680,1420,Severe Weather - Thunderstorms,2012-06-30,1:15:00,New Jersey,,TRUE,,FAILED
+681,1421,Severe Weather - Thunderstorms,2012-06-30,22:30:00,Maryland,,TRUE,,FAILED
+682,1422,Severe Weather - Thunderstorms,2012-07-01,,Illinois,,TRUE,,FAILED
+683,1423,Operational Failure; Storm Damage,2012-07-01,,North Carolina,,TRUE,,FAILED
+684,533,Severe Weather  ,2012-07-01,,North Carolina,,,,FAILED
+685,1424,Severe Weather - Thunderstorms,2012-07-05,0:00:00,Michigan,,TRUE,,FAILED
+686,1425,Severe Weather - Wind & Storms,2012-07-05,,Tennessee,,TRUE,,FAILED
+687,1426,Severe Weather - Thunderstorms,2012-07-07,,Pennsylvania,,TRUE,,FAILED
+688,1427,Severe Weather - Thunderstorms,2012-07-07,,New Jersey,,TRUE,,FAILED
+689,1428,Severe Weather - Thunderstorms,2012-07-18,,"Kentucky, Indiana, Ohio",,TRUE,,FAILED
+690,1429,Severe Weather - Thunderstorms,2012-07-18,,Ohio,,TRUE,,FAILED
+691,1430,Severe Weather - Thunderstorms,2012-07-18,,Illinois,,TRUE,,FAILED
+692,1431,Severe Weather; Equipment Failure,2012-07-21,,Texas,,TRUE,,FAILED
+693,1433,Severe Weather - Thunderstorms,2012-07-24,,Illinois,,TRUE,,FAILED
+694,1432,Severe Weather - Thunderstorms,2012-07-24,,Indiana,,TRUE,,FAILED
+695,1435,Severe Weather - Thunderstorms,2012-07-26,,Pennsylvania,,TRUE,,FAILED
+696,1434,Severe Weather - Thunderstorms,2012-07-26,,Pennsylvania,,TRUE,,FAILED
+697,1436,Severe Weather - Thunderstorms,2012-07-26,,Ohio,,TRUE,,FAILED
+698,1437,Severe Weather - Thunderstorms,2012-07-27,,Indiana,,TRUE,,FAILED
+699,1439,Severe Weather - Thunderstorms,2012-08-04,,Illinois,,TRUE,,FAILED
+700,1438,Severe Weather - Thunderstorms,2012-08-04,,Indiana,,TRUE,,FAILED
+701,1440,Severe Weather - Dust Storm; Load Shed Event,2012-08-13,,CFE (Mexico & U.S.)DIRTY,,TRUE,,FAILED
+702,1441,Severe Weather - TS Isaac,2012-08-26,,Florida,,TRUE,,FAILED
+703,1442,Severe Weather - Hurricane Isaac,2012-08-28,,"Arkansas, Louisiana, Mississippi",,TRUE,,FAILED
+704,1443,Severe Weather - Hurricane Isaac,2012-08-29,,Louisiana,,TRUE,,FAILED
+705,1444,Severe Weather - Hurricane Isaac,2012-08-29,,Louisiana,,TRUE,,FAILED
+706,1445,Severe Weather - Hurricane Isaac,2012-08-29,,Louisiana,,TRUE,,FAILED
+707,1446,Severe Weather - Thunderstorms,2012-09-07,,Arkansas,,TRUE,,FAILED
+708,1447,Severe Weather - Thunderstorms,2012-09-08,,Maryland,,TRUE,,FAILED
+709,1448,Severe Weather - Thunderstorms,2012-09-08,,Virginia,,TRUE,,FAILED
+710,1463,Severe Weather - Hurricane Sandy,2012-10-29,,Maryland,,TRUE,,FAILED
+711,1462,Severe Weather - Hurricane Sandy,2012-10-29,,New Hampshire,,TRUE,,FAILED
+712,1461,Severe Weather - Hurricane Sandy,2012-10-29,,New Jersey,,TRUE,,FAILED
+713,1460,Severe Weather - Hurricane Sandy,2012-10-29,,New York,,TRUE,,FAILED
+714,1459,Severe Weather - Hurricane Sandy,2012-10-29,,Ohio,,TRUE,,FAILED
+715,1458,Severe Weather - Hurricane Sandy,2012-10-29,,"West Virginia, Maryland, Virginia",,TRUE,,FAILED
+716,1457,Severe Weather - Hurricane Sandy,2012-10-29,,Pennsylvania,,TRUE,,FAILED
+717,1456,Severe Weather - Hurricane Sandy,2012-10-29,,"Massachusetts, Connecticut",,TRUE,,FAILED
+718,1453,Severe Weather - Hurricane Sandy,2012-10-29,,New York,,TRUE,,FAILED
+719,1454,Severe Weather - Hurricane Sandy,2012-10-29,,Massachusetts,,TRUE,,FAILED
+720,1464,Severe Weather - Hurricane Sandy,2012-10-29,,Pennsylvania,,TRUE,,FAILED
+721,1452,Severe Weather - Hurricane Sandy,2012-10-29,,New Jersey,,TRUE,,FAILED
+722,1451,Severe Weather - Hurricane Sandy,2012-10-29,,"Maryland, Delaware",,TRUE,,FAILED
+723,1450,Severe Weather - Hurricane Sandy,2012-10-29,,New Jersey,,TRUE,,FAILED
+724,1449,Severe Weather - Hurricane Sandy,2012-10-29,,"West Virginia, Virginia",,TRUE,,FAILED
+725,1455,Severe Weather - Hurricane Sandy,2012-10-29,,Massachusetts,,TRUE,,FAILED
+726,1465,Severe Weather - Hurricane Sandy,2012-10-29,,Pennsylvania,,TRUE,,FAILED
+727,1466,Severe Weather - Hurricane Sandy,2012-10-29,,Virginia,,TRUE,,FAILED
+728,1467,Severe Weather - Hurricane Sandy,2012-10-29,,"New York, New Jersey",,TRUE,,FAILED
+729,1468,Severe Weather - Hurricane Sandy,2012-10-29,,New York,,TRUE,,FAILED
+730,1469,Severe Weather - Nor'easter,2012-10-29,,"Kentucky, Michigan, Indiana, Ohio",,TRUE,,FAILED
+731,1470,Severe Weather - Hurricane Sandy,2012-10-29,,Maine,,TRUE,,FAILED
+732,1471,Severe Weather - Nor'easter,2012-10-30,,Michigan,,TRUE,,FAILED
+733,1472,Severe Weather - Winter Storm,2012-12-02,5:20:00,California,,TRUE,,FAILED
+734,1473,Severe Weather - Winter Storm,2012-12-25,0:45:00,"Texas, Arkansas, Louisiana, Mississippi",,TRUE,,FAILED
+735,1474,"Severe Weather - Cold Front, High Winds",2012-12-25,9:28:00,Texas,,TRUE,,FAILED
+736,1475,Severe Weather - Thunderstorm,2012-12-26,14:50:00,North Carolina,,TRUE,,FAILED
+737,1476,Severe Weather - Winter Storm,2013-01-17,18:07:00,"West Virginia, Virginia",,TRUE,,FAILED
+738,1477,Severe Weather - Winter Storm,2013-01-17,19:02:00,Tennessee,,TRUE,,FAILED
+739,1478,Severe Weather - Wind Storm,2013-01-20,3:30:00,Michigan,,TRUE,,FAILED
+740,1480,Severe Weather - Wind Storm,2013-01-31,6:30:00,Connecticut,,TRUE,,FAILED
+741,1479,Severe Weather - Wind Storm,2013-01-31,3:05:00,Virginia,,TRUE,,FAILED
+742,1482,Severe Weather - Winter Storm Nemo,2013-02-08,20:00:00,"Massachusetts, Rhode Island",,TRUE,,FAILED
+743,1483,Severe Weather - Winter Storm Nemo,2013-02-08,20:55:00,Massachusetts,,TRUE,,FAILED
+744,1488,Severe Weather - Winter Storm Nemo,2013-02-26,13:00:00,Missouri,,TRUE,,FAILED
+745,1491,Severe Weather - Winter Storm,2013-03-06,8:22:00,Virginia,,TRUE,,FAILED
+746,1494,Severe Weather - Thunderstorms,2013-03-18,19:30:00,"Alabama, Georgia",,TRUE,,FAILED
+747,1501,Severe Weather - Storms and Wind,2013-04-18,15:00:00,Michigan,,TRUE,,FAILED
+748,1509,Severe Weather - Tornados,2013-05-20,15:00:00,Oklahoma,,TRUE,,FAILED
+749,1514,Severe Weather - Thunderstorms,2013-05-29,20:58:00,New York,,TRUE,,FAILED
+750,1516,Severe Weather - Lightning,2013-05-31,1:00:00,Arkansas,,TRUE,,FAILED
+751,1519,Severe Weather - Thunderstorms,2013-05-31,19:30:00,Missouri,,TRUE,,FAILED
+752,1517,Severe Weather - Tornados,2013-05-31,18:00:00,Oklahoma,,TRUE,,FAILED
+753,1521,Severe Weather - Thunderstorms,2013-06-13,20:47:00,Southern Company TerritoryDIRTY,,TRUE,,FAILED
+754,1523,Severe Weather - Thunderstorms,2013-06-13,16:08:00,Virginia,,TRUE,,FAILED
+755,1525,Severe Weather - Thunderstorms,2013-06-13,17:45:00,North Carolina,,TRUE,,FAILED
+756,1526,Severe Weather - Thunderstorms,2013-06-13,15:20:00,"West Virginia, Ohio, Virginia",,TRUE,,FAILED
+757,1524,Severe Weather - Thunderstorms,2013-06-13,13:17:00,North Carolina,,TRUE,,FAILED
+758,1535,Severe Weather - Hailstorm,2013-06-21,17:39:00,Minnesota,,TRUE,,FAILED
+759,1533,Severe Weather - Hailstorm,2013-06-21,3:00:00,Minnesota,,TRUE,,FAILED
+760,534,Severe Weather - Fog,2013-06-23,21:20:00,California,,,,FAILED
+761,1538,Severe Weather - Thunderstorms,2013-06-24,19:30:00,Illinois,,TRUE,,FAILED
+762,1539,Severe Weather - Thunderstorms,2013-06-24,19:30:00,Indiana,,TRUE,,FAILED
+763,1540,Severe Weather - Thunderstorms,2013-06-27,17:00:00,Michigan,,TRUE,,FAILED
+764,1550,Severe Weather - Thunderstorms,2013-07-10,17:30:00,Ohio,,TRUE,,FAILED
+765,1557,Severe Weather - Thunderstorms,2013-07-19,18:00:00,Michigan,,TRUE,,FAILED
+766,1558,Severe Weather - Thunderstorms,2013-07-19,22:30:00,New York,,TRUE,,FAILED
+767,1560,Severe Weather - Thunderstorms,2013-07-23,23:38:00,Oklahoma,,TRUE,,FAILED
+768,1570,Severe Weather - Thunderstorms,2013-08-07,0:15:00,Wisconsin,,TRUE,,FAILED
+769,1572,Severe Weather - Thunderstorms,2013-08-16,16:58:00,Texas,,TRUE,,FAILED
+770,1573,Severe Weather - Lightning Strike,2013-08-19,19:06:00,California,,TRUE,,FAILED
+771,1582,Severe Weather - Thunderstorms,2013-08-30,19:30:00,Illinois,,TRUE,,FAILED
+772,1584,Severe Weather - Thunderstorms,2013-09-11,16:00:00,Michigan,,TRUE,,FAILED
+773,1592,Severe Weather - Hail Storm,2013-10-27,4:27:00,Texas,,TRUE,,FAILED
+774,1601,Severe Weather - Ice and Snow Storm,2013-11-17,7:00:00,Michigan,,TRUE,,FAILED
+775,1603,Severe Weather - Tornadoes,2013-11-17,16:47:00,Indiana,,TRUE,,FAILED
+776,1604,Severe Weather - Thunderstorms,2013-11-17,16:45:00,Michigan,,TRUE,,FAILED
+777,1605,Severe Weather - Tornadoes,2013-11-17,12:35:00,"Illinois, Missouri",,TRUE,,FAILED
+778,1606,Severe Weather - Thunderstorms,2013-11-17,13:06:00,Indiana,,TRUE,,FAILED
+779,1608,Severe Weather - Thunderstorms,2013-11-17,14:31:00,Illinois,,TRUE,,FAILED
+780,1607,Severe Weather - Thunderstorms,2013-11-17,16:19:00,"Michigan, Indiana",,TRUE,,FAILED
+781,1609,Severe Weather - Thunderstorms,2013-11-17,16:47:00,Indiana,,TRUE,,FAILED
+782,1611,Severe Weather - Wind Storm,2013-11-21,19:45:00,California,,TRUE,,FAILED
+783,1615,Severe Weather - Ice/Snow,2013-12-06,1:51:00,Texas,,TRUE,,FAILED
+784,1616,Severe Weather - Ice/Snow,2013-12-09,6:54:00,Virginia,,TRUE,,FAILED
+785,1620,Severe Weather - Ice/Snow,2013-12-22,6:16:00,New York,,TRUE,,FAILED
+786,1621,Severe Weather - Ice/Snow,2013-12-22,6:30:00,Michigan,,TRUE,,FAILED
+787,1622,Severe Weather - Ice/Snow,2013-12-22,3:28:00,Michigan,,TRUE,,FAILED
+788,1623,Severe Weather - Ice/Snow,2013-12-23,15:20:00,Maine,,TRUE,,FAILED
+789,535,Severe Weather - Cold,2014-01-07,6:18:00,Pennsylvania,,,,FAILED
+790,1672,Severe Weather - Snow/Ice,2014-02-05,5:00:00,Pennsylvania,,TRUE,,FAILED
+791,1673,Fuel Supply Emergency - Coal,2014-02-05,7:00:00,New York,,TRUE,,FAILED
+792,1674,Severe Weather - Snow/Ice,2014-02-05,7:35:00,Pennsylvania,,TRUE,,FAILED
+793,536,Severe Weather - Ice,2014-02-05,8:05:00,Maryland,,,,FAILED
+794,1670,Severe Weather - Snow/Ice,2014-02-05,0:00:00,"West Virginia, Maryland, Virginia",,TRUE,,FAILED
+795,1671,Severe Weather - Snow/Ice,2014-02-05,1:00:00,Pennsylvania,,TRUE,,FAILED
+796,1684,Severe Weather - Snow/Ice,2014-02-12,11:03:00,South Carolina,,TRUE,,FAILED
+797,1685,Severe Weather - Snow/Ice,2014-02-12,12:10:00,North Carolina,,TRUE,,FAILED
+798,1683,Severe Weather - Snow/Ice,2014-02-12,7:48:00,Georgia,,TRUE,,FAILED
+799,1689,Severe Weather - Snow/Ice,2014-02-20,16:40:00,"Illinois, Missouri",,TRUE,,FAILED
+800,1690,Severe Weather - Thunderstorms/High Winds,2014-02-21,2:53:00,Georgia,,TRUE,,FAILED
+801,1693,Severe Weather - Winter Storm,2014-03-03,6:40:00,Tennessee,,TRUE,,FAILED
+802,1697,Severe Weather - Winter Storm,2014-03-07,3:30:00,North Carolina,,TRUE,,FAILED
+803,1699,Severe Weather - High Winds,2014-03-12,19:35:00,North Carolina,,TRUE,,FAILED
+804,537,Severe Weather - Wind,2014-04-04,3:30:00,Arkansas,,,,FAILED
+805,1711,Severe Weather - Thunderstorms,2014-04-12,18:15:00,Michigan,,TRUE,,FAILED
+806,538,Severe Weather,2014-04-12,20:00:00,Michigan,,,,FAILED
+807,1717,Severe Weather - Thunderstorms,2014-04-29,23:30:00,"Alabama, Mississippi",,TRUE,,FAILED
+808,1718,Severe Weather - Thunderstorms,2014-04-29,9:37:00,"Alabama, Mississippi",,TRUE,,FAILED
+809,1719,Severe Weather - Thunderstorms,2014-04-30,3:50:00,"Alabama, Georgia, Florida",,TRUE,,FAILED
+810,1722,Severe Weather - Heavy Winds,2014-05-09,18:00:00,Indiana,,TRUE,,FAILED
+811,1735,Severe Weather - Thunderstorms,2014-06-05,3:00:00,Tennessee,,TRUE,,FAILED
+812,1737,Severe Weather - Thunderstorms,2014-06-05,13:06:00,Tennessee,,TRUE,,FAILED
+813,1738,Severe Weather - Thunderstorms,2014-06-07,23:00:00,Alabama,,TRUE,,FAILED
+814,1741,Severe Weather - Thunderstorms,2014-06-10,21:50:00,"West Virginia, Virginia",,TRUE,,FAILED
+815,1744,Severe Weather - Thunderstorms,2014-06-15,0:00:00,Minnesota,,TRUE,,FAILED
+816,1746,Severe Weather - Thunderstorms,2014-06-18,17:00:00,Michigan,,TRUE,,FAILED
+817,1752,Severe Weather - Thunderstorms,2014-06-30,23:20:00,Indiana,,TRUE,,FAILED
+818,1751,Severe Weather - Thunderstorms,2014-06-30,20:00:00,Illinois,,TRUE,,FAILED
+819,1750,Severe Weather - Thunderstorms,2014-06-30,17:55:00,Wisconsin,,TRUE,,FAILED
+820,1755,Severe Weather - Thunderstorms,2014-07-01,3:30:00,Michigan,,TRUE,,FAILED
+821,1753,Severe Weather - Thunderstorms,2014-07-01,5:00:00,"Michigan, Indiana",,TRUE,,FAILED
+822,1756,Severe Weather - Thunderstorms,2014-07-01,4:00:00,Michigan,,TRUE,,FAILED
+823,1757,Severe Weather - Thunderstorms,2014-07-03,18:00:00,Pennsylvania,,TRUE,,FAILED
+824,1758,Severe Weather - Thunderstorms,2014-07-03,22:55:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,TRUE,,FAILED
+825,1765,Severe Weather - Thunderstorms,2014-07-08,17:30:00,Pennsylvania,,TRUE,,FAILED
+826,1764,Severe Weather - Thunderstorms,2014-07-08,19:21:00,New York,,TRUE,,FAILED
+827,1759,Severe Weather - Thunderstorms,2014-07-08,20:30:00,Pennsylvania,,TRUE,,FAILED
+828,1760,Severe Weather - Thunderstorms,2014-07-08,21:31:00,Maryland,,TRUE,,FAILED
+829,1763,Severe Weather - Thunderstorms,2014-07-08,17:30:00,"West Virginia, Virginia",,TRUE,,FAILED
+830,1761,Severe Weather - Thunderstorms,2014-07-08,18:00:00,Pennsylvania,,TRUE,,FAILED
+831,1762,Severe Weather - Thunderstorms,2014-07-08,17:30:00,"West Virginia, Maryland, Virginia",,TRUE,,FAILED
+832,1767,Severe Weather - Thunderstorms,2014-07-23,19:14:00,"Arkansas, Louisiana",,TRUE,,FAILED
+833,1769,Severe Weather - Thunderstorms,2014-07-27,17:00:00,Michigan,,TRUE,,FAILED
+834,539,Earthquake,2014-08-24,3:20:00,California,,,,FAILED
+835,1775,Severe Weather - Thunderstorms,2014-08-26,15:30:00,Michigan,,TRUE,,FAILED
+836,1778,Severe Weather - Thunderstorms,2014-09-05,20:00:00,Michigan,,TRUE,,FAILED
+837,1779,Severe Weather - Thunderstorms,2014-09-05,16:30:00,Illinois,,TRUE,,FAILED
+838,1780,Severe Weather - Thunderstorms,2014-09-05,19:14:00,Michigan,,TRUE,,FAILED
+839,1792,Severe Weather - Thunderstorms,2014-10-02,22:15:00,Arkansas,,TRUE,,FAILED
+840,1793,Severe Weather - Thunderstorms,2014-10-02,16:00:00,Texas,,TRUE,,FAILED
+841,1794,Severe Weather - Thunderstorms,2014-10-06,10:52:00,Texas,,TRUE,,FAILED
+842,1799,Severe Weather - Thunderstorms,2014-10-13,12:45:00,Louisiana,,TRUE,,FAILED
+843,1802,Severe Weather - Thunderstorms,2014-10-14,5:44:00,"Alabama, Georgia, Florida",,TRUE,,FAILED
+844,540,Severe Weather,2014-10-22,22:46:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+845,542,Severe Weather - Wind,2014-10-25,18:00:00,Washington,,,,FAILED
+846,541,Severe Weather - Wind,2014-10-25,16:00:00,Oregon,,,,FAILED
+847,543,Severe Weather - Wind,2014-11-11,18:00:00,Washington,,,,FAILED
+848,544,Severe Weather - Wind,2014-11-24,12:00:00,Michigan,,,,FAILED
+849,1824,Severe Weather- High Winds,2014-12-11,23:15:00,California,,TRUE,,FAILED
+850,1825,Severe Weather- High Winds,2014-12-11,16:05:00,Oregon,,TRUE,,FAILED
+851,1826,Severe Weather- High Winds,2014-12-11,17:00:00,Washington,,TRUE,,FAILED
+852,1829,Severe Weather- High Winds,2014-12-30,13:08:00,California,,TRUE,,FAILED
+853,1830,Severe Weather - Winter,2015-01-07,17:00:00,Tennessee,,TRUE,,FAILED
+854,1831,Severe Weather - Winter,2015-01-07,17:00:00,"Kentucky, North Carolina, Tennessee, Missouri, Alabama, Georgia, Virginia",,TRUE,,FAILED
+855,545,Severe Weather - Wind,2015-02-06,20:58:00,California,,,,FAILED
+856,1832,Severe Weather - Winter,2015-02-16,21:41:00,Georgia,,TRUE,,FAILED
+857,1833,Severe Weather - Winter,2015-02-16,21:00:00,"Kentucky, North Carolina, Tennessee, Missouri, Alabama, Georgia, Virginia",,TRUE,,FAILED
+858,1834,Severe Weather - Winter,2015-02-17,9:00:00,"North Carolina, South Carolina",,TRUE,,FAILED
+859,1835,Severe Weather - Winter,2015-02-17,2:12:00,"North Carolina, South Carolina",,TRUE,,FAILED
+860,1836,Severe Weather - Winter,2015-02-18,15:00:00,"Kentucky, North Carolina, Tennessee, Missouri, Alabama, Georgia, Virginia",,TRUE,,FAILED
+861,1837,Severe Weather - Winter,2015-02-20,6:00:00,"North Carolina, South Carolina",,TRUE,,FAILED
+862,1838,Severe Weather - Winter,2015-02-21,8:34:00,Tennessee,,TRUE,,FAILED
+863,1839,Severe Weather - Winter,2015-02-26,3:12:00,"North Carolina, South Carolina",,TRUE,,FAILED
+864,1840,Severe Weather - Winter,2015-02-26,3:30:00,North Carolina,,TRUE,,FAILED
+865,546,Severe Weather - Wind,2015-03-15,15:30:00,Oregon,,,,FAILED
+866,1842,Severe Weather - Thunderstorms,2015-04-03,2:00:00,Kansas,,TRUE,,FAILED
+867,547,Severe Weather,2015-04-17,21:30:00,Texas,,,,FAILED
+868,548,Severe Weather,2015-04-18,21:00:00,Texas,,,,FAILED
+869,549,Severe Weather,2015-04-24,19:10:00,Texas,,,,FAILED
+870,550,Severe Weather,2015-04-27,10:30:00,"Texas, Louisiana",,,,FAILED
+871,551,Severe Weather,2015-05-18,15:28:00,Washington,,,,FAILED
+872,555,Severe Weather,2015-05-25,20:30:00,"Texas, Arkansas, Louisiana",,,,FAILED
+873,554,Severe Weather,2015-05-25,20:30:00,Texas,,,,FAILED
+874,553,Severe Weather,2015-05-25,22:45:00,Texas,,,,FAILED
+875,552,Severe Weather,2015-05-25,18:00:00,Texas,,,,FAILED
+876,556,Severe Weather,2015-05-26,5:30:00,"Texas, Arkansas, Louisiana, Mississippi",,,,FAILED
+877,557,Severe Weather,2015-06-23,18:00:00,New Jersey,,,,FAILED
+878,558,Severe Weather,2015-06-23,17:06:00,Delaware,,,,FAILED
+879,559,Severe Weather,2015-06-23,17:30:00,Delaware,,,,FAILED
+880,560,Severe Weather,2015-06-23,18:30:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+881,561,Severe Weather,2015-06-23,18:26:00,New Jersey,,,,FAILED
+882,562,Severe Weather,2015-06-26,2:00:00,Kansas,,,,FAILED
+883,563,Severe Weather,2015-06-27,17:00:00,Michigan,,,,FAILED
+884,564,Severe Weather,2015-06-29,19:21:00,Washington,,,,FAILED
+885,565,Severe Weather,2015-06-30,14:00:00,California,,,,FAILED
+886,566,Severe Weather,2015-06-30,10:50:00,California,,,,FAILED
+887,567,Severe Weather,2015-07-13,14:14:00,"Kentucky, Ohio",,,,FAILED
+888,568,Severe Weather,2015-07-13,19:40:00,Virginia,,,,FAILED
+889,569,Severe Weather,2015-07-14,15:29:00,Arkansas,,,,FAILED
+890,570,Severe Weather,2015-07-14,20:00:00,Alabama,,,,FAILED
+891,571,Severe Weather,2015-07-18,2:00:00,Minnesota,,,,FAILED
+892,572,Severe Weather,2015-07-18,19:59:00,California,,,,FAILED
+893,573,Severe Weather,2015-08-02,17:45:00,Michigan,,Emmet County; Grand Traverse County; Leelanau County; Kalkaska County; Benzie County; Manistee County; Wexford County; Missaukee County; Mecosta County;,,FAILED
+894,576,Sabotage,2015-08-03,8:27:00,Arizona,,New Mexico,,FAILED
+895,574,Severe Weather,2015-08-03,0:30:00,Illinois,,,,FAILED
+896,575,Severe Weather,2015-08-03,1:00:00,Michigan,,,,FAILED
+897,577,Severe Weather,2015-08-04,7:17:00,"Massachusetts, Rhode Island",,,,FAILED
+898,578,Severe Weather,2015-08-11,19:30:00,Texas,,Houston;,,FAILED
+899,579,Severe Weather,2015-08-29,10:00:00,Washington,,,,FAILED
+900,580,Severe Weather,2015-08-29,11:00:00,Washington,,,,FAILED
+901,581,Severe Weather,2015-08-29,13:00:00,Washington,,King County;,,FAILED
+902,582,Severe Weather,2015-09-03,2:33:00,Michigan,,,,FAILED
+903,583,Severe Weather,2015-10-18,7:00:00,California,,Central Coast area;,,FAILED
+904,584,Severe Weather,2015-10-31,0:45:00,Texas,,Harris County;,,FAILED
+905,586,Severe Weather,2015-11-17,10:00:00,Washington,,,,FAILED
+906,585,Severe Weather,2015-11-17,9:00:00,Washington,,Snohomish County;,,FAILED
+907,587,Severe Weather,2015-11-17,13:30:00,"Idaho, Washington",,,,FAILED
+908,588,Severe Weather,2015-11-21,20:30:00,Michigan,,,,FAILED
+909,589,Severe Weather,2015-11-28,6:00:00,Oklahoma,,,,FAILED
+910,590,Severe Weather,2015-11-28,6:00:00,Oklahoma,,,,FAILED
+911,591,Severe Weather,2015-12-09,4:00:00,Washington,,,,FAILED
+912,592,Severe Weather,2015-12-10,3:53:00,California,,Plumas County,,FAILED
+913,593,Severe Weather,2015-12-10,6:01:00,California,,Northern;,,FAILED
+914,594,Severe Weather,2015-12-24,3:00:00,Michigan,,"Antrim County, Charlevoix County, Manistee County, Mecosta County, Kalkaska County, Grand Traverse County, Osceola County, Lake County, Newaygo County, Clare County, Isabella County;",,FAILED
+915,595,Severe Weather,2015-12-26,19:30:00,Texas,,,,FAILED
+916,596,Severe Weather,2015-12-26,18:00:00,"Texas, Oklahoma",,,,FAILED
+917,597,Severe Weather,2015-12-27,23:38:00,Oklahoma,,,,FAILED
+918,598,Severe Weather,2015-12-27,17:00:00,Oklahoma,,,,FAILED
+919,599,Severe Weather,2015-12-31,17:00:00,Oklahoma,,Blaine County;,,FAILED
+920,600,Severe Weather,2016-07-05,2:45:00,Texas,,"Dallas County, Tarrant County",,FAILED
+921,601,Severe Weather,2016-07-05,17:30:00,"Minnesota, Wisconsin",,,,FAILED
+922,602,Severe Weather,2016-07-07,4:20:00,"Missouri, Kansas",,,,FAILED
+923,603,Severe Weather,2016-07-08,20:50:00,North Carolina,,,,FAILED
+924,604,Severe Weather,2016-07-08,19:00:00,Michigan,,"Wayne County, Oakland County, Macomb County, St. Clair County, Lapeer County, Tuscola County, Sanilac County, Huron County",,FAILED
+925,605,Severe Weather,2016-07-08,18:00:00,"West Virginia, Virginia",,Virginia,,FAILED
+926,606,Severe Weather,2016-07-09,17:45:00,Texas,,Dallas County,,FAILED
+927,607,Severe Weather,2016-07-14,17:30:00,Oklahoma,,Arkansas,,FAILED
+928,608,Severe Weather,2016-07-14,16:30:00,"Texas, Arkansas, Louisiana, Mississippi",,,,FAILED
+929,609,Severe Weather,2016-07-14,14:44:00,Oklahoma,,,,FAILED
+930,610,Severe Weather,2016-07-22,23:50:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+931,611,Severe Weather,2016-07-23,19:30:00,"New Hampshire, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+932,612,Severe Weather,2016-08-11,16:30:00,Ohio,,,,FAILED
+933,613,Severe Weather,2016-08-23,17:00:00,Texas,,Harris County;,,FAILED
+934,614,Severe Weather,2016-09-01,22:00:00,Florida,,,,FAILED
+935,615,Severe Weather,2016-09-02,0:40:00,Florida,,"Leon County, Wakulla County;",,FAILED
+936,616,Severe Weather,2016-09-02,4:00:00,Florida,,"Alachua County, Bay County, Citrus County, Columbia County, Dixie County, Franklin County, Gilchrist County, Gulf County, Hamilton County, Hardee County, Hernando County, Highlands County, Jefferson County, Lafayette County, Lake County, Levy County, Madison County, Marion County, Orange County, Osceola County, Pasco County, Pinellas County, Polk County, Seminole County, Sumter County, Suwannee County, Taylor County, Volusia County, Wakulla County;",,FAILED
+937,617,Severe Weather,2016-09-02,5:45:00,Georgia,,,,FAILED
+938,618,Severe Weather,2016-09-11,12:05:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+939,619,Severe Weather,2016-10-06,19:30:00,Florida,,,,FAILED
+940,620,Severe Weather,2016-10-07,8:00:00,Florida,,"Alachua County, Bay County, Citrus County, Columbia County, Dixie County, Franklin County, Gilchrist County, Gulf County, Hamilton County, Hardee County, Hernando County, Highlands County, Jefferson County, Lafayette County, Lake County, Levy County, Madison County, Marion County, Orange County, Osceola County, Pasco County, Pinellas County, Polk County, Seminole County, Sumter County, Suwannee County, Taylor County, Volusia County, Wakulla County;",,FAILED
+941,621,Severe Weather,2016-10-07,16:22:00,Georgia,,,,FAILED
+942,622,Severe Weather,2016-10-07,22:45:00,Florida,,,,FAILED
+943,623,Severe Weather,2016-10-07,23:00:00,South Carolina,,"Allendale County, Bamberg County, Beaufort County, Berkeley County, Charleston County, Chesterfield County, Clarendon County, Colleton County, Darlington County, Dorchester County, Florence County, Georgetown County, Hampton County, Horry County, Jasper County, Kershaw County, Lee County, Marion County, Marlboro County, Orangeburg County, Richland County, Sumter County, Williamsburg County;",,FAILED
+944,626,Severe Weather,2016-10-08,1:10:00,South Carolina,,,,FAILED
+945,625,Severe Weather,2016-10-08,14:05:00,North Carolina,,,,FAILED
+946,624,Severe Weather,2016-10-08,8:21:00,"North Carolina, South Carolina",,,,FAILED
+947,627,Severe Weather,2017-01-08,9:07:00,California,,,,FAILED
+948,628,Severe Weather,2017-01-10,19:30:00,California,,,,FAILED
+949,629,Severe Weather,2017-01-15,9:27:00,Oklahoma,,Harper County;,,FAILED
+950,630,Severe Weather,2017-01-18,18:05:00,California,,,,FAILED
+951,631,Severe Weather,2017-01-22,4:15:00,California,,,,FAILED
+952,632,Severe Weather,2017-01-22,16:00:00,"Alabama, Georgia, Mississippi, Florida",,,,FAILED
+953,633,Severe Weather,2017-02-06,1:00:00,Washington,,"Skagit County, King County, Kitsap County;",,FAILED
+954,634,Severe Weather,2017-02-09,16:05:00,"Massachusetts, Connecticut, Rhode Island",,,,FAILED
+955,635,Severe Weather,2017-02-17,15:00:00,California,,Los Angeles County;,,FAILED
+956,636,Severe Weather,2017-02-17,8:09:00,California,,,,FAILED
+957,637,Severe Weather,2017-03-01,11:49:00,"Kentucky, West Virginia, Virginia",,,,FAILED
+958,638,Severe Weather,2017-03-01,8:30:00,"Kentucky, Tennessee",,,,FAILED
+959,639,Severe Weather,2017-03-02,12:20:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+960,640,Severe Weather,2017-03-06,20:00:00,Missouri,,"Jackson County, Platte County, Cass County, Lafayette County, Chariton County, Carroll County, Clay County, Johnson County;",,FAILED
+961,644,Severe Weather,2017-03-08,15:33:00,New York,,,,FAILED
+962,643,Severe Weather,2017-03-08,9:30:00,Michigan,,"Jackson County, Calhoun County, Ingham County, Hillsdale County, Washtenaw County, Kent County, Ottawa County, Midland County, Saginaw County;",,FAILED
+963,1928,Severe Weather/Transmission Interruption,2017-03-08,13:30:00,New York,,TRUE,,FAILED
+964,641,Severe Weather,2017-03-08,11:30:00,Ohio,,,,FAILED
+965,642,Severe Weather,2017-03-08,12:00:00,Michigan,,,,FAILED
+966,645,Severe Weather,2017-03-14,12:32:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+967,646,Severe Weather,2017-03-21,20:00:00,Georgia,,,,FAILED
+968,647,Severe Weather,2017-03-29,3:30:00,Texas,,,,FAILED
+969,648,Severe Weather,2017-04-03,11:00:00,"Alabama, Georgia",,,,FAILED
+970,649,Severe Weather,2017-04-06,19:00:00,California,,,,FAILED
+971,650,Severe Weather,2017-04-07,8:15:00,Oregon,,"Multnomah County, Washington County, Marion County, Clackamas County",,FAILED
+972,651,Severe Weather,2017-04-07,4:33:00,Oregon,,,,FAILED
+973,652,Severe Weather,2017-04-24,5:32:00,North Carolina,,Mecklenburg County,,FAILED
+974,653,Severe Weather,2017-04-30,1:00:00,"Arkansas, Louisiana, Mississippi",,,,FAILED
+975,654,Severe Weather,2017-05-01,23:14:00,Ohio,,,,FAILED
+976,655,Severe Weather,2017-05-04,5:00:00,Alabama,,Georgia,,FAILED
+977,656,Severe Weather,2017-05-19,5:30:00,Missouri,,St. Louis County,,FAILED
+978,657,Severe Weather,2017-05-27,23:00:00,"Tennessee, Alabama",,,,FAILED
+979,658,Severe Weather,2017-05-27,23:10:00,Tennessee,,Shelby County,,FAILED
+980,659,Severe Weather,2017-05-28,19:30:00,Louisiana,,Texas,,FAILED
+981,660,Severe Weather,2017-05-28,19:30:00,Texas,,Louisiana,,FAILED
+982,661,Severe Weather,2017-06-11,13:25:00,Wisconsin,,,,FAILED
+983,662,Severe Weather,2017-06-11,7:00:00,Minnesota,,,,FAILED
+984,663,Severe Weather,2017-06-15,17:00:00,"Alabama, Georgia",,,,FAILED
+985,664,Severe Weather,2017-06-16,20:00:00,Arkansas,,,,FAILED
+986,665,Severe Weather,2017-06-16,20:00:00,Nebraska,,"Cass County, Douglas County, Sarpy County",,FAILED
+987,666,Severe Weather,2017-06-17,21:00:00,"Missouri, Kansas",,"Jackson County, Platte County, Clay County, Cass County",,FAILED
+988,667,Severe Weather,2017-06-22,18:00:00,Michigan,,"Wayne County, Monroe County",,FAILED
+989,668,Severe Weather,2017-07-07,3:30:00,Michigan,,"Kent County, Ottawa County, Muskegon County, Barry County, Oceana County, Eaton County",,FAILED
+990,669,Severe Weather,2017-07-18,16:23:00,Nevada,,,,FAILED
+991,670,Severe Weather,2017-07-22,22:00:00,"Missouri, Kansas",,,,FAILED
+992,671,Severe Weather,2017-07-22,22:00:00,Missouri,,,,FAILED
+993,672,Severe Weather,2017-07-22,22:00:00,Missouri,,,,FAILED
+994,673,Severe Weather,2017-07-23,4:00:00,Missouri,,Illinois,,FAILED
+995,674,Severe Weather,2017-08-25,18:30:00,Texas,,,,FAILED
+996,675,Severe Weather,2017-08-25,18:17:00,Texas,,"Matagorda County, Nueces County, Aransas County, Refugio County, San Patricio County, Calhoun County, Victoria County, Jackson County, Live Oak County, Jim Wells County, Bee County, Lavaca County;",,FAILED
+997,676,Severe Weather,2017-08-26,6:26:00,Texas,,,,FAILED
+998,677,Severe Weather,2017-08-26,0:39:00,Texas,,,,FAILED
+999,678,Severe Weather,2017-08-27,5:10:00,Texas,,Harris County;,,FAILED
+1000,679,Severe Weather,2017-08-30,2:15:00,Texas,,,,FAILED
+1001,680,Severe Weather,2017-08-31,14:49:00,California,,Los Angeles County;,,FAILED
+1002,681,Severe Weather,2017-09-01,15:41:00,California,,,,FAILED
+1003,682,Severe Weather,2017-09-09,0:00:00,Florida,,"Hillsborough County, Pasco County, Polk County;",,FAILED
+1004,683,Severe Weather,2017-09-09,12:30:00,Florida,,,,FAILED
+1005,684,Severe Weather,2017-09-10,20:37:00,Florida,,,,FAILED
+1006,685,Severe Weather,2017-09-10,18:35:00,Florida,,"Alachua County, Bay County, Brevard County, Citrus County, Columbia County, Dixie County, Flagler County, Franklin County, Gilchrist County, Gulf County, Hamilton County, Hardee County, Hernando County, Highlands County, Jefferson County, Lafayette County, Lake County, Leon County, Levy County, Madison County, Marion County, Orange County, Osceola County, Pasco County, Pinellas County, Polk County, Seminole County, Sumter County, Suwannee County, Taylor County, Volusia County, Wakulla County;",,FAILED
+1007,686,Severe Weather,2017-09-11,2:27:00,Georgia,,,,FAILED
+1008,687,Severe Weather,2017-09-11,17:30:00,"North Carolina, South Carolina",,,,FAILED
+1009,688,Severe Weather,2017-09-11,0:30:00,Florida,,,,FAILED
+1010,689,Severe Weather,2017-09-11,12:55:00,South Carolina,,,,FAILED
+1011,690,Severe Weather,2017-10-08,3:00:00,"Alabama, Mississippi, Florida",,,,FAILED
+1012,691,Severe Weather,2017-10-09,6:44:00,California,,,,FAILED
+1013,1943,Severe Weather/Transmission Interruption,2017-10-09,2:03:00,California,,TRUE,,FAILED
+1014,692,Severe Weather,2017-10-20,3:44:00,Washington,,,,FAILED
+1015,693,Severe Weather,2017-10-22,8:45:00,"Texas, Arkansas, Louisiana, Mississippi",,,,FAILED
+1016,694,Severe Weather,2017-10-23,17:50:00,"North Carolina, South Carolina",,,,FAILED
+1017,695,Severe Weather,2017-10-29,23:40:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1018,696,Severe Weather,2017-11-05,19:35:00,Ohio,,,,FAILED
+1019,697,Severe Weather,2017-11-13,16:33:00,Washington,,King County;,,FAILED
+1020,698,Severe Weather,2017-11-13,2:00:00,Washington,,"Island County, King County, Kitsap County, Thurston County, Skagit County, Whatcom County;",,FAILED
+1021,1955,Severe Weather/Transmission Interruption,2017-12-04,21:53:00,California,,TRUE,,FAILED
+1022,699,Severe Weather,2017-12-05,6:30:00,Michigan,,"Oscoda County, Isabella County, Roscommon County, Ogemaw County;",,FAILED
+1023,700,Severe Weather,2017-12-07,20:00:00,Texas,,Bexar County;,,FAILED
+1024,701,Severe Weather,2017-12-08,9:30:00,"Louisiana, Mississippi",,,,FAILED
+1025,702,Severe Weather,2017-12-08,10:00:00,"Alabama, Georgia, Mississippi",,,,FAILED
+1026,1956,Severe Weather/Transmission Interruption,2017-12-10,1:25:00,California,"Ventura County, Santa Barbara County;",TRUE,,FAILED
+1027,703,Severe Weather,2018-01-01,18:21:00,Tennessee,,,,FAILED
+1028,704,Severe Weather,2018-01-01,17:43:00,Texas,,,,FAILED
+1029,706,Severe Weather,2018-01-02,6:45:00,"North Carolina, South Carolina",,,,FAILED
+1030,705,Severe Weather,2018-01-02,7:30:00,South Carolina,,,,FAILED
+1031,707,Severe Weather,2018-01-15,4:20:00,Texas,,,,FAILED
+1032,708,Severe Weather,2018-01-16,15:00:00,Tennessee,,,,FAILED
+1033,709,Severe Weather,2018-01-16,13:57:00,Texas,,,,FAILED
+1034,710,Severe Weather,2018-01-18,5:00:00,"Texas, Arkansas, Louisiana, Mississippi",,,,FAILED
+1035,711,Severe Weather,2018-03-01,11:43:00,California,,,,FAILED
+1036,712,Severe Weather,2018-03-01,21:57:00,Ohio,,,,FAILED
+1037,713,Severe Weather,2018-03-01,22:20:00,Michigan,,"Wayne County, Washtenaw County, Oakland County, Macomb County, Monroe County;",,FAILED
+1038,714,Severe Weather,2018-03-02,17:00:00,"Maryland, Delaware",,,,FAILED
+1039,715,Severe Weather,2018-03-02,15:10:00,Ohio,,,,FAILED
+1040,716,Severe Weather,2018-03-02,11:34:00,New York,,,,FAILED
+1041,719,Severe Weather,2018-03-02,13:51:00,Pennsylvania,,,,FAILED
+1042,720,Severe Weather,2018-03-02,11:58:00,Pennsylvania,,"Berks County, Bucks County, Carbon County, Chester County, Clinton County, Columbia County, Cumberland County, Dauphin County, Juniata County, Lackawanna County, Lancaster County, Lebanon County, Lehigh County, Luzerne County, Lycoming County, Monroe County, Montgomery County, Montour County, Northampton County, Northumberland County, Pike County, Schuylkill County, Snyder County;",,FAILED
+1043,717,Severe Weather,2018-03-02,15:46:00,New York,,"New York County, Westchester County;",,FAILED
+1044,725,Severe Weather,2018-03-02,8:00:00,"West Virginia, Virginia",,,,FAILED
+1045,724,Severe Weather,2018-03-02,8:42:00,New York,,,,FAILED
+1046,718,Severe Weather,2018-03-02,13:51:00,"Massachusetts, Connecticut, Rhode Island",,,,FAILED
+1047,722,Severe Weather,2018-03-02,7:00:00,New York,,"Dutchess County, Orange County, Greene County, Ulster County, Putnam County, Sullivan County, Albany County, Columbia County;",,FAILED
+1048,721,Severe Weather,2018-03-02,12:00:00,Pennsylvania,,,,FAILED
+1049,723,Severe Weather,2018-03-02,12:00:00,Maryland,,,,FAILED
+1050,726,Severe Weather,2018-03-07,16:10:00,New Jersey,,,,FAILED
+1051,727,Severe Weather,2018-03-07,17:15:00,New Jersey,,,,FAILED
+1052,728,Severe Weather,2018-03-07,12:00:00,Pennsylvania,,,,FAILED
+1053,729,Severe Weather,2018-03-07,19:37:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1054,730,Severe Weather,2018-03-13,8:50:00,"Massachusetts, Rhode Island",,,,FAILED
+1055,731,Severe Weather,2018-03-19,23:29:00,"Alabama, Georgia",,,,FAILED
+1056,732,Severe Weather,2018-03-20,19:00:00,New Jersey,,"Atlantic County, Camden County, Cape May County, Gloucester County, Salem County, Cumberland County, Burlington County;",,FAILED
+1057,733,Severe Weather,2018-03-24,22:30:00,"West Virginia, Virginia",,,,FAILED
+1058,734,Severe Weather,2018-04-04,16:42:00,New York,,,,FAILED
+1059,735,Severe Weather,2018-04-05,0:50:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1060,736,Severe Weather,2018-04-14,9:30:00,"Texas, Arkansas, Louisiana, Mississippi",,,,FAILED
+1061,737,Severe Weather,2018-04-15,7:30:00,Michigan,,,,FAILED
+1062,738,Severe Weather,2018-04-15,17:14:00,"North Carolina, South Carolina",,,,FAILED
+1063,739,Severe Weather,2018-05-04,14:00:00,Michigan,,"Calhoun County, Genesee County, Ingham County, Kent County, Macomb County, Midland County, Saginaw County, Gratiot County;",,FAILED
+1064,740,Severe Weather,2018-05-04,12:00:00,Michigan,,,,FAILED
+1065,741,Severe Weather,2018-05-04,20:10:00,New York,,,,FAILED
+1066,742,Severe Weather,2018-05-04,23:10:00,"New Hampshire, Vermont",,,,FAILED
+1067,743,Severe Weather,2018-05-05,4:30:00,"New Hampshire, Maine, Vermont",,,,FAILED
+1068,744,Severe Weather,2018-05-14,19:08:00,Virginia,,,,FAILED
+1069,749,Severe Weather,2018-05-15,18:35:00,"Massachusetts, Connecticut, Rhode Island",,,,FAILED
+1070,747,Severe Weather,2018-05-15,17:25:00,New Jersey,,,,FAILED
+1071,746,Severe Weather,2018-05-15,16:00:00,New York,,"Dutchess County, Ulster County, Orange County;",,FAILED
+1072,745,Severe Weather,2018-05-15,14:50:00,Pennsylvania,,"Lehigh County, Schuylkill County, Cumberland County, Lancaster County, Northampton County, Berks County, Clinton County, Susquehanna County, Bucks County, Carbon County, Chester County, Columbia County, Juniata County;",,FAILED
+1073,748,Severe Weather,2018-05-15,18:14:00,Pennsylvania,,,,FAILED
+1074,750,Severe Weather,2018-05-15,17:15:00,New York,,,,FAILED
+1075,751,Severe Weather,2018-05-17,1:11:00,California,,Contra Costa County;,,FAILED
+1076,752,Severe Weather,2018-05-26,18:40:00,Texas,,Harris County;,,FAILED
+1077,753,Severe Weather,2018-06-02,5:00:00,"Missouri, Kansas",,,,FAILED
+1078,754,Severe Weather,2018-06-18,18:20:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1079,755,Severe Weather,2018-06-22,14:38:00,Washington,,,,FAILED
+1080,756,Severe Weather,2018-06-28,18:36:00,"Illinois, Missouri",,,,FAILED
+1081,757,Severe Weather,2018-06-28,14:50:00,"Alabama, Georgia",,,,FAILED
+1082,758,Severe Weather,2018-06-29,7:35:00,Minnesota,,St. Louis County;,,FAILED
+1083,1993,Severe Weather/Transmission Interruption,2018-07-18,17:28:00,Oregon,,TRUE,,FAILED
+1084,759,Severe Weather,2018-07-20,16:19:00,Kentucky,,,,FAILED
+1085,761,Severe Weather,2018-07-21,7:20:00,Georgia,,,,FAILED
+1086,760,Severe Weather,2018-07-21,4:45:00,Arkansas,,,,FAILED
+1087,1998,Severe Weather/Transmission Interruption,2018-07-23,4:16:00,Florida,Pinellas County;,TRUE,,FAILED
+1088,2000,Severe Weather/Transmission Interruption,2018-07-27,16:28:00,New York,New York County;,TRUE,,FAILED
+1089,2003,Natural Disaster,2018-07-29,14:33:00,California,,TRUE,,FAILED
+1090,762,Severe Weather,2018-07-30,6:30:00,Arizona,,Maricopa County;,,FAILED
+1091,2006,Natural Disaster,2018-08-07,1:22:00,California,Butte County;,TRUE,,FAILED
+1092,2005,Natural Disaster,2018-08-07,1:22:00,California,Butte County;,TRUE,,FAILED
+1093,763,Severe Weather,2018-08-26,22:00:00,Michigan,,"Muskegon County, Newaygo County, Oceana County, Mason County, Kent County, Mecosta County, Montcalm County, Isabella County, Midland County, Saginaw County;",,FAILED
+1094,764,Severe Weather,2018-08-28,20:00:00,Michigan,,"Benzie County, Barry County, Grand Traverse County, Kalkaska County, Mason County, Oceana County, Muskegon County, Kent County, Newaygo County, Montcalm County, Mecosta County, Antrim County, Eaton County, Ionia County, Isabella County, Clare County, Saginaw County;",,FAILED
+1095,765,Severe Weather,2018-08-29,0:00:00,Illinois,,,,FAILED
+1096,2014,Natural Disaster/Transmission Interruption,2018-08-31,15:07:00,Oregon,,TRUE,,FAILED
+1097,766,Severe Weather,2018-09-13,20:56:00,"North Carolina, South Carolina",,,,FAILED
+1098,767,Severe Weather,2018-09-13,20:30:00,North Carolina,,,,FAILED
+1099,768,Severe Weather,2018-09-15,1:05:00,South Carolina,,"Horry County, Chesterfield County, Dillon County, Georgetown County, Marlboro County, Darlington County;",,FAILED
+1100,769,Severe Weather,2018-09-16,8:00:00,"North Carolina, South Carolina",,,,FAILED
+1101,771,Severe Weather,2018-10-10,16:00:00,Florida,,,,FAILED
+1102,770,Severe Weather,2018-10-10,11:59:00,"Alabama, Georgia, Florida",,,,FAILED
+1103,772,Severe Weather,2018-10-10,14:00:00,Florida,,,,FAILED
+1104,773,Severe Weather,2018-10-11,16:42:00,"North Carolina, South Carolina",,,,FAILED
+1105,776,Severe Weather,2018-10-11,7:21:00,South Carolina,,,,FAILED
+1106,775,Severe Weather,2018-10-11,13:15:00,"North Carolina, South Carolina",,,,FAILED
+1107,774,Severe Weather,2018-10-11,18:55:00,North Carolina,,,,FAILED
+1108,777,Severe Weather,2018-10-16,4:15:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1109,778,Severe Weather,2018-10-21,0:16:00,"West Virginia, Virginia",,,,FAILED
+1110,779,Severe Weather,2018-10-31,19:30:00,Texas,,Harris County;,,FAILED
+1111,780,Severe Weather,2018-11-03,17:20:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1112,781,Severe Weather,2018-11-06,9:49:00,Tennessee,,,,FAILED
+1113,785,Severe Weather,2018-11-15,5:38:00,"Kentucky, Ohio",,,,FAILED
+1114,782,Severe Weather,2018-11-15,10:50:00,"West Virginia, Virginia",,,,FAILED
+1115,783,Severe Weather,2018-11-15,3:23:00,Kentucky,,,,FAILED
+1116,784,Severe Weather,2018-11-15,5:28:00,Indiana,,,,FAILED
+1117,786,Severe Weather,2018-11-25,22:30:00,Illinois,,"Will County, DuPage County, Kane County, McHenry County, Winnebago County, Ogle County, DeKalb County, Lee County, Grundy County, Lake County, Cook County, Livingston County, Stephenson County, LaSalle County, Kankakee County, Kendall County, Boone County;",,FAILED
+1118,787,Severe Weather,2018-11-27,8:00:00,"New Hampshire, Maine, Vermont",,,,FAILED
+1119,2044,Severe Weather/Transmission Interruption,2018-12-09,3:35:00,North Carolina,,TRUE,,FAILED
+1120,789,Severe Weather,2018-12-09,0:23:00,"Alabama, Georgia",,,,FAILED
+1121,788,Severe Weather,2018-12-09,8:41:00,North Carolina,,,,FAILED
+1122,791,Severe Weather,2018-12-14,18:00:00,Washington,,Snohomish County;,,FAILED
+1123,790,Severe Weather,2018-12-14,16:00:00,Washington,,"King County, Kitsap County, Island County, Pierce County, Thurston County, Whatcom County, Skagit County, Kittitas County;",,FAILED
+1124,792,Severe Weather,2018-12-20,9:30:00,Washington,,"Skagit County, Snohomish County, King County, Kitsap County, Island County;",,FAILED
+1125,795,Severe Weather,2019-01-06,1:00:00,Washington,,"King County, Thurston County, Pierce County;",,FAILED
+1126,794,Severe Weather,2019-01-06,17:56:00,California,,Sacramento County;,,FAILED
+1127,793,Severe Weather,2019-01-06,3:00:00,Washington,,,,FAILED
+1128,797,Severe Weather,2019-01-12,11:30:00,"Nebraska, Missouri",,,,FAILED
+1129,796,Severe Weather,2019-01-12,11:30:00,"Missouri, Kansas",,,,FAILED
+1130,798,Severe Weather,2019-01-13,5:30:00,"North Carolina, South Carolina",,,,FAILED
+1131,799,Severe Weather,2019-01-16,17:26:00,California,,,,FAILED
+1132,801,Severe Weather,2019-01-30,7:00:00,Illinois,,Pike County;,,FAILED
+1133,800,Severe Weather,2019-01-30,9:30:00,Michigan,,,,FAILED
+1134,802,Severe Weather,2019-02-05,18:17:00,California,,,,FAILED
+1135,2066,Severe Weather/Transmission Interruption,2019-02-07,7:39:00,Arkansas,,TRUE,,FAILED
+1136,803,Severe Weather,2019-02-07,8:55:00,Michigan,,,,FAILED
+1137,804,Severe Weather,2019-02-08,18:30:00,Washington,,,,FAILED
+1138,805,Severe Weather,2019-02-13,2:48:00,California,,,,FAILED
+1139,2068,Severe Weather/Transmission Interruption,2019-02-23,14:05:00,Virginia,,TRUE,,FAILED
+1140,810,Severe Weather,2019-02-24,14:33:00,Pennsylvania,,,,FAILED
+1141,811,Severe Weather,2019-02-24,20:02:00,Michigan,,,,FAILED
+1142,809,Severe Weather,2019-02-24,12:31:00,Ohio,,,,FAILED
+1143,806,Severe Weather,2019-02-24,18:00:00,Pennsylvania,,,,FAILED
+1144,807,Severe Weather,2019-02-24,11:21:00,"West Virginia, Ohio, Virginia",,,,FAILED
+1145,808,Severe Weather,2019-02-24,18:47:00,Pennsylvania,,,,FAILED
+1146,812,Severe Weather,2019-02-25,13:35:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1147,2074,Severe Weather/Transmission Interruption,2019-03-13,15:51:00,Texas,,TRUE,,FAILED
+1148,813,Severe Weather,2019-03-13,11:29:00,Colorado,,Jefferson County;,,FAILED
+1149,814,Severe Weather,2019-03-13,5:50:00,Texas,,"Midland County, Ector County, Tarrant County, Dallas County, Wichita County, Brown County;",,FAILED
+1150,2075,Severe Weather/Transmission Interruption,2019-03-13,15:00:00,"Texas, Oklahoma, Kansas",,TRUE,,FAILED
+1151,815,Severe Weather,2019-04-07,13:46:00,Texas,,,,FAILED
+1152,816,Severe Weather,2019-04-13,18:15:00,"Texas, Arkansas, Louisiana, Mississippi",,,,FAILED
+1153,817,Severe Weather,2019-04-15,4:35:00,Virginia,,,,FAILED
+1154,818,Severe Weather,2019-04-18,19:55:00,"Alabama, Georgia, Mississippi, Florida",,,,FAILED
+1155,2090,Severe Weather/Transmission Interruption,2019-04-26,15:16:00,Massachusetts,Hampden County[13];,TRUE,,FAILED
+1156,819,Severe Weather,2019-04-26,17:46:00,"North Carolina, South Carolina",,,,FAILED
+1157,2095,Severe Weather/Distribution Interruption,2019-05-08,15:50:00,"Texas, Louisiana",,TRUE,,FAILED
+1158,2096,Severe Weather/Transmission Interruption,2019-05-09,19:06:00,Texas,Harris County;,TRUE,,FAILED
+1159,820,Severe Weather,2019-05-09,17:55:00,Texas,,Harris County;,,FAILED
+1160,821,Severe Weather,2019-05-10,2:00:00,Texas,,,,FAILED
+1161,822,Severe Weather,2019-05-18,15:45:00,Texas,,"Ector County, Midland County, Tarrant County, Dallas County, Stephens County, Anderson County, McLennan County, Ellis County, Hunt County, Young County, Bell County, Limestone County, Collin County, Rockwall County, Henderson County, Parker County, Falls County, Freestone County, Kaufman County, Grayson County, Smith County;",,FAILED
+1162,2098,Severe Weather/Transmission Interruption,2019-05-23,1:11:00,Indiana,,TRUE,,FAILED
+1163,823,Severe Weather,2019-05-23,16:55:00,Virginia,,,,FAILED
+1164,824,Severe Weather,2019-05-24,21:47:00,California,,,,FAILED
+1165,2101,Severe Weather/Transmission Interruption,2019-05-27,22:07:00,Ohio,"Montgomery County, Darke County, Mercer County, Miami County, Greene County;",TRUE,,FAILED
+1166,2102,Severe Weather/Transmission Interruption,2019-06-02,18:19:00,California,,TRUE,,FAILED
+1167,825,Severe Weather,2019-06-06,18:09:00,Texas,,Bexar County;,,FAILED
+1168,826,Severe Weather,2019-06-09,14:45:00,Texas,,"Collin County, Dallas County, Denton County, Palo Pinto County, Tarrant County, Ellis County, Williamson County;",,FAILED
+1169,2107,Severe Weather/Transmission Interruption,2019-06-16,3:25:00,Oklahoma,,TRUE,,FAILED
+1170,827,Severe Weather,2019-06-16,2:00:00,Texas,,"Dallas County, Tarrant County, Collin County, Denton County;",,FAILED
+1171,828,Severe Weather,2019-06-19,22:30:00,Arkansas,,,,FAILED
+1172,829,Severe Weather,2019-06-20,16:11:00,Virginia,,,,FAILED
+1173,830,Severe Weather,2019-06-21,19:15:00,"Kentucky, Tennessee",,,,FAILED
+1174,831,Severe Weather,2019-06-22,20:46:00,"Alabama, Georgia",,,,FAILED
+1175,832,Severe Weather,2019-06-23,22:00:00,Texas,,"Dallas County, Denton County, Ellis County, Collin County, Ellis County, Hood County, Johnson County, Kaufman County;",,FAILED
+1176,833,Severe Weather,2019-06-24,5:30:00,Arkansas,,,,FAILED
+1177,834,Severe Weather,2019-06-30,15:15:00,New York,,"Nassau County, Suffolk County;",,FAILED
+1178,835,Severe Weather,2019-06-30,15:30:00,Illinois,,"Cook County, DeKalb County, DuPage County, Grundy County, Iroquois County, Ford County, Lake County, Kendall County, Kankakee County, Kane County, Ogle County;",,FAILED
+1179,836,Severe Weather,2019-07-10,12:10:00,Texas,,"Collin County, Dallas County, Denton County, Hood County, Johnson County, Tarrant County;",,FAILED
+1180,837,Severe Weather,2019-07-13,23:55:00,Louisiana,,"Acadia Parish, Avoyelles Parish, Catahoula Parish, Evangeline Parish, Grant Parish, Iberia Parish, LaSalle Parish, Natchitoches Parish, Rapides Parish, Sabine Parish, St. Landry Parish, St. Martin Parish, St. Mary Parish, St. Tammany Parish, Allen Parish, Beauregard Parish, Calcasieu Parish, Vermilion Parish, De Soto Parish, Jefferson Davis Parish, Red River Parish, Tangipahoa Parish, Vernon Parish, Washington Parish;",,FAILED
+1181,838,Severe Weather,2019-07-13,7:15:00,Louisiana,,,,FAILED
+1182,839,Severe Weather,2019-07-19,19:00:00,Michigan,,,,FAILED
+1183,841,Severe Weather,2019-07-20,3:00:00,Michigan,,"Kent County, Newaygo County, Mecosta County, Montcalm County, Isabella County, Ionia County, Allegan County, Barry County;",,FAILED
+1184,840,Severe Weather,2019-07-20,11:55:00,"Michigan, Wisconsin",,,,FAILED
+1185,842,Severe Weather,2019-07-21,23:00:00,New York,,"Kings County, New York County, Queens County, Bronx County, Westchester County, Richmond County;",,FAILED
+1186,844,Severe Weather,2019-07-22,17:50:00,New Jersey,,Gloucester County;,,FAILED
+1187,843,Severe Weather,2019-07-22,16:00:00,Pennsylvania,,"Bucks County, Delaware County;",,FAILED
+1188,845,Severe Weather,2019-07-23,15:39:00,Massachusetts,,,,FAILED
+1189,2123,Severe Weather/Transmission Interruption,2019-07-30,8:45:00,Louisiana,,TRUE,,FAILED
+1190,2128,Severe Weather/Transmission Interruption,2019-08-08,16:16:00,Ohio,,TRUE,,FAILED
+1191,846,Severe Weather,2019-08-13,15:10:00,Texas,,Williamson County;,,FAILED
+1192,847,Severe Weather,2019-08-15,15:11:00,Texas,,,,FAILED
+1193,848,Severe Weather,2019-08-26,19:00:00,Oklahoma,,,,FAILED
+1194,2141,Severe Weather/Transmission Interruption,2019-08-26,19:00:00,Oklahoma,,TRUE,,FAILED
+1195,849,Severe Weather,2019-09-04,14:30:00,Texas,,,,FAILED
+1196,850,Severe Weather,2019-09-05,22:00:00,North Carolina,,,,FAILED
+1197,851,Severe Weather,2019-09-05,22:36:00,"North Carolina, South Carolina",,,,FAILED
+1198,852,Severe Weather,2019-09-05,4:15:00,South Carolina,,,,FAILED
+1199,853,Severe Weather,2019-09-06,8:20:00,North Carolina,,,,FAILED
+1200,854,Severe Weather,2019-09-11,22:35:00,Michigan,,"Ionia County, Kent County, Barry County, Montcalm County, Allegan County, Ottawa County, Newaygo County;",,FAILED
+1201,855,Severe Weather,2019-09-25,3:47:00,California,,"Napa County, Nevada County, Placer County, Plumas County, Sonoma County, Butte County, Yuba County;",,FAILED
+1202,2158,Severe Weather/Transmission Interruption,2019-10-09,0:27:00,California,,TRUE,,FAILED
+1203,856,Severe Weather,2019-10-17,0:45:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1204,857,Severe Weather,2019-10-20,22:15:00,Texas,,"Cass County, Cameron County, Collin County, Dallas County, Ellis County, Erath County, Hunt County, Kaufman County, Lamar County, Panola County, Rains County, Rockwall County, Rusk County, Tarrant County, Van Zandt County, Wood County;",,FAILED
+1205,2169,Severe Weather/Transmission Interruption,2019-10-23,14:36:00,California,,TRUE,,FAILED
+1206,2173,Severe Weather/Transmission Interruption,2019-10-26,18:20:00,California,,TRUE,,FAILED
+1207,858,Severe Weather,2019-10-26,5:15:00,Louisiana,,,,FAILED
+1208,859,Severe Weather,2019-10-26,18:00:00,Tennessee,,,,FAILED
+1209,2176,Severe Weather/Distribution Interruption,2019-10-30,6:32:00,California,"Los Angeles County, Orange County, Riverside County, San Bernardino County, Ventura County, Kern County;",TRUE,,FAILED
+1210,2177,Severe Weather/Distribution Interruption,2019-10-31,22:00:00,Pennsylvania,,TRUE,,FAILED
+1211,860,Severe Weather,2019-11-01,1:00:00,New York,,,,FAILED
+1212,861,Severe Weather,2019-11-01,1:15:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1213,862,Severe Weather,2019-11-01,2:41:00,New York,,Broome County;,,FAILED
+1214,2184,Severe Weather/Transmission Interruption,2019-11-20,9:49:00,California,"Colusa County, Lake County, Mendocino County, Napa County, Solano County, Sonoma County, Yolo County, Shasta County, Tehama County;",TRUE,,FAILED
+1215,863,Severe Weather,2019-11-26,18:07:00,California,,,,FAILED
+1216,864,Severe Weather,2019-11-27,12:00:00,Michigan,,"Tuscola County, Sanilac County, Huron County, St. Clair County, Macomb County, Oakland County, Wayne County, Livingston County, Washtenaw County, Monroe County;",,FAILED
+1217,2201,Severe Weather/Transmission Interruption,2020-01-09,23:07:00,Arkansas,Yell County;,TRUE,,FAILED
+1218,865,Severe Weather,2020-01-11,23:02:00,"North Carolina, South Carolina",,,,FAILED
+1219,866,Severe Weather,2020-01-11,3:30:00,"Texas, Arkansas",,,,FAILED
+1220,867,Severe Weather,2020-01-11,13:20:00,Tennessee,,,,FAILED
+1221,868,Severe Weather,2020-01-11,12:50:00,"Alabama, Georgia, Mississippi",,,,FAILED
+1222,2206,Severe Weather/Transmission Interruption,2020-01-11,2:25:00,Arkansas,Cross County;,TRUE,,FAILED
+1223,2210,Severe Weather/Transmission Interruption,2020-01-17,5:28:00,California,Humboldt County;,TRUE,,FAILED
+1224,2217,Severe Weather/Transmission Interruption,2020-02-06,13:30:00,"North Carolina, South Carolina",,TRUE,,FAILED
+1225,2216,Severe Weather/Distribution Interruption,2020-02-06,14:29:00,North Carolina,,TRUE,,FAILED
+1226,871,Severe Weather,2020-02-07,8:48:00,"North Carolina, Virginia",,,,FAILED
+1227,869,Severe Weather,2020-02-07,16:25:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1228,2218,Severe Weather/Distribution Interruption,2020-02-07,11:00:00,Pennsylvania,,TRUE,,FAILED
+1229,870,Severe Weather,2020-02-07,14:42:00,New York,,,,FAILED
+1230,872,Severe Weather,2020-02-09,9:30:00,California,,"Alameda County, Contra Costa County, El Dorado County, Nevada County, Placer County, Sierra County, Santa Clara County, Napa County, Marin County, Santa Cruz County;",,FAILED
+1231,873,Severe Weather,2020-02-17,4:00:00,California,,,,FAILED
+1232,874,Severe Weather,2020-03-16,12:01:00,California,,,,FAILED
+1233,875,Severe Weather,2020-03-24,2:55:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1234,876,Severe Weather,2020-03-31,11:45:00,"Alabama, Georgia",,,,FAILED
+1235,877,Severe Weather,2020-04-05,15:46:00,California,,Stanislaus County;,,FAILED
+1236,878,Severe Weather,2020-04-08,21:57:00,"Kentucky, Ohio",,,,FAILED
+1237,879,Severe Weather,2020-04-08,22:03:00,Indiana,,,,FAILED
+1238,880,Severe Weather,2020-04-08,1:21:00,Ohio,,,,FAILED
+1239,881,Severe Weather,2020-04-09,19:25:00,Texas,,Harris County;,,FAILED
+1240,882,Severe Weather,2020-04-09,19:40:00,Maine,,,,FAILED
+1241,883,Severe Weather,2020-04-12,20:45:00,Arkansas,,,,FAILED
+1242,884,Severe Weather,2020-04-12,13:00:00,Louisiana,,"Acadia Parish, Iberville Parish, Jefferson Davis Parish, Concordia Parish, Winn Parish, Catahoula Parish, Terrebonne Parish, St. Mary Parish;",,FAILED
+1243,885,Severe Weather,2020-04-12,20:30:00,Arkansas,,,,FAILED
+1244,886,Severe Weather,2020-04-12,21:28:00,"West Virginia, Virginia",,,,FAILED
+1245,887,Severe Weather,2020-04-12,17:00:00,"Alabama, Georgia, Mississippi",,,,FAILED
+1246,888,Severe Weather,2020-04-12,18:13:00,Texas,,,,FAILED
+1247,894,Severe Weather,2020-04-13,7:31:00,"North Carolina, South Carolina",,,,FAILED
+1248,890,Severe Weather,2020-04-13,0:45:00,Tennessee,,Hamilton County;,,FAILED
+1249,891,Severe Weather,2020-04-13,8:08:00,South Carolina,,,,FAILED
+1250,892,Severe Weather,2020-04-13,10:25:00,North Carolina,,,,FAILED
+1251,893,Severe Weather,2020-04-13,13:05:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1252,889,Severe Weather,2020-04-13,3:30:00,"North Carolina, South Carolina",,,,FAILED
+1253,895,Severe Weather,2020-04-20,0:59:00,"Alabama, Georgia, Mississippi, Florida",,,,FAILED
+1254,896,Severe Weather,2020-04-23,4:30:00,"Arkansas, Louisiana, Mississippi",,,,FAILED
+1255,897,Severe Weather,2020-04-23,8:00:00,"Alabama, Georgia, Mississippi, Florida",,,,FAILED
+1256,898,Severe Weather,2020-04-26,1:38:00,Florida,,,,FAILED
+1257,899,Severe Weather,2020-04-29,6:00:00,Louisiana,,,,FAILED
+1258,900,Severe Weather,2020-04-29,5:55:00,Texas,,Harris County;,,FAILED
+1259,901,Severe Weather,2020-04-30,15:00:00,Pennsylvania,,"Bucks County, Chester County, Delaware County, Montgomery County, Philadelphia County, York County;",,FAILED
+1260,902,Severe Weather,2020-05-04,11:59:00,Tennessee,,Davidson County;,,FAILED
+1261,903,Severe Weather,2020-05-15,17:55:00,New York,,Saratoga County;,,FAILED
+1262,904,Severe Weather,2020-05-22,16:35:00,"North Carolina, South Carolina",,,,FAILED
+1263,905,Severe Weather,2020-05-24,16:45:00,Oklahoma,,,,FAILED
+1264,906,Severe Weather,2020-05-27,17:15:00,Texas,,Harris County;,,FAILED
+1265,907,Severe Weather,2020-05-27,17:20:00,Texas,,,,FAILED
+1266,910,Severe Weather,2020-06-03,13:36:00,New Jersey,,,,FAILED
+1267,908,Severe Weather,2020-06-03,13:00:00,New Jersey,,,,FAILED
+1268,909,Severe Weather,2020-06-03,12:30:00,Pennsylvania,,"Bucks County, Chester County, Delaware County, Montgomery County, Philadelphia County, York County;",,FAILED
+1269,911,Severe Weather,2020-06-10,19:30:00,Michigan,,"Oakland County, Macomb County, Wayne County, Sanilac County, Tuscola County, Huron County, Lapeer County, Livingston County, Monroe County;",,FAILED
+1270,913,Severe Weather,2020-06-10,17:24:00,"Kentucky, Indiana, West Virginia, Ohio, Virginia",,,,FAILED
+1271,912,Severe Weather,2020-06-10,12:22:00,Michigan,,"Gratiot County, Lake County, Missaukee County, Benzie County, Leelanau County, Manistee County, Wexford County, Montcalm County, Kent County, Ottawa County, Van Buren County, St. Joseph County, Arenac County, Saginaw County, Calhoun County, Branch County;",,FAILED
+1272,914,Severe Weather,2020-06-27,16:00:00,"Alabama, Georgia",,,,FAILED
+1273,2278,Severe Weather/Transmission Interruption,2020-07-07,19:17:00,"West Virginia, Virginia",Wyoming County;,TRUE,,FAILED
+1274,916,Severe Weather,2020-07-11,21:30:00,Oklahoma,,,,FAILED
+1275,915,Severe Weather,2020-07-11,23:30:00,"Arkansas, Oklahoma",,,,FAILED
+1276,917,Severe Weather,2020-07-12,4:30:00,Texas,,"Collin County, Dallas County, Denton County, Rockwall County, Tarrant County;",,FAILED
+1277,918,Severe Weather,2020-07-19,14:30:00,Michigan,,,,FAILED
+1278,920,Severe Weather,2020-07-25,19:58:00,Texas,,"Nueces County, Kleberg County, Cameron County, Willacy County, Hidalgo County, Starr County, Kenedy County;",,FAILED
+1279,919,Severe Weather,2020-07-25,21:00:00,Texas,,"Hidalgo County, Cameron County, Starr County, Kenedy County, Willacy County, Brooks County, Jim Hogg County;",,FAILED
+1280,921,Severe Weather,2020-08-01,11:14:00,Texas,,"Cameron County, Willacy County, Hidalgo County, Starr County;",,FAILED
+1281,922,Severe Weather,2020-08-01,0:00:00,Texas,,"Cameron County, Hidalgo County, Starr County, Willacy County;",,FAILED
+1282,923,Severe Weather,2020-08-03,23:15:00,"North Carolina, South Carolina",,,,FAILED
+1283,924,Severe Weather,2020-08-03,23:02:00,North Carolina,,,,FAILED
+1284,937,Severe Weather,2020-08-04,10:30:00,New Jersey,,,,FAILED
+1285,935,Severe Weather,2020-08-04,6:01:00,North Carolina,,"Brunswick County, Columbus County, Pender County, Duplin County, Onslow County, Jones County, Craven County, Jones County, Beaufort County, Bertie County, Chowan County, Gates County, Perquimans County;",,FAILED
+1286,934,Severe Weather,2020-08-04,13:31:00,New York,,"Bronx County, Richmond County, Queens County, Kings County, Westchester County, New York County;",,FAILED
+1287,933,Severe Weather,2020-08-04,15:15:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1288,932,Severe Weather,2020-08-04,14:35:00,New York,,Broome County;,,FAILED
+1289,931,Severe Weather,2020-08-04,12:18:00,New Jersey,,,,FAILED
+1290,930,Severe Weather,2020-08-04,4:41:00,Virginia,,,,FAILED
+1291,929,Severe Weather,2020-08-04,14:00:00,New York,,"Dutchess County, Orange County, Ulster County;",,FAILED
+1292,928,Severe Weather,2020-08-04,9:00:00,Delaware,,,,FAILED
+1293,927,Severe Weather,2020-08-04,11:20:00,New Jersey,,,,FAILED
+1294,925,Severe Weather,2020-08-04,12:00:00,"New York, New Jersey",,,,FAILED
+1295,936,Severe Weather,2020-08-04,12:00:00,Pennsylvania,,"Bucks County, Chester County, Delaware County, Montgomery County, Philadelphia County, York County;",,FAILED
+1296,926,Severe Weather,2020-08-04,13:00:00,New York,,"Nassau County, Suffolk County, Queens County;",,FAILED
+1297,938,Severe Weather,2020-08-04,14:35:00,New York,,,,FAILED
+1298,939,Severe Weather,2020-08-07,5:13:00,New York,,"Queens County, New York County;",,FAILED
+1299,940,Severe Weather,2020-08-10,11:00:00,Iowa,,"Webster County, Greene County, Dallas County, Hamilton County, Boone County, Polk County, Hardin County, Story County, Jasper County, Grundy County, Marshall County, Tama County, Poweshiek County, Benton County, Iowa County, Linn County, Johnson County, Jones County, Cedar County, Muscatine County, Jackson County, Clinton County, Scott County;",,FAILED
+1300,941,Severe Weather,2020-08-10,16:00:00,"Illinois, Missouri",,,,FAILED
+1301,942,Severe Weather,2020-08-10,12:49:00,Iowa,,,,FAILED
+1302,944,Severe Weather,2020-08-10,14:30:00,Illinois,,"Cook County, Will County, DuPage County, Lake County, Kane County, Grundy County, LaSalle County, DeKalb County, McHenry County, Lee County;",,FAILED
+1303,945,Severe Weather,2020-08-10,12:38:00,Iowa,,,,FAILED
+1304,946,Severe Weather,2020-08-10,10:00:00,"Illinois, Iowa",,,,FAILED
+1305,943,Severe Weather,2020-08-10,22:39:00,Indiana,,,,FAILED
+1306,947,Severe Weather,2020-08-14,17:15:00,California,,,,FAILED
+1307,948,Severe Weather,2020-08-14,20:00:00,Minnesota,,"Anoka County, Hennepin County, Ramsey County, Washington County;",,FAILED
+1308,949,Severe Weather,2020-08-15,14:53:00,California,,,,FAILED
+1309,950,Severe Weather,2020-08-16,20:00:00,Texas,,"Collin County, Dallas County, Denton County, Tarrant County, Ellis County, Kaufman County, Johnson County, Anderson County, Angelina County, Grayson County, Smith County, Wichita County;",,FAILED
+1310,951,Severe Weather,2020-08-16,3:44:00,California,,,,FAILED
+1311,952,Severe Weather,2020-08-16,17:30:00,California,,,,FAILED
+1312,954,Severe Weather,2020-08-17,15:05:00,California,,,,FAILED
+1313,953,Severe Weather,2020-08-17,8:21:00,California,,Yuba County;,,FAILED
+1314,957,Severe Weather,2020-08-18,14:30:00,Arizona,,,,FAILED
+1315,956,Severe Weather,2020-08-18,13:30:00,California,,,,FAILED
+1316,955,Severe Weather,2020-08-18,14:00:00,Nevada,,,,FAILED
+1317,960,Severe Weather,2020-08-19,12:00:00,California,,,,FAILED
+1318,959,Severe Weather,2020-08-19,14:00:00,Nevada,,,,FAILED
+1319,958,Severe Weather,2020-08-19,14:00:00,Arizona,,Maricopa County;,,FAILED
+1320,961,Severe Weather,2020-08-23,10:30:00,Texas,,,,FAILED
+1321,965,Severe Weather,2020-08-27,12:06:00,Texas,,,,FAILED
+1322,970,Severe Weather,2020-08-27,17:11:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1323,969,Severe Weather,2020-08-27,12:02:00,Texas,,,,FAILED
+1324,964,Severe Weather,2020-08-27,12:44:00,Texas,,,,FAILED
+1325,968,Severe Weather,2020-08-27,7:40:00,"Texas, Louisiana",,,,FAILED
+1326,967,Severe Weather,2020-08-27,1:15:00,"Texas, Louisiana",,,,FAILED
+1327,966,Severe Weather,2020-08-27,7:40:00,"Texas, Louisiana",,,,FAILED
+1328,972,Severe Weather,2020-08-27,12:06:00,Texas,,,,FAILED
+1329,963,Severe Weather,2020-08-27,7:00:00,Louisiana,,Rapides Parish;,,FAILED
+1330,971,Severe Weather,2020-08-27,13:24:00,Texas,,"Montgomery County, Liberty County;",,FAILED
+1331,973,Severe Weather,2020-08-27,3:14:00,Louisiana,,"Calcasieu Parish, Beauregard Parish, Iberia Parish, Acadia Parish, Evangeline Parish, Rapides Parish, St. Landry Parish, Vernon Parish;",,FAILED
+1332,962,Severe Weather,2020-08-27,5:00:00,Louisiana,,,,FAILED
+1333,974,Severe Weather,2020-08-28,16:27:00,"Oregon, Washington",,,,FAILED
+1334,975,Severe Weather,2020-08-29,3:35:00,Texas,,,,FAILED
+1335,976,Severe Weather,2020-09-05,17:20:00,California,,,,FAILED
+1336,977,Severe Weather,2020-09-05,17:25:00,California,,Imperial County;,,FAILED
+1337,978,Severe Weather,2020-09-06,16:00:00,Nevada,,,,FAILED
+1338,979,Severe Weather,2020-09-06,17:00:00,California,,Los Angeles County;,,FAILED
+1339,980,Severe Weather,2020-09-07,18:00:00,Washington,,"Kitsap County, King County, Pierce County;",,FAILED
+1340,2323,Natural Disaster,2020-09-07,9:13:00,Washington,,TRUE,,FAILED
+1341,981,Severe Weather,2020-09-07,19:05:00,Oregon,,"Multnomah County, Washington County, Clackamas County, Marion County, Yamhill County, Polk County;",,FAILED
+1342,2326,Natural Disaster,2020-09-09,11:22:00,Idaho,,TRUE,,FAILED
+1343,2327,Severe Weather/Transmission Interruption,2020-09-15,22:00:00,"Alabama, Georgia, Mississippi, Florida",,TRUE,,FAILED
+1344,982,Severe Weather,2020-09-16,3:00:00,Alabama,,Baldwin County;,,FAILED
+1345,983,Severe Weather,2020-09-30,5:55:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1346,984,Severe Weather,2020-10-07,16:00:00,New York,,Onondaga County;,,FAILED
+1347,985,Severe Weather,2020-10-07,18:50:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1348,986,Severe Weather,2020-10-09,20:00:00,Louisiana,,,,FAILED
+1349,987,Severe Weather,2020-10-09,19:50:00,Louisiana,,"Acadia Parish, Beauregard Parish, Calcasieu Parish, Evangeline Parish, Iberia Parish, Rapides Parish, Vernon Parish, Avoyelles Parish, Grant Parish, Natchitoches Parish, St. Landry Parish, St. Mary Parish, St. Tammany Parish;",,FAILED
+1350,988,Severe Weather,2020-10-09,17:30:00,"Texas, Arkansas, Louisiana, Mississippi",,,,FAILED
+1351,989,Severe Weather,2020-10-09,20:00:00,Louisiana,,Lafayette Parish;,,FAILED
+1352,990,Severe Weather,2020-10-10,2:22:00,Louisiana,,Lafayette Parish;,,FAILED
+1353,991,Severe Weather,2020-10-13,13:14:00,Washington,,"Whatcom County, King County, Pierce County, Thurston County, Kittitas County, Kitsap County;",,FAILED
+1354,992,Severe Weather,2020-10-23,15:46:00,Texas,,Harris County;,,FAILED
+1355,993,Severe Weather,2020-10-25,14:32:00,California,,,,FAILED
+1356,994,Severe Weather,2020-10-26,13:00:00,Oklahoma,,"Oklahoma County, Canadian County, Logan County, Cleveland County, Pottawatomie County;",,FAILED
+1357,995,Severe Weather,2020-10-26,11:24:00,California,,"Los Angeles County, Riverside County, San Bernardino County, Orange County, Kern County, Ventura County;",,FAILED
+1358,996,Severe Weather,2020-10-27,17:50:00,Oklahoma,,,,FAILED
+1359,998,Severe Weather,2020-10-28,18:00:00,Louisiana,,,,FAILED
+1360,999,Severe Weather,2020-10-28,10:28:00,Texas,,,,FAILED
+1361,997,Severe Weather,2020-10-28,21:37:00,"Alabama, Georgia, Mississippi, Florida",,,,FAILED
+1362,1000,Severe Weather,2020-10-28,17:12:00,Louisiana,,"St. Tammany Parish, St. Mary Parish;",,FAILED
+1363,1001,Severe Weather,2020-10-29,8:15:00,"North Carolina, South Carolina",,,,FAILED
+1364,1002,Severe Weather,2020-10-29,2:00:00,"Alabama, Washington, Florida",,,,FAILED
+1365,1003,Severe Weather,2020-11-01,18:00:00,Ohio,,,,FAILED
+1366,1005,Severe Weather,2020-11-15,14:52:00,Ohio,,,,FAILED
+1367,1009,Severe Weather,2020-11-15,11:30:00,"Indiana, West Virginia, Ohio, Virginia",,,,FAILED
+1368,1008,Severe Weather,2020-11-15,23:05:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1369,1007,Severe Weather,2020-11-15,15:37:00,Michigan,,"Iosco County, Oscoda County, Ogemaw County, Livingston County, Ionia County, Barry County;",,FAILED
+1370,1006,Severe Weather,2020-11-15,12:30:00,Michigan,,"Huron County, Livingston County, Macomb County, Monroe County, Wayne County, Washtenaw County, Tuscola County, St. Clair County, Lapeer County, Oakland County;",,FAILED
+1371,1004,Severe Weather,2020-11-15,15:08:00,Ohio,,,,FAILED
+1372,1010,Severe Weather,2020-11-30,16:24:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1373,1011,Severe Weather,2020-12-01,12:32:00,Ohio,,,,FAILED
+1374,1012,Severe Weather,2020-12-03,0:44:00,California,,San Diego County;,,FAILED
+1375,1013,Severe Weather,2020-12-03,10:57:00,California,,"Kern County, Los Angeles County, Orange County, Riverside County, San Bernardino County, San Diego County, Tulare County, Ventura County;",,FAILED
+1376,1014,Severe Weather,2020-12-05,16:40:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1377,1015,Severe Weather,2020-12-07,18:10:00,California,,"Kern County, Los Angeles County, Orange County, Riverside County, San Bernardino County, Ventura County, Tulare County;",,FAILED
+1378,1016,Severe Weather,2020-12-17,8:07:00,California,,,,FAILED
+1379,2377,Severe Weather/Distribution Interruption,2020-12-24,23:40:00,Pennsylvania,"Bucks County, Chester County, Delaware County, Montgomery County, Philadelphia County, York County;",TRUE,,FAILED
+1380,1017,Severe Weather,2020-12-25,7:55:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1381,1018,Severe Weather,2021-01-10,22:44:00,Texas,,"Anderson County, Angelina County, Dallas County, Freestone County, Henderson County, Houston County, Leon County, Nacogdoches County, Smith County, Tarrant County;",,FAILED
+1382,2381,Severe Weather/Distribution Interruption,2021-01-11,5:00:00,"Texas, Louisiana",,TRUE,,FAILED
+1383,2383,Severe Weather/Transmission Interruption,2021-01-12,20:30:00,Washington,Snohomish County;,TRUE,,FAILED
+1384,2382,Severe Weather/Distribution Interruption,2021-01-12,23:49:00,Washington,,TRUE,,FAILED
+1385,1019,Severe Weather,2021-01-12,23:50:00,Washington,,"Kitsap County, Thurston County, King County, Pierce County, Skagit County, Whatcom County;",,FAILED
+1386,1020,Severe Weather,2021-01-12,20:46:00,Oregon,,"Clackamas County, Multnomah County, Washington County;",,FAILED
+1387,1021,Severe Weather,2021-01-13,3:43:00,"Idaho, Washington",,,,FAILED
+1388,1022,Severe Weather,2021-01-19,9:31:00,California,,"Kern County, Los Angeles County, Riverside County, San Bernardino County, Ventura County, Orange County;",,FAILED
+1389,1023,Severe Weather,2021-01-19,2:48:00,California,,,,FAILED
+1390,1024,Severe Weather,2021-01-26,20:49:00,California,,,,FAILED
+1391,2390,Severe Weather/Transmission Interruption,2021-02-02,9:25:00,South Dakota,Hughes County;,TRUE,,FAILED
+1392,2389,Severe Weather/Transmission Interruption,2021-02-02,12:34:00,South Dakota,Hughes County;,TRUE,,FAILED
+1393,1025,Severe Weather,2021-02-10,15:00:00,Texas,,,,FAILED
+1394,1026,Severe Weather,2021-02-12,21:00:00,Oregon,,"Clackamas County, Marion County, Polk County, Multnomah County, Washington County, Yamhill County;",,FAILED
+1395,1029,Severe Weather,2021-02-13,13:30:00,"West Virginia, Virginia",,,,FAILED
+1396,1027,Severe Weather,2021-02-13,9:56:00,Washington,,Lewis County;,,FAILED
+1397,1030,Severe Weather,2021-02-13,8:32:00,"North Carolina, South Carolina",,,,FAILED
+1398,1028,Severe Weather,2021-02-13,13:30:00,Texas,,,,FAILED
+1399,1036,Severe Weather,2021-02-14,19:05:00,"Missouri, Kansas",,,,FAILED
+1400,1031,Severe Weather,2021-02-14,8:30:00,Texas,,,,FAILED
+1401,1032,Severe Weather,2021-02-14,8:30:00,Texas,,,,FAILED
+1402,1033,Severe Weather,2021-02-14,5:30:00,Oklahoma,,,,FAILED
+1403,1034,Severe Weather,2021-02-14,20:21:00,"Texas, Arkansas, Louisiana, Oklahoma",,,,FAILED
+1404,1038,Severe Weather,2021-02-14,18:00:00,Missouri,,Jasper County;,,FAILED
+1405,1037,Severe Weather,2021-02-14,20:32:00,Nebraska,,Lancaster County;,,FAILED
+1406,1035,Severe Weather,2021-02-14,20:00:00,"Nebraska, Texas, South Dakota, Oklahoma, North Dakota, Kansas",,,,FAILED
+1407,1056,Severe Weather,2021-02-15,6:45:00,"Texas, Arkansas",,,,FAILED
+1408,1057,Severe Weather,2021-02-15,5:00:00,Arkansas,,Pulaski County;,,FAILED
+1409,1058,Severe Weather,2021-02-15,17:00:00,Mississippi,,,,FAILED
+1410,1059,Severe Weather,2021-02-15,7:52:00,Texas,,"Austin County, Bastrop County, Burleson County, Caldwell County, Colorado County, Fayette County, Gonzales County, Guadalupe County, Hays County, Lee County, Milam County, Travis County, Washington County, Williamson County;",,FAILED
+1411,1047,Severe Weather,2021-02-15,2:51:00,Texas,,Travis County;,,FAILED
+1412,1060,Severe Weather,2021-02-15,6:51:00,Oklahoma,,,,FAILED
+1413,1061,Severe Weather,2021-02-15,18:00:00,Texas,,,,FAILED
+1414,1062,Severe Weather,2021-02-15,1:20:00,Texas,,,,FAILED
+1415,1063,Severe Weather,2021-02-15,12:18:00,"Missouri, Kansas",,,,FAILED
+1416,1064,Severe Weather,2021-02-15,9:10:00,Texas,,Randall County;,,FAILED
+1417,1065,Severe Weather,2021-02-15,5:36:00,Texas,,,,FAILED
+1418,1066,Severe Weather,2021-02-15,0:00:00,Texas,,,,FAILED
+1419,1048,Severe Weather,2021-02-15,1:54:00,Texas,,Travis County;,,FAILED
+1420,1055,Severe Weather,2021-02-15,5:40:00,Texas,,,,FAILED
+1421,1054,Severe Weather,2021-02-15,18:00:00,Texas,,,,FAILED
+1422,1052,Severe Weather,2021-02-15,8:50:00,Kansas,,,,FAILED
+1423,1043,Severe Weather,2021-02-15,13:00:00,Texas,,,,FAILED
+1424,1051,Severe Weather,2021-02-15,1:23:00,Texas,,,,FAILED
+1425,1050,Severe Weather,2021-02-15,5:27:00,Texas,,,,FAILED
+1426,1049,Severe Weather,2021-02-15,3:06:00,Texas,,Bexar County;,,FAILED
+1427,1039,Severe Weather,2021-02-15,1:20:00,Texas,,"Hidalgo County, Cameron County;",,FAILED
+1428,1040,Severe Weather,2021-02-15,1:20:00,Texas,,Harris County;,,FAILED
+1429,1041,Severe Weather,2021-02-15,0:00:00,Texas,,,,FAILED
+1430,1042,Severe Weather,2021-02-15,5:36:00,Texas,,,,FAILED
+1431,1053,Severe Weather,2021-02-15,10:24:00,Texas,,Lubbock County;,,FAILED
+1432,1044,Severe Weather,2021-02-15,1:54:00,Texas,,,,FAILED
+1433,1045,Severe Weather,2021-02-15,1:20:00,Texas,,,,FAILED
+1434,1046,Severe Weather,2021-02-15,15:00:00,Louisiana,,,,FAILED
+1435,1076,Severe Weather,2021-02-16,17:35:00,Louisiana,,Lafayette Parish;,,FAILED
+1436,1077,Severe Weather,2021-02-16,1:00:00,Kentucky,,,,FAILED
+1437,1075,Severe Weather,2021-02-16,7:17:00,Texas,,,,FAILED
+1438,1079,Severe Weather,2021-02-16,6:48:00,"Texas, Louisiana",,,,FAILED
+1439,2415,Severe Weather/Transmission Interruption,2021-02-16,6:10:00,Missouri,,TRUE,,FAILED
+1440,1078,Severe Weather,2021-02-16,7:22:00,Louisiana,,"Allen Parish, St. Landry Parish, Evangeline Parish;",,FAILED
+1441,1074,Severe Weather,2021-02-16,19:40:00,Texas,,,,FAILED
+1442,1080,Severe Weather,2021-02-16,4:26:00,Texas,,,,FAILED
+1443,1072,Severe Weather,2021-02-16,5:30:00,"Illinois, Texas, Louisiana",,,,FAILED
+1444,1067,Severe Weather,2021-02-16,7:03:00,"Missouri, Kansas",,,,FAILED
+1445,1068,Severe Weather,2021-02-16,6:48:00,Louisiana,,,,FAILED
+1446,1073,Severe Weather,2021-02-16,19:43:00,"Texas, Arkansas, Louisiana, Mississippi",,,,FAILED
+1447,1070,Severe Weather,2021-02-16,17:35:00,Mississippi,,,,FAILED
+1448,1069,Severe Weather,2021-02-16,16:40:00,Missouri,,,,FAILED
+1449,1071,Severe Weather,2021-02-16,7:20:00,Nebraska,,"Douglas County, Burt County, Washington County, Dodge County, Colfax County, Saunders County, Sarpy County, Cass County, Otoe County, Johnson County, Nemaha County, Pawnee County, Richardson County;",,FAILED
+1450,1083,Severe Weather,2021-02-17,17:00:00,Louisiana,,Lafayette Parish;,,FAILED
+1451,1081,Severe Weather,2021-02-17,18:00:00,Texas,,,,FAILED
+1452,1082,Severe Weather,2021-02-17,17:00:00,Mississippi,,,,FAILED
+1453,1084,Severe Weather,2021-02-19,6:48:00,"Texas, Louisiana",,,,FAILED
+1454,1085,Severe Weather,2021-03-01,22:45:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1455,1086,Severe Weather,2021-03-06,3:21:00,California,,Tuolumne County;,,FAILED
+1456,1087,Severe Weather,2021-03-17,6:15:00,Texas,,"Dallas County, Tarrant County;",,FAILED
+1457,1088,Severe Weather,2021-03-29,11:06:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1458,1089,Severe Weather,2021-04-13,16:49:00,Texas,,,,FAILED
+1459,1090,Severe Weather,2021-04-24,21:00:00,"Alabama, Georgia",,,,FAILED
+1460,1092,Severe Weather,2021-05-04,18:06:00,"Alabama, Georgia, Mississippi",,,,FAILED
+1461,1091,Severe Weather,2021-05-04,15:45:00,Arkansas,,,,FAILED
+1462,1093,Severe Weather,2021-05-18,23:25:00,Texas,,Harris County;,,FAILED
+1463,2463,Severe Weather/Transmission Interruption,2021-06-07,22:27:00,"Minnesota, North Dakota",,TRUE,,FAILED
+1464,2468,Severe Weather/Transmission Interruption,2021-06-11,3:26:00,South Dakota,Brown County;,TRUE,,FAILED
+1465,1094,Severe Weather,2021-06-21,5:14:00,Michigan,,,,FAILED
+1466,1095,Severe Weather,2021-06-28,13:20:00,"Idaho, Washington",,,,FAILED
+1467,1096,Severe Weather,2021-06-29,16:00:00,Michigan,,"Oakland County, Macomb County, Wayne County;",,FAILED
+1468,1097,Severe Weather,2021-06-30,18:50:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1469,2484,Severe Weather/Transmisison Interruption,2021-07-06,19:41:00,Ohio,,TRUE,,FAILED
+1470,1098,Severe Weather,2021-07-07,15:30:00,Michigan,,"Macomb County, Oakland County, Monroe County, Livingston County, St. Clair County, Washtenaw County, Wayne County;",,FAILED
+1471,2487,Severe Weather/Transmisison Interruption,2021-07-08,20:29:00,North Dakota,Stark County;,TRUE,,FAILED
+1472,2486,Severe Weather/Transmisison Interruption,2021-07-08,17:01:00,New York,,TRUE,,FAILED
+1473,1099,Severe Weather,2021-07-09,20:25:00,California,,Shasta County;,,FAILED
+1474,2491,Severe Weather/Transmisison Interruption,2021-07-10,0:30:00,"Nebraska, Missouri",,TRUE,,FAILED
+1475,2489,Severe Weather/Transmisison Interruption,2021-07-10,0:30:00,"Nebraska, Missouri",,TRUE,,FAILED
+1476,1100,Severe Weather,2021-07-10,0:00:00,Nebraska,,,,FAILED
+1477,1101,Severe Weather,2021-07-10,1:55:00,Missouri,,,,FAILED
+1478,2493,Severe Weather/Transmisison Interruption,2021-07-14,14:15:00,California,Plumas County;,TRUE,,FAILED
+1479,1102,Severe Weather,2021-07-21,14:45:00,Pennsylvania,,"Bucks County, Chester County, Delaware County, Montgomery County, Philadelphia County, York County;",,FAILED
+1480,1103,Severe Weather,2021-07-24,20:30:00,Michigan,,"Wayne County, Oakland County, Livingston County, Macomb County;",,FAILED
+1481,1104,Severe Weather,2021-08-01,23:37:00,California,,"Humboldt County, Trinity County;",,FAILED
+1482,2502,Severe Weather/Transmission Interruption,2021-08-02,0:18:00,Texas,Hays County;,TRUE,,FAILED
+1483,2501,Severe Weather/Transmission Interruption,2021-08-02,6:23:00,Texas,Hays County;,TRUE,,FAILED
+1484,1107,Severe Weather,2021-08-10,20:00:00,Wisconsin,,"Waukesha County, Milwaukee County, Kenosha County, Racine County, Washington County, Ozaukee County;",,FAILED
+1485,1105,Severe Weather,2021-08-10,22:30:00,Michigan,,"Allegan County, Antrim County, Barry County, Benzie County, Branch County, Calhoun County, Clare County, Clinton County, Crawford County, Eaton County, Genesee County, Gladwin County, Grand Traverse County, Gratiot County, Hillsdale County, Ingham County, Ionia County, Isabella County, Jackson County, Kalamazoo County, Kalkaska County, Kent County, Lake County, Leelanau County, Manistee County, Mason County, Mecosta County, Midland County, Missaukee County, Montcalm County, Muskegon County, Newaygo County, Oakland County, Oceana County, Ogemaw County, Osceola County, Oscoda County, Otsego County, Ottawa County, Roscommon County, Saginaw County, Shiawassee County, St. Joseph County, Van Buren County, Wexford County;",,FAILED
+1486,1106,Severe Weather,2021-08-10,20:30:00,Illinois,,,,FAILED
+1487,1108,Severe Weather,2021-08-11,15:35:00,Michigan,,"Huron County, Macomb County, Lapeer County, Macomb County, Monroe County, Oakland County, St. Clair County, Tuscola County, Wayne County, Washtenaw County, Livingston County;",,FAILED
+1488,1109,Severe Weather,2021-08-11,19:12:00,Ohio,,,,FAILED
+1489,1110,Severe Weather,2021-08-12,18:57:00,"Illinois, Missouri",,,,FAILED
+1490,1111,Severe Weather,2021-08-17,19:15:00,California,,"Butte County, Colusa County, Glenn County, Lake County, Lassen County, Mendocino County, Napa County, Plumas County, Shasta County, Sierra County, Solano County, Sonoma County, Tehama County, Trinity County, Yolo County;",,FAILED
+1491,1112,Severe Weather,2021-08-21,10:14:00,Idaho,,Elmore County;,,FAILED
+1492,1113,Severe Weather,2021-08-22,12:11:00,"Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1493,1115,Severe Weather,2021-08-24,17:00:00,Michigan,,"Arenac County, Bay County, Clare County, Genesee County, Gladwin County, Gratiot County, Isabella County, Iosco County, Kalamazoo County, Kent County, Barry County, Missaukee County, Montcalm County, Muskegon County, Newaygo County, Mecosta County, Midland County, Saginaw County, Ottawa County, Van Buren County;",,FAILED
+1494,1114,Severe Weather,2021-08-24,21:37:00,Michigan,,"Huron County, Lapeer County, Macomb County, Monroe County, Oakland County, St. Clair County, Wayne County, Washtenaw County;",,FAILED
+1495,1120,Severe Weather,2021-08-29,17:53:00,Louisiana,,,,FAILED
+1496,1119,Severe Weather,2021-08-29,22:39:00,Louisiana,,,,FAILED
+1497,1118,Severe Weather,2021-08-29,18:00:00,Louisiana,,,,FAILED
+1498,1117,Severe Weather,2021-08-29,18:04:00,Louisiana,,St. Charles Parish;,,FAILED
+1499,1116,Severe Weather,2021-08-29,11:30:00,Louisiana,,,,FAILED
+1500,1121,Severe Weather,2021-09-01,17:30:00,Pennsylvania,,"Bucks County, Chester County, Delaware County, Montgomery County, Philadelphia County, York County;",,FAILED
+1501,1123,Severe Weather,2021-09-07,20:00:00,Michigan,,Wayne County;,,FAILED
+1502,1122,Severe Weather,2021-09-07,17:30:00,Michigan,,"Osceola County, Kalamazoo County, Van Buren County, Saginaw County, Arenac County, Lake County, Clare County, Mecosta County;",,FAILED
+1503,1124,Severe Weather,2021-09-10,7:20:00,California,,,,FAILED
+1504,1125,Severe Weather,2021-09-10,1:55:00,Florida,,Citrus County;,,FAILED
+1505,1127,Severe Weather,2021-09-13,18:00:00,Texas,,Harris County;,,FAILED
+1506,1126,Severe Weather,2021-09-13,23:59:00,Texas,,Harris County;,,FAILED
+1507,1130,Severe Weather,2021-09-14,7:52:00,Texas,,,,FAILED
+1508,1129,Severe Weather,2021-09-14,7:36:00,Texas,,,,FAILED
+1509,1128,Severe Weather,2021-09-14,0:35:00,Texas,,Harris County;,,FAILED
+1510,1131,Severe Weather,2021-09-17,3:00:00,Minnesota,,,,FAILED
+1511,2522,Severe Weather/Transmission Interruption,2021-09-17,23:00:00,Washington,"Pierce County, Whatcom County, Skagit County, King County;",TRUE,,FAILED
+1512,1132,Severe Weather,2021-09-22,17:17:00,Michigan,,"Lenawee County, Livingston County, Genesee County, Tuscola County, Huron County, Sanilac County, Lapeer County, St. Clair County, Macomb County, Oakland County, Washtenaw County, Wayne County, Monroe County;",,FAILED
+1513,1133,Severe Weather,2021-10-10,22:15:00,Texas,,"Collin County, Dallas County, Denton County, Ellis County, Hunt County, Johnson County, Palo Pinto County, Tarrant County, Wichita County;",,FAILED
+1514,1134,Severe Weather,2021-10-11,14:22:00,California,,,,FAILED
+1515,1136,Severe Weather,2021-10-24,7:00:00,Washington,,"King County, Pierce County, Skagit County, Thurston County;",,FAILED
+1516,1135,Severe Weather,2021-10-24,8:55:00,California,,,,FAILED
+1517,1137,Severe Weather,2021-10-27,2:25:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1518,1139,Severe Weather,2021-10-28,14:45:00,Texas,,Harris County;,,FAILED
+1519,1138,Severe Weather,2021-10-28,14:15:00,Texas,,"Angelina County, Bell County, Cherokee County, Collin County, Denton County, Dallas County, Ellis County, Hunt County, Johnson County, McLennan County, Nacogdoches County, Smith County, Tarrant County, Travis County, Williamson County;",,FAILED
+1520,1140,Severe Weather,2021-11-15,11:00:00,Washington,,"King County, Kitsap County, Whatcom County, Thurston County, Pierce County;",,FAILED
+1521,1141,Severe Weather,2021-11-24,10:00:00,California,,"Riverside County, Ventura County, San Bernardino County, Orange County, Los Angeles County;",,FAILED
+1522,1143,Severe Weather,2021-12-11,18:16:00,New York,,,,FAILED
+1523,1142,Severe Weather,2021-12-11,3:13:00,Tennessee,,"Davidson County, Sumner County;",,FAILED
+1524,1145,Severe Weather,2021-12-11,10:30:00,Michigan,,"Van Buren County, Gladwin County, Montcalm County, Branch County, Allegan County, Ionia County, Newaygo County, Mecosta County, Lake County, Midland County, Ogemaw County, Osceola County, Tuscola County;",,FAILED
+1525,1144,Severe Weather,2021-12-11,11:13:00,Michigan,,,,FAILED
+1526,1146,Severe Weather,2021-12-14,7:28:00,California,,Humboldt County;,,FAILED
+1527,1153,Severe Weather,2021-12-15,16:37:00,"Missouri, Kansas",,,,FAILED
+1528,1152,Severe Weather,2021-12-15,21:00:00,"Minnesota, Iowa",,,,FAILED
+1529,1151,Severe Weather,2021-12-15,20:00:00,Wisconsin,,,,FAILED
+1530,1150,Severe Weather,2021-12-15,20:00:00,Wisconsin,,,,FAILED
+1531,1149,Severe Weather,2021-12-15,16:37:00,"Missouri, Kansas",,,,FAILED
+1532,1148,Severe Weather,2021-12-15,18:00:00,"Iowa, Wisconsin",,,,FAILED
+1533,1147,Severe Weather,2021-12-15,19:00:00,Kansas,,,,FAILED
+1534,1154,Severe Weather,2021-12-16,6:00:00,Michigan,,"Antrim County, Kalkaska County, Grand Traverse County, Leelanau County, Benzie County, Manistee County, Wexford County, Missaukee County, Lake County, Osceola County, Oceana County, Newaygo County, Mecosta County, Emmet County, Charlevoix County, Cheboygan County, Clare County, Roscommon County, Crawford County, Ogemaw County;",,FAILED
+1535,1155,Severe Weather,2021-12-27,4:11:00,California,,,,FAILED
+1536,1156,Severe Weather,2022-01-02,13:21:00,California,,Tuolumne County;,,FAILED
+1537,1157,Severe Weather,2022-01-03,5:00:00,South Carolina,,,,FAILED
+1538,1159,Severe Weather,2022-01-03,1:00:00,"Alabama, Georgia, Mississippi",,,,FAILED
+1539,1158,Severe Weather,2022-01-03,5:30:00,"North Carolina, South Carolina",,,,FAILED
+1540,1162,Severe Weather,2022-01-16,5:15:00,"Alabama, Georgia",,,,FAILED
+1541,1161,Severe Weather,2022-01-16,13:15:00,"North Carolina, South Carolina",,,,FAILED
+1542,1160,Severe Weather,2022-01-16,12:05:00,"North Carolina, South Carolina",,,,FAILED
+1543,1163,Severe Weather,2022-01-20,19:57:00,"Texas, Arkansas, Louisiana, Mississippi",,,,FAILED
+1544,1164,Severe Weather,2022-01-29,8:45:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1545,2598,Severe Weather/Transmission Interruption,2022-02-03,12:56:00,Ohio,,TRUE,,FAILED
+1546,2597,Severe Weather/Transmission Interruption,2022-02-03,12:56:00,Ohio,,TRUE,,FAILED
+1547,2596,Severe Weather/Transmission Interruption,2022-02-03,10:00:00,Tennessee,Shelby County;,TRUE,,FAILED
+1548,2600,Severe Weather/Transmission Interruption,2022-02-04,13:10:00,New York,Ulster County;,TRUE,,FAILED
+1549,1165,Severe Weather,2022-02-18,7:10:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1550,1166,Severe Weather,2022-03-12,8:33:00,"Alabama, Georgia, Mississippi, Florida",,,,FAILED
+1551,1167,Severe Weather,2022-03-21,19:00:00,Texas,,"Anderson County, Bell County, Bosque County, Comanche County, Coryell County, Falls County, Freestone County, Hamilton County, Henderson County, Hill County, Lampasas County, Leon County, Limestone County, McLennan County, Milam County, Mills County, Robertson County, Collin County, Cooke County, Dallas County, Denton County, Ellis County, Erath County, Fannin County, Grayson County, Hood County, Hunt County, Johnson County, Kaufman County, Navarro County, Parker County, Rains County, Rockwall County, Somervell County, Tarrant County, Van Zandt County, Wise County;",,FAILED
+1552,1168,Severe Weather,2022-03-30,15:45:00,"Arkansas, Louisiana, Mississippi",,,,FAILED
+1553,1169,Severe Weather,2022-03-31,8:59:00,Michigan,,"Huron County, Tuscola County, St. Clair County, Washtenaw County, Macomb County, Wayne County, Monroe County, Oakland County, Livingston County;",,FAILED
+1554,1170,Severe Weather,2022-03-31,0:04:00,"Alabama, Georgia, Mississippi, Florida",,,,FAILED
+1555,1171,Severe Weather,2022-04-11,9:15:00,Oregon,,"Multnomah County, Clackamas County, Marion County, Yamhill County, Washington County;",,FAILED
+1556,1174,Severe Weather,2022-04-19,4:07:00,New York,,"Broome County, Chemung County, Chenango County, Clinton County, Columbia County, Cortland County, Delaware County, Dutchess County, Erie County, Essex County, Greene County, Hamilton County, Herkimer County, Madison County, Oneida County, Otsego County, Putnam County, Saratoga County, Schoharie County, Schuyler County, Steuben County, Sullivan County, Tioga County, Tompkins County, Ulster County, Westchester County;",,FAILED
+1557,1173,Severe Weather,2022-04-19,8:41:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1558,1172,Severe Weather,2022-04-19,6:00:00,New York,,,,FAILED
+1559,1175,Severe Weather,2022-04-22,23:00:00,North Dakota,,,,FAILED
+1560,1176,Severe Weather,2022-04-22,23:16:00,"Montana, North Dakota",,,,FAILED
+1561,1178,Severe Weather,2022-04-23,19:42:00,"Illinois, Iowa",,,,FAILED
+1562,1177,Severe Weather,2022-04-23,15:38:00,North Dakota,,"Mountrail County, Williams County;",,FAILED
+1563,1179,Severe Weather,2022-05-11,18:00:00,Minnesota,,,,FAILED
+1564,1180,Severe Weather,2022-05-15,23:30:00,Texas,,"Collin County, Dallas County, Denton County, Ellis County, Grayson County, Henderson County, Hunt County, Kaufman County, Navarro County, Rockwall County, Smith County, Tarrant County, Van Zandt County;",,FAILED
+1565,1181,Severe Weather,2022-05-22,2:30:00,Texas,,Harris County;,,FAILED
+1566,1182,Severe Weather,2022-06-08,0:00:00,"Nebraska, Missouri, Kansas",,,,FAILED
+1567,2672,Severe Weather/Distribution Interruption,2022-06-08,1:00:00,Missouri,,TRUE,,FAILED
+1568,2671,Severe Weather/Transmission Interruption,2022-06-08,1:00:00,"Missouri, Kansas",,TRUE,,FAILED
+1569,2678,Severe Weather/Transmission Interruption,2022-06-12,23:30:00,"Indiana, West Virginia, Ohio, Virginia",,TRUE,,FAILED
+1570,2679,Severe Weather/Transmission Interruption,2022-06-13,18:00:00,"Kentucky, Ohio",,TRUE,,FAILED
+1571,1183,Severe Weather,2022-06-15,21:00:00,"Michigan, Wisconsin",,,,FAILED
+1572,1184,Severe Weather,2022-06-16,16:31:00,"North Carolina, South Carolina",,,,FAILED
+1573,1186,Severe Weather,2022-06-17,17:30:00,"Kentucky, West Virginia, Virginia",,,,FAILED
+1574,1188,Severe Weather,2022-06-17,6:02:00,"Illinois, Missouri",,,,FAILED
+1575,1185,Severe Weather,2022-06-17,18:45:00,North Carolina,,,,FAILED
+1576,1187,Severe Weather,2022-06-17,17:37:00,"North Carolina, South Carolina",,,,FAILED
+1577,2686,Severe Weather/Distribution Interruption,2022-06-22,16:56:00,Virginia,,TRUE,,FAILED
+1578,1189,Severe Weather,2022-06-27,14:26:00,Texas,,Victoria County;,,FAILED
+1579,2699,Severe Weather/Transmission Interruption,2022-07-06,14:39:00,"Kentucky, Ohio",,TRUE,,FAILED
+1580,1190,Severe Weather,2022-07-12,16:00:00,Maryland,,"Baltimore County, Carroll County, Harford County;",,FAILED
+1581,1191,Severe Weather,2022-07-12,18:00:00,Maryland,,,,FAILED
+1582,1192,Severe Weather,2022-07-23,20:45:00,Michigan,,"Muskegon County, Ottawa County, Kent County, Montcalm County, Ionia County, Allegan County, Van Buren County, Kalamazoo County, Barry County, Mason County, Shiawassee County, Ingham County, Genesee County, Saginaw County, Midland County, Wexford County, Grand Traverse County;",,FAILED
+1583,1195,Severe Weather,2022-08-03,17:00:00,Michigan,,"Allegan County, Van Buren County, Barry County, Kalamazoo County, Calhoun County, Jackson County, Calhoun County, Washtenaw County;",,FAILED
+1584,1193,Severe Weather,2022-08-03,2:30:00,"Minnesota, Wisconsin",,,,FAILED
+1585,1194,Severe Weather,2022-08-03,19:00:00,Michigan,,"Wayne County, Washtenaw County, St. Clair County, Macomb County, Monroe County, Oakland County;",,FAILED
+1586,1196,Severe Weather,2022-08-04,18:00:00,Maryland,,"Anne Arundel County, Baltimore County, Baltimore, City of[16];",,FAILED
+1587,1197,Severe Weather,2022-08-10,1:25:00,Arkansas,,Lawrence County;,,FAILED
+1588,1198,Severe Weather,2022-08-10,19:56:00,Texas,,Harris County;,,FAILED
+1589,1199,Severe Weather,2022-08-22,20:40:00,Texas,,El Paso County;,,FAILED
+1590,1200,Severe Weather,2022-08-29,15:00:00,Michigan,,"Ottawa County, Allegan County, Van Buren County, Montcalm County, Kent County, Barry County, Kalamazoo County, St. Joseph County, Branch County, Hillsdale County, Calhoun County, Jackson County, Eaton County, Clinton County, Shiawassee County, Montcalm County, Isabella County, Mecosta County, Midland County;",,FAILED
+1591,1201,Severe Weather,2022-08-29,17:50:00,Michigan,,,,FAILED
+1592,1202,Severe Weather,2022-09-01,15:00:00,California,,Shasta County;,,FAILED
+1593,1203,Severe Weather,2022-09-04,16:00:00,Texas,,"Tarrant County, Collin County, Dallas County, Ellis County, Kaufman County, Rockwall County, Williamson County, Denton County, Archer County;",,FAILED
+1594,1204,Severe Weather,2022-09-06,16:00:00,California,,Shasta County;,,FAILED
+1595,1205,Severe Weather,2022-09-07,16:00:00,California,,Shasta County;,,FAILED
+1596,1206,Severe Weather,2022-09-08,11:54:00,California,,Shasta County;,,FAILED
+1597,1207,Severe Weather,2022-09-09,16:00:00,California,,Shasta County;,,FAILED
+1598,1208,Severe Weather,2022-09-13,19:55:00,Texas,,El Paso County;,,FAILED
+1599,1209,Severe Weather,2022-09-28,15:00:00,Florida,,"Alachua County, Bay County, Citrus County, Columbia County, Dixie County, Franklin County, Gilchrist County, Gulf County, Hamilton County, Hardee County, Hernando County, Highlands County, Jefferson County, Lafayette County, Lake County, Levy County, Madison County, Marion County, Orange County, Osceola County, Pasco County, Pinellas County, Polk County, Seminole County, Sumter County, Suwannee County, Taylor County, Volusia County, Wakulla County;",,FAILED
+1600,1210,Severe Weather,2022-09-28,18:00:00,Florida,,,,FAILED
+1601,1211,Severe Weather,2022-09-28,15:00:00,Florida,,"Hillsborough County, Polk County, Pasco County, Pinellas County;",,FAILED
+1602,1212,Severe Weather,2022-09-29,4:00:00,Florida,,"Orange County, Osceola County;",,FAILED
+1603,1213,Severe Weather,2022-09-29,3:27:00,Florida,,Polk County;,,FAILED
+1604,1214,Severe Weather,2022-09-30,18:30:00,"North Carolina, South Carolina",,,,FAILED
+1605,1215,Severe Weather,2022-09-30,13:46:00,South Carolina,,,,FAILED
+1606,1216,Severe Weather,2022-09-30,2:45:00,North Carolina,,,,FAILED
+1607,1217,Severe Weather,2022-11-04,20:05:00,Washington,,"Island County, King County, Kittitas County, Thurston County, Kitsap County, Pierce County, Skagit County, Whatcom County;",,FAILED
+1608,1218,Severe Weather,2022-11-05,13:00:00,Michigan,,"Kalamazoo County, Kent County, Calhoun County, Genesee County, Ottawa County, Muskegon County, Eaton County, Saginaw County, Van Buren County, Hillsdale County, Shiawassee County, Jackson County, Lenawee County, Branch County, Montcalm County, Monroe County, Manistee County, Roscommon County, Clinton County, Ingham County, Gladwin County, Arenac County, Ogemaw County, Iosco County, Alcona County;",,FAILED
+1609,1219,Severe Weather,2022-11-05,19:57:00,Michigan,,"Oakland County, Wayne County, Monroe County, Lapeer County, St. Clair County, Washtenaw County, Macomb County, Tuscola County, Sanilac County, Huron County;",,FAILED
+1610,1220,Severe Weather,2022-11-05,19:00:00,Wisconsin,,,,FAILED
+1611,1221,Severe Weather,2022-11-10,6:00:00,Florida,,"Alachua County, Bay County, Citrus County, Columbia County, Dixie County, Franklin County, Gilchrist County, Gulf County, Hamilton County, Hardee County, Hernando County, Highlands County, Jefferson County, Lafayette County, Lake County, Levy County, Madison County, Marion County, Orange County, Osceola County, Pasco County, Pinellas County, Polk County, Seminole County, Sumter County, Suwannee County, Taylor County, Volusia County, Wakulla County;",,FAILED
+1612,1222,Severe Weather,2022-11-30,18:45:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1613,1223,Severe Weather,2022-11-30,3:35:00,"Alabama, Georgia, Mississippi",,,,FAILED
+1614,1224,Severe Weather,2022-12-16,23:30:00,"New Hampshire, Maine, Massachusetts, Vermont",,,,FAILED
+1615,1225,Severe Weather,2022-12-23,14:30:00,New York,,,,FAILED
+1616,1226,Severe Weather,2022-12-23,5:20:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1617,1227,Severe Weather,2022-12-23,9:45:00,North Carolina,,,,FAILED
+1618,1228,Severe Weather,2022-12-23,7:30:00,"North Carolina, South Carolina",,,,FAILED
+1619,1229,Severe Weather,2022-12-23,8:31:00,Tennessee,,Shelby County;,,FAILED
+1620,1230,Severe Weather,2022-12-23,3:03:00,"Alabama, Georgia, Mississippi",,,,FAILED
+1621,1231,Severe Weather,2022-12-23,7:19:00,Missouri,,Jasper County;,,FAILED
+1622,1234,Severe Weather,2022-12-24,9:00:00,"Alabama, Georgia, Mississippi",,,,FAILED
+1623,1233,Severe Weather,2022-12-24,4:45:00,"North Carolina, South Carolina",,,,FAILED
+1624,1232,Severe Weather,2022-12-24,6:15:00,South Carolina,,,,FAILED
+1625,1235,Severe Weather,2022-12-26,8:30:00,Washington,,"King County, Island County, Kittitas County, Kitsap County, Pierce County, Skagit County, Thurston County, Whatcom County;",,FAILED
+1626,1236,Severe Weather,2022-12-27,10:12:00,Oregon,,"Clackamas County, Columbia County, Marion County, Multnomah County, Polk County;",,FAILED
+1627,1237,Severe Weather,2022-12-27,20:40:00,Washington,,King County;,,FAILED
+1628,1238,Severe Weather,2022-12-31,20:00:00,Nevada,,,,FAILED
+1629,1239,Severe Weather,2022-12-31,19:00:00,California,,Sacramento County;,,FAILED
+1630,1240,Severe Weather,2023-01-02,18:22:00,"Arkansas, Louisiana",,,,FAILED
+1631,1241,Severe Weather,2023-01-07,22:00:00,California,,Sacramento County;,,FAILED
+1632,1242,Severe Weather,2023-01-12,14:00:00,"Alabama, Georgia",,,,FAILED
+1633,1243,Severe Weather,2023-01-23,7:05:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1634,1244,Severe Weather,2023-01-24,15:25:00,Texas,,Harris County;,,FAILED
+1635,1245,Severe Weather,2023-01-25,3:30:00,"Texas, Arkansas, Louisiana, Mississippi",,,,FAILED
+1636,1246,Severe Weather,2023-01-31,8:15:00,Texas,,"Dallas County, Anderson County, Bosque County, Collin County, Comanche County, Cooke County, Delta County, Denton County, Ellis County, Erath County, Fannin County, Freestone County, Hamilton County, Henderson County, Hill County, Hood County, Hopkins County, Hunt County, Jack County, Johnson County, Kaufman County, Lamar County, Navarro County, Palo Pinto County, Parker County, Rains County, Red River County, Rockwall County, Somervell County, Tarrant County, Van Zandt County, Wichita County, Wise County;",,FAILED
+1637,1247,Severe Weather,2023-02-01,5:00:00,Texas,,Travis County;,,FAILED
+1638,1248,Severe Weather,2023-02-02,8:15:00,"Texas, Arkansas, Mississippi",,,,FAILED
+1639,1249,Severe Weather,2023-02-22,18:41:00,Michigan,,"Van Buren County, Kalamazoo County, St. Joseph County, Calhoun County, Branch County, Hillsdale County, Jackson County, Washtenaw County, Monroe County, Lenawee County, Ingham County, Barry County, Allegan County, Ottawa County, Eaton County, Ingham County, Shiawassee County, Clinton County;",,FAILED
+1640,1250,Severe Weather,2023-02-22,18:30:00,Michigan,,,,FAILED
+1641,1251,Severe Weather,2023-02-23,4:30:00,"Michigan, Wisconsin",,,,FAILED
+1642,1252,Severe Weather,2023-02-25,0:08:00,California,,Los Angeles County;,,FAILED
+1643,1253,Severe Weather,2023-02-27,13:25:00,Michigan,,"Newaygo County, Oceana County, Ionia County, Montcalm County, Jackson County, Van Buren County, Washtenaw County, Hillsdale County, Lenawee County;",,FAILED
+1644,1254,Severe Weather,2023-03-02,19:00:00,Texas,,"Montague County, Cooke County, Grayson County, Fannin County, Lamar County, Young County, Jack County, Wise County, Denton County, Collin County, Hunt County, Delta County, Hopkins County, Stephens County, Palo Pinto County, Parker County, Tarrant County, Dallas County, Rockwall County, Kaufman County, Van Zandt County, Rains County, Eastland County, Erath County, Hood County, Somervell County, Johnson County, Ellis County, Henderson County, Comanche County, Mills County, Hamilton County, Bosque County, Hill County, Navarro County, Freestone County, Anderson County, Lampasas County, Coryell County, Bell County, McLennan County, Falls County, Limestone County, Leon County, Milam County, Robertson County;",,FAILED
+1645,1260,Severe Weather,2023-03-03,15:40:00,"Kentucky, Washington, Virginia",,,,FAILED
+1646,1259,Severe Weather,2023-03-03,12:45:00,"Alabama, Georgia, Mississippi",,,,FAILED
+1647,1258,Severe Weather,2023-03-03,17:50:00,Michigan,,,,FAILED
+1648,1256,Severe Weather,2023-03-03,19:28:00,"Kentucky, Ohio",,,,FAILED
+1649,1255,Severe Weather,2023-03-03,15:40:00,"Kentucky, Washington, Virginia",,,,FAILED
+1650,1257,Severe Weather,2023-03-03,14:00:00,Tennessee,,Davidson County;,,FAILED
+1651,1261,Severe Weather,2023-03-09,18:00:00,Wisconsin,,"Walworth County, Waukesha County, Milwaukee County, Racine County, Ozaukee County, Kenosha County;",,FAILED
+1652,1262,Severe Weather,2023-03-14,8:00:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1653,1263,Severe Weather,2023-03-14,9:25:00,New York,,,,FAILED
+1654,1264,Severe Weather,2023-03-25,16:13:00,Michigan,,,,FAILED
+1655,1265,Severe Weather,2023-03-25,16:12:00,"West Virginia, Ohio, Virginia",,,,FAILED
+1656,1266,Severe Weather,2023-03-31,18:00:00,Arkansas,,,,FAILED
+1657,1267,Severe Weather,2023-03-31,23:00:00,Minnesota,,"Ramsey County, Hennepin County, Dakota County, Washington County;",,FAILED
+1658,1268,Severe Weather,2023-03-31,20:49:00,Illinois,,,,FAILED
+1659,1269,Severe Weather,2023-04-01,14:00:00,"West Virginia, Ohio, Virginia",,,,FAILED
+1660,1270,Severe Weather,2023-04-29,0:00:00,Texas,,"Hidalgo County, Cameron County, Willacy County, Starr County;",,FAILED
+1661,1271,Severe Weather,2023-05-01,5:16:00,"New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island, Vermont",,,,FAILED
+1662,1272,Severe Weather,2023-05-22,15:39:00,Florida,,Putnam County;,,FAILED
