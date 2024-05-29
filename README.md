@@ -10,4 +10,6 @@ Update summary, features, findings, examples, etc.
 Using a processed datatable, the [request script](https://github.com/rct4/Climate_Prediction/blob/master/scripts/cds_request.py) is used to collect global ERA5 reanalysis data for each event date listed in the table. Data is saved in XArray format with [month]-[date]-[year].nc format. Due to large size, data stored locally on Keeling HPC.
 
 ## Data Visualization
-Kernel density plots suggest common themes among power outage events. Results suggests possible inconsistencies in ERA5 data. 
+Kernel density plots suggest common themes among power outage events. Results suggests ERA5 data may need certain sample sizes and regions to ensure accuracy when running ML models.
+
+## 
